@@ -20,12 +20,16 @@ def modify_dates(txt):
 
 def preprocess(datapath):
     df1 = pd.read_csv(datapath)
-    df1 = df1.set_index('Data (mm-dd)').unstack().to_frame('total').reset_index()
+    for name in ['Data (mm-dd)', 'Data']:
+        if name in df1.columns:
+            datacol = name
+            break
+    df1 = df1.set_index(datacol).unstack().to_frame('total').reset_index()
     df1 = df1.rename(columns={'level_0': 'ano'})
-    df1['Data (mm-dd)'] = df1['Data (mm-dd)'].apply(modify_dates)
-    df1['Data (mm-dd)'] = df1.ano + '-' + df1['Data (mm-dd)']
+    df1[datacol] = df1[datacol].apply(modify_dates)
+    df1[datacol] = df1.ano + '-' + df1[datacol]
     df1 = df1[df1.total.notnull()]
-    df1['data'] = pd.to_datetime(df1['Data (mm-dd)'])
+    df1['data'] = pd.to_datetime(df1[datacol])
     df1['total'] = df1['total'].astype(int)
     return df1[['data', 'total']]
 
