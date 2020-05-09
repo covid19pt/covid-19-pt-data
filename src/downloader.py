@@ -18,12 +18,32 @@ def modify_dates(txt):
     m,d = txt.split('-')
     return mapper.get(m, m) + '-' + d
 
+
 def preprocess(datapath):
-    df1 = pd.read_csv(datapath)
-    for name in ['Data (mm-dd)', 'Data']:
-        if name in df1.columns:
-            datacol = name
-            break
+    data = pd.read_csv(datapath)
+    if "Distrito" in data.columns:
+        return preprocess_districts(data)
+    else:
+        return preprocess_global(data)
+
+
+def get_data_col(df):
+    for name in ["Data (mm-dd)", "Data"]:
+        if name in df.columns:
+            return name
+
+
+def preprocess_districts(df):
+    datacol = get_data_col(df)
+    df[datacol] = df[datacol].apply(modify_dates)
+    df[datacol] = "2020" + '-' + df[datacol]
+    df["data"] = pd.to_datetime(df[datacol])
+    return df[["data", "Distrito", "Óbitos"]], "mortalidade_distritos_2020.csv"
+
+
+def preprocess_global(data):
+    df1 = data
+    datacol = get_data_col(df1)
     df1 = df1.set_index(datacol).unstack().to_frame('total').reset_index()
     df1 = df1.rename(columns={'level_0': 'ano'})
     df1[datacol] = df1[datacol].apply(modify_dates)
@@ -31,7 +51,8 @@ def preprocess(datapath):
     df1 = df1[df1.total.notnull()]
     df1['data'] = pd.to_datetime(df1[datacol])
     df1['total'] = df1['total'].astype(int)
-    return df1[['data', 'total']]
+    return df1[['data', 'total']], "mortalidade.csv"
+
 
 def search_download(include_today=False):
     dpaths = list(Path('~/Downloads').expanduser().glob('Dados_SICO_*.csv'))
@@ -41,15 +62,15 @@ def search_download(include_today=False):
     elif len(dpaths) > 1:
         print('Multiple files found in Downloads')
         sys.exit()
-    data = preprocess(dpaths[0])
+    data, outputname = preprocess(dpaths[0])
     if not include_today:
         if data['data'].max().date() == datetime.date.today():
             print('Last date is today! Removing')
             data = data[data['data'] != data['data'].max()]
-    outputpath = Path(BASEPATH).expanduser() / 'mortalidade.csv'
+    outputpath = Path(BASEPATH).expanduser() / outputname
     data.to_csv(outputpath, index=False)
     print('Updated mortalidade file')
-    archivepath = Path(BASEPATH).expanduser() / 'archive' / dpaths[0].name
+    archivepath = Path(BASEPATH).expanduser() / 'archive' / outputname[:-4] /dpaths[0].name
     shutil.move(dpaths[0], archivepath)
     print('Archived the file in ', archivepath)
 
