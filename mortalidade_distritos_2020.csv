@@ -1,0 +1,4000 @@
+data,Distrito,Óbitos
+2020-01-01,Aveiro,20
+2020-01-02,Aveiro,15
+2020-01-03,Aveiro,20
+2020-01-04,Aveiro,23
+2020-01-05,Aveiro,20
+2020-01-06,Aveiro,26
+2020-01-07,Aveiro,31
+2020-01-08,Aveiro,28
+2020-01-09,Aveiro,15
+2020-01-10,Aveiro,32
+2020-01-11,Aveiro,28
+2020-01-12,Aveiro,22
+2020-01-13,Aveiro,25
+2020-01-14,Aveiro,17
+2020-01-15,Aveiro,25
+2020-01-16,Aveiro,20
+2020-01-17,Aveiro,25
+2020-01-18,Aveiro,23
+2020-01-19,Aveiro,19
+2020-01-20,Aveiro,21
+2020-01-21,Aveiro,26
+2020-01-22,Aveiro,20
+2020-01-23,Aveiro,40
+2020-01-24,Aveiro,17
+2020-01-25,Aveiro,25
+2020-01-26,Aveiro,30
+2020-01-27,Aveiro,27
+2020-01-28,Aveiro,29
+2020-01-29,Aveiro,29
+2020-01-30,Aveiro,24
+2020-01-31,Aveiro,28
+2020-02-01,Aveiro,31
+2020-02-02,Aveiro,34
+2020-02-03,Aveiro,21
+2020-02-04,Aveiro,27
+2020-02-05,Aveiro,19
+2020-02-06,Aveiro,25
+2020-02-07,Aveiro,15
+2020-02-08,Aveiro,25
+2020-02-09,Aveiro,26
+2020-02-10,Aveiro,17
+2020-02-11,Aveiro,25
+2020-02-12,Aveiro,26
+2020-02-13,Aveiro,26
+2020-02-14,Aveiro,19
+2020-02-15,Aveiro,24
+2020-02-16,Aveiro,15
+2020-02-17,Aveiro,31
+2020-02-18,Aveiro,25
+2020-02-19,Aveiro,18
+2020-02-20,Aveiro,23
+2020-02-21,Aveiro,27
+2020-02-22,Aveiro,21
+2020-02-23,Aveiro,21
+2020-02-24,Aveiro,21
+2020-02-25,Aveiro,18
+2020-02-26,Aveiro,23
+2020-02-27,Aveiro,25
+2020-02-28,Aveiro,23
+2020-02-29,Aveiro,24
+2020-03-01,Aveiro,23
+2020-03-02,Aveiro,22
+2020-03-03,Aveiro,25
+2020-03-04,Aveiro,22
+2020-03-05,Aveiro,17
+2020-03-06,Aveiro,20
+2020-03-07,Aveiro,16
+2020-03-08,Aveiro,21
+2020-03-09,Aveiro,20
+2020-03-10,Aveiro,18
+2020-03-11,Aveiro,23
+2020-03-12,Aveiro,26
+2020-03-13,Aveiro,18
+2020-03-14,Aveiro,31
+2020-03-15,Aveiro,18
+2020-03-16,Aveiro,24
+2020-03-17,Aveiro,24
+2020-03-18,Aveiro,21
+2020-03-19,Aveiro,31
+2020-03-20,Aveiro,22
+2020-03-21,Aveiro,25
+2020-03-22,Aveiro,20
+2020-03-23,Aveiro,27
+2020-03-24,Aveiro,28
+2020-03-25,Aveiro,21
+2020-03-26,Aveiro,23
+2020-03-27,Aveiro,23
+2020-03-28,Aveiro,31
+2020-03-29,Aveiro,21
+2020-03-30,Aveiro,35
+2020-03-31,Aveiro,33
+2020-04-01,Aveiro,21
+2020-04-02,Aveiro,27
+2020-04-03,Aveiro,28
+2020-04-04,Aveiro,33
+2020-04-05,Aveiro,31
+2020-04-06,Aveiro,31
+2020-04-07,Aveiro,31
+2020-04-08,Aveiro,28
+2020-04-09,Aveiro,25
+2020-04-10,Aveiro,25
+2020-04-11,Aveiro,26
+2020-04-12,Aveiro,13
+2020-04-13,Aveiro,34
+2020-04-14,Aveiro,27
+2020-04-15,Aveiro,21
+2020-04-16,Aveiro,25
+2020-04-17,Aveiro,23
+2020-04-18,Aveiro,29
+2020-04-19,Aveiro,25
+2020-04-20,Aveiro,25
+2020-04-21,Aveiro,13
+2020-04-22,Aveiro,17
+2020-04-23,Aveiro,16
+2020-04-24,Aveiro,20
+2020-04-25,Aveiro,18
+2020-04-26,Aveiro,19
+2020-04-27,Aveiro,21
+2020-04-28,Aveiro,16
+2020-04-29,Aveiro,18
+2020-04-30,Aveiro,18
+2020-05-01,Aveiro,24
+2020-05-02,Aveiro,22
+2020-05-03,Aveiro,17
+2020-05-04,Aveiro,14
+2020-05-05,Aveiro,16
+2020-05-06,Aveiro,10
+2020-05-07,Aveiro,23
+2020-05-08,Aveiro,20
+2020-01-01,Beja,3
+2020-01-02,Beja,11
+2020-01-03,Beja,11
+2020-01-04,Beja,6
+2020-01-05,Beja,9
+2020-01-06,Beja,9
+2020-01-07,Beja,8
+2020-01-08,Beja,8
+2020-01-09,Beja,3
+2020-01-10,Beja,5
+2020-01-11,Beja,9
+2020-01-12,Beja,11
+2020-01-13,Beja,5
+2020-01-14,Beja,5
+2020-01-15,Beja,9
+2020-01-16,Beja,4
+2020-01-17,Beja,8
+2020-01-18,Beja,6
+2020-01-19,Beja,6
+2020-01-20,Beja,9
+2020-01-21,Beja,6
+2020-01-22,Beja,7
+2020-01-23,Beja,9
+2020-01-24,Beja,7
+2020-01-25,Beja,11
+2020-01-26,Beja,9
+2020-01-27,Beja,9
+2020-01-28,Beja,8
+2020-01-29,Beja,7
+2020-01-30,Beja,8
+2020-01-31,Beja,8
+2020-02-01,Beja,5
+2020-02-02,Beja,9
+2020-02-03,Beja,5
+2020-02-04,Beja,12
+2020-02-05,Beja,9
+2020-02-06,Beja,6
+2020-02-07,Beja,4
+2020-02-08,Beja,3
+2020-02-09,Beja,6
+2020-02-10,Beja,7
+2020-02-11,Beja,5
+2020-02-12,Beja,14
+2020-02-13,Beja,4
+2020-02-14,Beja,6
+2020-02-15,Beja,12
+2020-02-16,Beja,3
+2020-02-17,Beja,10
+2020-02-18,Beja,5
+2020-02-19,Beja,11
+2020-02-20,Beja,7
+2020-02-21,Beja,9
+2020-02-22,Beja,8
+2020-02-23,Beja,7
+2020-02-24,Beja,8
+2020-02-25,Beja,8
+2020-02-26,Beja,4
+2020-02-27,Beja,9
+2020-02-28,Beja,7
+2020-02-29,Beja,5
+2020-03-01,Beja,12
+2020-03-02,Beja,10
+2020-03-03,Beja,2
+2020-03-04,Beja,2
+2020-03-05,Beja,6
+2020-03-06,Beja,6
+2020-03-07,Beja,7
+2020-03-08,Beja,7
+2020-03-09,Beja,3
+2020-03-10,Beja,2
+2020-03-11,Beja,7
+2020-03-12,Beja,8
+2020-03-13,Beja,4
+2020-03-14,Beja,10
+2020-03-15,Beja,4
+2020-03-16,Beja,3
+2020-03-17,Beja,11
+2020-03-18,Beja,4
+2020-03-19,Beja,10
+2020-03-20,Beja,13
+2020-03-21,Beja,9
+2020-03-22,Beja,8
+2020-03-23,Beja,7
+2020-03-24,Beja,8
+2020-03-25,Beja,5
+2020-03-26,Beja,6
+2020-03-27,Beja,6
+2020-03-28,Beja,2
+2020-03-29,Beja,9
+2020-03-30,Beja,6
+2020-03-31,Beja,9
+2020-04-01,Beja,10
+2020-04-02,Beja,5
+2020-04-03,Beja,4
+2020-04-04,Beja,13
+2020-04-05,Beja,3
+2020-04-06,Beja,5
+2020-04-07,Beja,7
+2020-04-08,Beja,11
+2020-04-09,Beja,13
+2020-04-10,Beja,8
+2020-04-11,Beja,7
+2020-04-12,Beja,12
+2020-04-13,Beja,5
+2020-04-14,Beja,4
+2020-04-15,Beja,10
+2020-04-16,Beja,4
+2020-04-17,Beja,5
+2020-04-18,Beja,5
+2020-04-19,Beja,8
+2020-04-20,Beja,8
+2020-04-21,Beja,8
+2020-04-22,Beja,10
+2020-04-23,Beja,6
+2020-04-24,Beja,8
+2020-04-25,Beja,6
+2020-04-26,Beja,5
+2020-04-27,Beja,9
+2020-04-28,Beja,5
+2020-04-29,Beja,5
+2020-04-30,Beja,5
+2020-05-01,Beja,11
+2020-05-02,Beja,6
+2020-05-03,Beja,5
+2020-05-04,Beja,2
+2020-05-05,Beja,9
+2020-05-06,Beja,4
+2020-05-07,Beja,8
+2020-05-08,Beja,7
+2020-01-01,Braga,30
+2020-01-02,Braga,28
+2020-01-03,Braga,23
+2020-01-04,Braga,31
+2020-01-05,Braga,22
+2020-01-06,Braga,25
+2020-01-07,Braga,17
+2020-01-08,Braga,27
+2020-01-09,Braga,26
+2020-01-10,Braga,25
+2020-01-11,Braga,24
+2020-01-12,Braga,28
+2020-01-13,Braga,23
+2020-01-14,Braga,23
+2020-01-15,Braga,27
+2020-01-16,Braga,13
+2020-01-17,Braga,22
+2020-01-18,Braga,20
+2020-01-19,Braga,31
+2020-01-20,Braga,23
+2020-01-21,Braga,21
+2020-01-22,Braga,20
+2020-01-23,Braga,18
+2020-01-24,Braga,24
+2020-01-25,Braga,23
+2020-01-26,Braga,27
+2020-01-27,Braga,36
+2020-01-28,Braga,26
+2020-01-29,Braga,18
+2020-01-30,Braga,29
+2020-01-31,Braga,24
+2020-02-01,Braga,19
+2020-02-02,Braga,20
+2020-02-03,Braga,28
+2020-02-04,Braga,22
+2020-02-05,Braga,18
+2020-02-06,Braga,12
+2020-02-07,Braga,22
+2020-02-08,Braga,21
+2020-02-09,Braga,23
+2020-02-10,Braga,20
+2020-02-11,Braga,21
+2020-02-12,Braga,19
+2020-02-13,Braga,19
+2020-02-14,Braga,30
+2020-02-15,Braga,20
+2020-02-16,Braga,17
+2020-02-17,Braga,23
+2020-02-18,Braga,26
+2020-02-19,Braga,21
+2020-02-20,Braga,23
+2020-02-21,Braga,23
+2020-02-22,Braga,19
+2020-02-23,Braga,25
+2020-02-24,Braga,16
+2020-02-25,Braga,17
+2020-02-26,Braga,23
+2020-02-27,Braga,31
+2020-02-28,Braga,19
+2020-02-29,Braga,19
+2020-03-01,Braga,21
+2020-03-02,Braga,10
+2020-03-03,Braga,24
+2020-03-04,Braga,20
+2020-03-05,Braga,16
+2020-03-06,Braga,12
+2020-03-07,Braga,23
+2020-03-08,Braga,19
+2020-03-09,Braga,21
+2020-03-10,Braga,19
+2020-03-11,Braga,28
+2020-03-12,Braga,22
+2020-03-13,Braga,26
+2020-03-14,Braga,29
+2020-03-15,Braga,19
+2020-03-16,Braga,31
+2020-03-17,Braga,16
+2020-03-18,Braga,20
+2020-03-19,Braga,15
+2020-03-20,Braga,24
+2020-03-21,Braga,25
+2020-03-22,Braga,23
+2020-03-23,Braga,12
+2020-03-24,Braga,22
+2020-03-25,Braga,27
+2020-03-26,Braga,23
+2020-03-27,Braga,22
+2020-03-28,Braga,24
+2020-03-29,Braga,26
+2020-03-30,Braga,21
+2020-03-31,Braga,33
+2020-04-01,Braga,17
+2020-04-02,Braga,22
+2020-04-03,Braga,16
+2020-04-04,Braga,29
+2020-04-05,Braga,25
+2020-04-06,Braga,30
+2020-04-07,Braga,20
+2020-04-08,Braga,20
+2020-04-09,Braga,24
+2020-04-10,Braga,28
+2020-04-11,Braga,18
+2020-04-12,Braga,20
+2020-04-13,Braga,30
+2020-04-14,Braga,19
+2020-04-15,Braga,27
+2020-04-16,Braga,24
+2020-04-17,Braga,19
+2020-04-18,Braga,22
+2020-04-19,Braga,25
+2020-04-20,Braga,21
+2020-04-21,Braga,23
+2020-04-22,Braga,20
+2020-04-23,Braga,27
+2020-04-24,Braga,19
+2020-04-25,Braga,23
+2020-04-26,Braga,26
+2020-04-27,Braga,21
+2020-04-28,Braga,23
+2020-04-29,Braga,15
+2020-04-30,Braga,25
+2020-05-01,Braga,25
+2020-05-02,Braga,20
+2020-05-03,Braga,13
+2020-05-04,Braga,16
+2020-05-05,Braga,22
+2020-05-06,Braga,22
+2020-05-07,Braga,20
+2020-05-08,Braga,22
+2020-01-01,Bragança,1
+2020-01-02,Bragança,9
+2020-01-03,Bragança,3
+2020-01-04,Bragança,8
+2020-01-05,Bragança,9
+2020-01-06,Bragança,5
+2020-01-07,Bragança,6
+2020-01-08,Bragança,7
+2020-01-09,Bragança,5
+2020-01-10,Bragança,10
+2020-01-11,Bragança,4
+2020-01-12,Bragança,10
+2020-01-13,Bragança,4
+2020-01-14,Bragança,3
+2020-01-15,Bragança,11
+2020-01-16,Bragança,6
+2020-01-17,Bragança,6
+2020-01-18,Bragança,13
+2020-01-19,Bragança,6
+2020-01-20,Bragança,6
+2020-01-21,Bragança,6
+2020-01-22,Bragança,7
+2020-01-23,Bragança,3
+2020-01-24,Bragança,4
+2020-01-25,Bragança,4
+2020-01-26,Bragança,13
+2020-01-27,Bragança,2
+2020-01-28,Bragança,4
+2020-01-29,Bragança,7
+2020-01-30,Bragança,5
+2020-01-31,Bragança,4
+2020-02-01,Bragança,0
+2020-02-02,Bragança,6
+2020-02-03,Bragança,6
+2020-02-04,Bragança,3
+2020-02-05,Bragança,7
+2020-02-06,Bragança,10
+2020-02-07,Bragança,4
+2020-02-08,Bragança,7
+2020-02-09,Bragança,9
+2020-02-10,Bragança,4
+2020-02-11,Bragança,5
+2020-02-12,Bragança,9
+2020-02-13,Bragança,4
+2020-02-14,Bragança,7
+2020-02-15,Bragança,3
+2020-02-16,Bragança,4
+2020-02-17,Bragança,8
+2020-02-18,Bragança,8
+2020-02-19,Bragança,7
+2020-02-20,Bragança,2
+2020-02-21,Bragança,3
+2020-02-22,Bragança,5
+2020-02-23,Bragança,9
+2020-02-24,Bragança,4
+2020-02-25,Bragança,8
+2020-02-26,Bragança,8
+2020-02-27,Bragança,5
+2020-02-28,Bragança,9
+2020-02-29,Bragança,8
+2020-03-01,Bragança,11
+2020-03-02,Bragança,6
+2020-03-03,Bragança,3
+2020-03-04,Bragança,6
+2020-03-05,Bragança,7
+2020-03-06,Bragança,10
+2020-03-07,Bragança,7
+2020-03-08,Bragança,2
+2020-03-09,Bragança,7
+2020-03-10,Bragança,7
+2020-03-11,Bragança,8
+2020-03-12,Bragança,8
+2020-03-13,Bragança,7
+2020-03-14,Bragança,3
+2020-03-15,Bragança,5
+2020-03-16,Bragança,3
+2020-03-17,Bragança,3
+2020-03-18,Bragança,5
+2020-03-19,Bragança,5
+2020-03-20,Bragança,8
+2020-03-21,Bragança,8
+2020-03-22,Bragança,6
+2020-03-23,Bragança,5
+2020-03-24,Bragança,8
+2020-03-25,Bragança,9
+2020-03-26,Bragança,8
+2020-03-27,Bragança,3
+2020-03-28,Bragança,4
+2020-03-29,Bragança,5
+2020-03-30,Bragança,5
+2020-03-31,Bragança,6
+2020-04-01,Bragança,6
+2020-04-02,Bragança,10
+2020-04-03,Bragança,4
+2020-04-04,Bragança,7
+2020-04-05,Bragança,8
+2020-04-06,Bragança,9
+2020-04-07,Bragança,10
+2020-04-08,Bragança,4
+2020-04-09,Bragança,8
+2020-04-10,Bragança,4
+2020-04-11,Bragança,6
+2020-04-12,Bragança,5
+2020-04-13,Bragança,4
+2020-04-14,Bragança,6
+2020-04-15,Bragança,11
+2020-04-16,Bragança,7
+2020-04-17,Bragança,5
+2020-04-18,Bragança,6
+2020-04-19,Bragança,2
+2020-04-20,Bragança,10
+2020-04-21,Bragança,3
+2020-04-22,Bragança,14
+2020-04-23,Bragança,6
+2020-04-24,Bragança,12
+2020-04-25,Bragança,9
+2020-04-26,Bragança,1
+2020-04-27,Bragança,4
+2020-04-28,Bragança,5
+2020-04-29,Bragança,4
+2020-04-30,Bragança,5
+2020-05-01,Bragança,5
+2020-05-02,Bragança,11
+2020-05-03,Bragança,6
+2020-05-04,Bragança,7
+2020-05-05,Bragança,6
+2020-05-06,Bragança,2
+2020-05-07,Bragança,7
+2020-05-08,Bragança,8
+2020-01-01,Castelo Branco,10
+2020-01-02,Castelo Branco,10
+2020-01-03,Castelo Branco,9
+2020-01-04,Castelo Branco,5
+2020-01-05,Castelo Branco,7
+2020-01-06,Castelo Branco,6
+2020-01-07,Castelo Branco,10
+2020-01-08,Castelo Branco,10
+2020-01-09,Castelo Branco,7
+2020-01-10,Castelo Branco,10
+2020-01-11,Castelo Branco,6
+2020-01-12,Castelo Branco,10
+2020-01-13,Castelo Branco,7
+2020-01-14,Castelo Branco,12
+2020-01-15,Castelo Branco,5
+2020-01-16,Castelo Branco,14
+2020-01-17,Castelo Branco,12
+2020-01-18,Castelo Branco,7
+2020-01-19,Castelo Branco,17
+2020-01-20,Castelo Branco,10
+2020-01-21,Castelo Branco,9
+2020-01-22,Castelo Branco,12
+2020-01-23,Castelo Branco,13
+2020-01-24,Castelo Branco,9
+2020-01-25,Castelo Branco,12
+2020-01-26,Castelo Branco,7
+2020-01-27,Castelo Branco,9
+2020-01-28,Castelo Branco,6
+2020-01-29,Castelo Branco,8
+2020-01-30,Castelo Branco,10
+2020-01-31,Castelo Branco,12
+2020-02-01,Castelo Branco,17
+2020-02-02,Castelo Branco,10
+2020-02-03,Castelo Branco,8
+2020-02-04,Castelo Branco,9
+2020-02-05,Castelo Branco,7
+2020-02-06,Castelo Branco,5
+2020-02-07,Castelo Branco,7
+2020-02-08,Castelo Branco,9
+2020-02-09,Castelo Branco,14
+2020-02-10,Castelo Branco,12
+2020-02-11,Castelo Branco,9
+2020-02-12,Castelo Branco,6
+2020-02-13,Castelo Branco,10
+2020-02-14,Castelo Branco,12
+2020-02-15,Castelo Branco,7
+2020-02-16,Castelo Branco,7
+2020-02-17,Castelo Branco,10
+2020-02-18,Castelo Branco,5
+2020-02-19,Castelo Branco,4
+2020-02-20,Castelo Branco,10
+2020-02-21,Castelo Branco,8
+2020-02-22,Castelo Branco,8
+2020-02-23,Castelo Branco,9
+2020-02-24,Castelo Branco,8
+2020-02-25,Castelo Branco,11
+2020-02-26,Castelo Branco,7
+2020-02-27,Castelo Branco,13
+2020-02-28,Castelo Branco,5
+2020-02-29,Castelo Branco,6
+2020-03-01,Castelo Branco,7
+2020-03-02,Castelo Branco,3
+2020-03-03,Castelo Branco,10
+2020-03-04,Castelo Branco,9
+2020-03-05,Castelo Branco,11
+2020-03-06,Castelo Branco,9
+2020-03-07,Castelo Branco,11
+2020-03-08,Castelo Branco,7
+2020-03-09,Castelo Branco,8
+2020-03-10,Castelo Branco,11
+2020-03-11,Castelo Branco,7
+2020-03-12,Castelo Branco,6
+2020-03-13,Castelo Branco,9
+2020-03-14,Castelo Branco,10
+2020-03-15,Castelo Branco,8
+2020-03-16,Castelo Branco,4
+2020-03-17,Castelo Branco,12
+2020-03-18,Castelo Branco,7
+2020-03-19,Castelo Branco,12
+2020-03-20,Castelo Branco,16
+2020-03-21,Castelo Branco,7
+2020-03-22,Castelo Branco,4
+2020-03-23,Castelo Branco,4
+2020-03-24,Castelo Branco,8
+2020-03-25,Castelo Branco,9
+2020-03-26,Castelo Branco,10
+2020-03-27,Castelo Branco,13
+2020-03-28,Castelo Branco,10
+2020-03-29,Castelo Branco,16
+2020-03-30,Castelo Branco,5
+2020-03-31,Castelo Branco,5
+2020-04-01,Castelo Branco,15
+2020-04-02,Castelo Branco,5
+2020-04-03,Castelo Branco,9
+2020-04-04,Castelo Branco,12
+2020-04-05,Castelo Branco,11
+2020-04-06,Castelo Branco,7
+2020-04-07,Castelo Branco,10
+2020-04-08,Castelo Branco,5
+2020-04-09,Castelo Branco,9
+2020-04-10,Castelo Branco,5
+2020-04-11,Castelo Branco,6
+2020-04-12,Castelo Branco,10
+2020-04-13,Castelo Branco,8
+2020-04-14,Castelo Branco,6
+2020-04-15,Castelo Branco,5
+2020-04-16,Castelo Branco,6
+2020-04-17,Castelo Branco,11
+2020-04-18,Castelo Branco,6
+2020-04-19,Castelo Branco,9
+2020-04-20,Castelo Branco,6
+2020-04-21,Castelo Branco,4
+2020-04-22,Castelo Branco,5
+2020-04-23,Castelo Branco,6
+2020-04-24,Castelo Branco,7
+2020-04-25,Castelo Branco,9
+2020-04-26,Castelo Branco,8
+2020-04-27,Castelo Branco,1
+2020-04-28,Castelo Branco,4
+2020-04-29,Castelo Branco,5
+2020-04-30,Castelo Branco,4
+2020-05-01,Castelo Branco,6
+2020-05-02,Castelo Branco,3
+2020-05-03,Castelo Branco,12
+2020-05-04,Castelo Branco,4
+2020-05-05,Castelo Branco,7
+2020-05-06,Castelo Branco,11
+2020-05-07,Castelo Branco,9
+2020-05-08,Castelo Branco,9
+2020-01-01,Coimbra,24
+2020-01-02,Coimbra,15
+2020-01-03,Coimbra,15
+2020-01-04,Coimbra,13
+2020-01-05,Coimbra,21
+2020-01-06,Coimbra,12
+2020-01-07,Coimbra,15
+2020-01-08,Coimbra,11
+2020-01-09,Coimbra,26
+2020-01-10,Coimbra,18
+2020-01-11,Coimbra,25
+2020-01-12,Coimbra,19
+2020-01-13,Coimbra,20
+2020-01-14,Coimbra,16
+2020-01-15,Coimbra,24
+2020-01-16,Coimbra,24
+2020-01-17,Coimbra,17
+2020-01-18,Coimbra,19
+2020-01-19,Coimbra,15
+2020-01-20,Coimbra,25
+2020-01-21,Coimbra,14
+2020-01-22,Coimbra,14
+2020-01-23,Coimbra,17
+2020-01-24,Coimbra,20
+2020-01-25,Coimbra,22
+2020-01-26,Coimbra,17
+2020-01-27,Coimbra,21
+2020-01-28,Coimbra,22
+2020-01-29,Coimbra,17
+2020-01-30,Coimbra,18
+2020-01-31,Coimbra,20
+2020-02-01,Coimbra,17
+2020-02-02,Coimbra,14
+2020-02-03,Coimbra,19
+2020-02-04,Coimbra,20
+2020-02-05,Coimbra,16
+2020-02-06,Coimbra,13
+2020-02-07,Coimbra,17
+2020-02-08,Coimbra,11
+2020-02-09,Coimbra,10
+2020-02-10,Coimbra,12
+2020-02-11,Coimbra,15
+2020-02-12,Coimbra,21
+2020-02-13,Coimbra,6
+2020-02-14,Coimbra,9
+2020-02-15,Coimbra,11
+2020-02-16,Coimbra,18
+2020-02-17,Coimbra,23
+2020-02-18,Coimbra,16
+2020-02-19,Coimbra,20
+2020-02-20,Coimbra,11
+2020-02-21,Coimbra,21
+2020-02-22,Coimbra,15
+2020-02-23,Coimbra,16
+2020-02-24,Coimbra,16
+2020-02-25,Coimbra,13
+2020-02-26,Coimbra,15
+2020-02-27,Coimbra,15
+2020-02-28,Coimbra,13
+2020-02-29,Coimbra,19
+2020-03-01,Coimbra,19
+2020-03-02,Coimbra,9
+2020-03-03,Coimbra,15
+2020-03-04,Coimbra,15
+2020-03-05,Coimbra,9
+2020-03-06,Coimbra,16
+2020-03-07,Coimbra,13
+2020-03-08,Coimbra,8
+2020-03-09,Coimbra,15
+2020-03-10,Coimbra,15
+2020-03-11,Coimbra,10
+2020-03-12,Coimbra,18
+2020-03-13,Coimbra,17
+2020-03-14,Coimbra,12
+2020-03-15,Coimbra,19
+2020-03-16,Coimbra,19
+2020-03-17,Coimbra,24
+2020-03-18,Coimbra,10
+2020-03-19,Coimbra,20
+2020-03-20,Coimbra,23
+2020-03-21,Coimbra,17
+2020-03-22,Coimbra,16
+2020-03-23,Coimbra,15
+2020-03-24,Coimbra,17
+2020-03-25,Coimbra,13
+2020-03-26,Coimbra,18
+2020-03-27,Coimbra,13
+2020-03-28,Coimbra,26
+2020-03-29,Coimbra,22
+2020-03-30,Coimbra,11
+2020-03-31,Coimbra,12
+2020-04-01,Coimbra,23
+2020-04-02,Coimbra,18
+2020-04-03,Coimbra,12
+2020-04-04,Coimbra,21
+2020-04-05,Coimbra,19
+2020-04-06,Coimbra,9
+2020-04-07,Coimbra,20
+2020-04-08,Coimbra,21
+2020-04-09,Coimbra,13
+2020-04-10,Coimbra,9
+2020-04-11,Coimbra,17
+2020-04-12,Coimbra,16
+2020-04-13,Coimbra,18
+2020-04-14,Coimbra,12
+2020-04-15,Coimbra,16
+2020-04-16,Coimbra,17
+2020-04-17,Coimbra,14
+2020-04-18,Coimbra,18
+2020-04-19,Coimbra,11
+2020-04-20,Coimbra,14
+2020-04-21,Coimbra,16
+2020-04-22,Coimbra,16
+2020-04-23,Coimbra,15
+2020-04-24,Coimbra,21
+2020-04-25,Coimbra,17
+2020-04-26,Coimbra,20
+2020-04-27,Coimbra,14
+2020-04-28,Coimbra,20
+2020-04-29,Coimbra,12
+2020-04-30,Coimbra,18
+2020-05-01,Coimbra,15
+2020-05-02,Coimbra,16
+2020-05-03,Coimbra,14
+2020-05-04,Coimbra,20
+2020-05-05,Coimbra,20
+2020-05-06,Coimbra,20
+2020-05-07,Coimbra,16
+2020-05-08,Coimbra,10
+2020-01-01,Desconhecido,3
+2020-01-02,Desconhecido,1
+2020-01-03,Desconhecido,0
+2020-01-04,Desconhecido,1
+2020-01-05,Desconhecido,0
+2020-01-06,Desconhecido,1
+2020-01-07,Desconhecido,0
+2020-01-08,Desconhecido,0
+2020-01-09,Desconhecido,0
+2020-01-10,Desconhecido,4
+2020-01-11,Desconhecido,0
+2020-01-12,Desconhecido,2
+2020-01-13,Desconhecido,0
+2020-01-14,Desconhecido,1
+2020-01-15,Desconhecido,1
+2020-01-16,Desconhecido,2
+2020-01-17,Desconhecido,2
+2020-01-18,Desconhecido,3
+2020-01-19,Desconhecido,0
+2020-01-20,Desconhecido,0
+2020-01-21,Desconhecido,0
+2020-01-22,Desconhecido,0
+2020-01-23,Desconhecido,0
+2020-01-24,Desconhecido,1
+2020-01-25,Desconhecido,0
+2020-01-26,Desconhecido,0
+2020-01-27,Desconhecido,0
+2020-01-28,Desconhecido,1
+2020-01-29,Desconhecido,0
+2020-01-30,Desconhecido,0
+2020-01-31,Desconhecido,0
+2020-02-01,Desconhecido,2
+2020-02-02,Desconhecido,0
+2020-02-03,Desconhecido,0
+2020-02-04,Desconhecido,0
+2020-02-05,Desconhecido,2
+2020-02-06,Desconhecido,0
+2020-02-07,Desconhecido,0
+2020-02-08,Desconhecido,3
+2020-02-09,Desconhecido,0
+2020-02-10,Desconhecido,1
+2020-02-11,Desconhecido,0
+2020-02-12,Desconhecido,0
+2020-02-13,Desconhecido,0
+2020-02-14,Desconhecido,0
+2020-02-15,Desconhecido,0
+2020-02-16,Desconhecido,1
+2020-02-17,Desconhecido,1
+2020-02-18,Desconhecido,0
+2020-02-19,Desconhecido,2
+2020-02-20,Desconhecido,1
+2020-02-21,Desconhecido,0
+2020-02-22,Desconhecido,0
+2020-02-23,Desconhecido,0
+2020-02-24,Desconhecido,0
+2020-02-25,Desconhecido,0
+2020-02-26,Desconhecido,2
+2020-02-27,Desconhecido,1
+2020-02-28,Desconhecido,0
+2020-02-29,Desconhecido,0
+2020-03-01,Desconhecido,0
+2020-03-02,Desconhecido,0
+2020-03-03,Desconhecido,1
+2020-03-04,Desconhecido,1
+2020-03-05,Desconhecido,1
+2020-03-06,Desconhecido,0
+2020-03-07,Desconhecido,0
+2020-03-08,Desconhecido,0
+2020-03-09,Desconhecido,1
+2020-03-10,Desconhecido,1
+2020-03-11,Desconhecido,1
+2020-03-12,Desconhecido,1
+2020-03-13,Desconhecido,0
+2020-03-14,Desconhecido,0
+2020-03-15,Desconhecido,0
+2020-03-16,Desconhecido,0
+2020-03-17,Desconhecido,0
+2020-03-18,Desconhecido,0
+2020-03-19,Desconhecido,1
+2020-03-20,Desconhecido,0
+2020-03-21,Desconhecido,1
+2020-03-22,Desconhecido,1
+2020-03-23,Desconhecido,1
+2020-03-24,Desconhecido,0
+2020-03-25,Desconhecido,1
+2020-03-26,Desconhecido,0
+2020-03-27,Desconhecido,0
+2020-03-28,Desconhecido,0
+2020-03-29,Desconhecido,0
+2020-03-30,Desconhecido,1
+2020-03-31,Desconhecido,1
+2020-04-01,Desconhecido,0
+2020-04-02,Desconhecido,1
+2020-04-03,Desconhecido,0
+2020-04-04,Desconhecido,0
+2020-04-05,Desconhecido,0
+2020-04-06,Desconhecido,0
+2020-04-07,Desconhecido,0
+2020-04-08,Desconhecido,2
+2020-04-09,Desconhecido,0
+2020-04-10,Desconhecido,0
+2020-04-11,Desconhecido,0
+2020-04-12,Desconhecido,0
+2020-04-13,Desconhecido,0
+2020-04-14,Desconhecido,0
+2020-04-15,Desconhecido,1
+2020-04-16,Desconhecido,0
+2020-04-17,Desconhecido,0
+2020-04-18,Desconhecido,1
+2020-04-19,Desconhecido,0
+2020-04-20,Desconhecido,1
+2020-04-21,Desconhecido,0
+2020-04-22,Desconhecido,0
+2020-04-23,Desconhecido,2
+2020-04-24,Desconhecido,1
+2020-04-25,Desconhecido,1
+2020-04-26,Desconhecido,0
+2020-04-27,Desconhecido,1
+2020-04-28,Desconhecido,0
+2020-04-29,Desconhecido,1
+2020-04-30,Desconhecido,1
+2020-05-01,Desconhecido,2
+2020-05-02,Desconhecido,1
+2020-05-03,Desconhecido,0
+2020-05-04,Desconhecido,3
+2020-05-05,Desconhecido,4
+2020-05-06,Desconhecido,1
+2020-05-07,Desconhecido,2
+2020-05-08,Desconhecido,2
+2020-01-01,Estrangeiro,1
+2020-01-02,Estrangeiro,2
+2020-01-03,Estrangeiro,0
+2020-01-04,Estrangeiro,3
+2020-01-05,Estrangeiro,1
+2020-01-06,Estrangeiro,0
+2020-01-07,Estrangeiro,0
+2020-01-08,Estrangeiro,0
+2020-01-09,Estrangeiro,4
+2020-01-10,Estrangeiro,0
+2020-01-11,Estrangeiro,2
+2020-01-12,Estrangeiro,1
+2020-01-13,Estrangeiro,1
+2020-01-14,Estrangeiro,2
+2020-01-15,Estrangeiro,3
+2020-01-16,Estrangeiro,0
+2020-01-17,Estrangeiro,2
+2020-01-18,Estrangeiro,2
+2020-01-19,Estrangeiro,1
+2020-01-20,Estrangeiro,2
+2020-01-21,Estrangeiro,1
+2020-01-22,Estrangeiro,0
+2020-01-23,Estrangeiro,1
+2020-01-24,Estrangeiro,1
+2020-01-25,Estrangeiro,3
+2020-01-26,Estrangeiro,1
+2020-01-27,Estrangeiro,3
+2020-01-28,Estrangeiro,2
+2020-01-29,Estrangeiro,1
+2020-01-30,Estrangeiro,0
+2020-01-31,Estrangeiro,1
+2020-02-01,Estrangeiro,1
+2020-02-02,Estrangeiro,2
+2020-02-03,Estrangeiro,0
+2020-02-04,Estrangeiro,1
+2020-02-05,Estrangeiro,2
+2020-02-06,Estrangeiro,2
+2020-02-07,Estrangeiro,2
+2020-02-08,Estrangeiro,0
+2020-02-09,Estrangeiro,2
+2020-02-10,Estrangeiro,0
+2020-02-11,Estrangeiro,1
+2020-02-12,Estrangeiro,2
+2020-02-13,Estrangeiro,2
+2020-02-14,Estrangeiro,3
+2020-02-15,Estrangeiro,3
+2020-02-16,Estrangeiro,0
+2020-02-17,Estrangeiro,0
+2020-02-18,Estrangeiro,0
+2020-02-19,Estrangeiro,2
+2020-02-20,Estrangeiro,0
+2020-02-21,Estrangeiro,0
+2020-02-22,Estrangeiro,1
+2020-02-23,Estrangeiro,0
+2020-02-24,Estrangeiro,2
+2020-02-25,Estrangeiro,1
+2020-02-26,Estrangeiro,1
+2020-02-27,Estrangeiro,2
+2020-02-28,Estrangeiro,1
+2020-02-29,Estrangeiro,0
+2020-03-01,Estrangeiro,2
+2020-03-02,Estrangeiro,1
+2020-03-03,Estrangeiro,1
+2020-03-04,Estrangeiro,0
+2020-03-05,Estrangeiro,0
+2020-03-06,Estrangeiro,0
+2020-03-07,Estrangeiro,1
+2020-03-08,Estrangeiro,0
+2020-03-09,Estrangeiro,4
+2020-03-10,Estrangeiro,3
+2020-03-11,Estrangeiro,1
+2020-03-12,Estrangeiro,1
+2020-03-13,Estrangeiro,2
+2020-03-14,Estrangeiro,2
+2020-03-15,Estrangeiro,1
+2020-03-16,Estrangeiro,4
+2020-03-17,Estrangeiro,0
+2020-03-18,Estrangeiro,1
+2020-03-19,Estrangeiro,1
+2020-03-20,Estrangeiro,1
+2020-03-21,Estrangeiro,0
+2020-03-22,Estrangeiro,1
+2020-03-23,Estrangeiro,0
+2020-03-24,Estrangeiro,2
+2020-03-25,Estrangeiro,1
+2020-03-26,Estrangeiro,0
+2020-03-27,Estrangeiro,0
+2020-03-28,Estrangeiro,2
+2020-03-29,Estrangeiro,0
+2020-03-30,Estrangeiro,0
+2020-03-31,Estrangeiro,0
+2020-04-01,Estrangeiro,0
+2020-04-02,Estrangeiro,2
+2020-04-03,Estrangeiro,1
+2020-04-04,Estrangeiro,0
+2020-04-05,Estrangeiro,0
+2020-04-06,Estrangeiro,2
+2020-04-07,Estrangeiro,0
+2020-04-08,Estrangeiro,1
+2020-04-09,Estrangeiro,0
+2020-04-10,Estrangeiro,1
+2020-04-11,Estrangeiro,1
+2020-04-12,Estrangeiro,0
+2020-04-13,Estrangeiro,2
+2020-04-14,Estrangeiro,2
+2020-04-15,Estrangeiro,1
+2020-04-16,Estrangeiro,1
+2020-04-17,Estrangeiro,1
+2020-04-18,Estrangeiro,0
+2020-04-19,Estrangeiro,0
+2020-04-20,Estrangeiro,0
+2020-04-21,Estrangeiro,0
+2020-04-22,Estrangeiro,1
+2020-04-23,Estrangeiro,0
+2020-04-24,Estrangeiro,1
+2020-04-25,Estrangeiro,0
+2020-04-26,Estrangeiro,1
+2020-04-27,Estrangeiro,1
+2020-04-28,Estrangeiro,0
+2020-04-29,Estrangeiro,0
+2020-04-30,Estrangeiro,0
+2020-05-01,Estrangeiro,1
+2020-05-02,Estrangeiro,0
+2020-05-03,Estrangeiro,0
+2020-05-04,Estrangeiro,1
+2020-05-05,Estrangeiro,0
+2020-05-06,Estrangeiro,0
+2020-05-07,Estrangeiro,1
+2020-05-08,Estrangeiro,1
+2020-01-01,Évora,8
+2020-01-02,Évora,5
+2020-01-03,Évora,4
+2020-01-04,Évora,11
+2020-01-05,Évora,11
+2020-01-06,Évora,5
+2020-01-07,Évora,4
+2020-01-08,Évora,7
+2020-01-09,Évora,8
+2020-01-10,Évora,10
+2020-01-11,Évora,8
+2020-01-12,Évora,10
+2020-01-13,Évora,4
+2020-01-14,Évora,11
+2020-01-15,Évora,2
+2020-01-16,Évora,7
+2020-01-17,Évora,7
+2020-01-18,Évora,9
+2020-01-19,Évora,6
+2020-01-20,Évora,3
+2020-01-21,Évora,4
+2020-01-22,Évora,9
+2020-01-23,Évora,7
+2020-01-24,Évora,7
+2020-01-25,Évora,8
+2020-01-26,Évora,9
+2020-01-27,Évora,9
+2020-01-28,Évora,12
+2020-01-29,Évora,6
+2020-01-30,Évora,6
+2020-01-31,Évora,6
+2020-02-01,Évora,8
+2020-02-02,Évora,7
+2020-02-03,Évora,7
+2020-02-04,Évora,8
+2020-02-05,Évora,7
+2020-02-06,Évora,6
+2020-02-07,Évora,5
+2020-02-08,Évora,4
+2020-02-09,Évora,5
+2020-02-10,Évora,7
+2020-02-11,Évora,4
+2020-02-12,Évora,6
+2020-02-13,Évora,9
+2020-02-14,Évora,2
+2020-02-15,Évora,8
+2020-02-16,Évora,3
+2020-02-17,Évora,2
+2020-02-18,Évora,5
+2020-02-19,Évora,5
+2020-02-20,Évora,6
+2020-02-21,Évora,4
+2020-02-22,Évora,6
+2020-02-23,Évora,10
+2020-02-24,Évora,10
+2020-02-25,Évora,10
+2020-02-26,Évora,6
+2020-02-27,Évora,3
+2020-02-28,Évora,6
+2020-02-29,Évora,9
+2020-03-01,Évora,10
+2020-03-02,Évora,7
+2020-03-03,Évora,9
+2020-03-04,Évora,9
+2020-03-05,Évora,9
+2020-03-06,Évora,9
+2020-03-07,Évora,8
+2020-03-08,Évora,6
+2020-03-09,Évora,3
+2020-03-10,Évora,5
+2020-03-11,Évora,3
+2020-03-12,Évora,8
+2020-03-13,Évora,9
+2020-03-14,Évora,4
+2020-03-15,Évora,10
+2020-03-16,Évora,6
+2020-03-17,Évora,9
+2020-03-18,Évora,9
+2020-03-19,Évora,7
+2020-03-20,Évora,6
+2020-03-21,Évora,6
+2020-03-22,Évora,5
+2020-03-23,Évora,11
+2020-03-24,Évora,3
+2020-03-25,Évora,12
+2020-03-26,Évora,7
+2020-03-27,Évora,4
+2020-03-28,Évora,12
+2020-03-29,Évora,6
+2020-03-30,Évora,5
+2020-03-31,Évora,5
+2020-04-01,Évora,10
+2020-04-02,Évora,13
+2020-04-03,Évora,9
+2020-04-04,Évora,11
+2020-04-05,Évora,9
+2020-04-06,Évora,8
+2020-04-07,Évora,7
+2020-04-08,Évora,9
+2020-04-09,Évora,7
+2020-04-10,Évora,10
+2020-04-11,Évora,10
+2020-04-12,Évora,11
+2020-04-13,Évora,3
+2020-04-14,Évora,3
+2020-04-15,Évora,5
+2020-04-16,Évora,3
+2020-04-17,Évora,7
+2020-04-18,Évora,6
+2020-04-19,Évora,5
+2020-04-20,Évora,7
+2020-04-21,Évora,4
+2020-04-22,Évora,4
+2020-04-23,Évora,6
+2020-04-24,Évora,9
+2020-04-25,Évora,6
+2020-04-26,Évora,5
+2020-04-27,Évora,5
+2020-04-28,Évora,11
+2020-04-29,Évora,4
+2020-04-30,Évora,4
+2020-05-01,Évora,5
+2020-05-02,Évora,5
+2020-05-03,Évora,5
+2020-05-04,Évora,0
+2020-05-05,Évora,8
+2020-05-06,Évora,6
+2020-05-07,Évora,6
+2020-05-08,Évora,6
+2020-01-01,Faro,24
+2020-01-02,Faro,20
+2020-01-03,Faro,18
+2020-01-04,Faro,17
+2020-01-05,Faro,13
+2020-01-06,Faro,22
+2020-01-07,Faro,21
+2020-01-08,Faro,24
+2020-01-09,Faro,12
+2020-01-10,Faro,18
+2020-01-11,Faro,18
+2020-01-12,Faro,16
+2020-01-13,Faro,22
+2020-01-14,Faro,23
+2020-01-15,Faro,21
+2020-01-16,Faro,11
+2020-01-17,Faro,16
+2020-01-18,Faro,19
+2020-01-19,Faro,19
+2020-01-20,Faro,16
+2020-01-21,Faro,15
+2020-01-22,Faro,12
+2020-01-23,Faro,23
+2020-01-24,Faro,20
+2020-01-25,Faro,18
+2020-01-26,Faro,13
+2020-01-27,Faro,25
+2020-01-28,Faro,15
+2020-01-29,Faro,19
+2020-01-30,Faro,22
+2020-01-31,Faro,21
+2020-02-01,Faro,20
+2020-02-02,Faro,19
+2020-02-03,Faro,17
+2020-02-04,Faro,17
+2020-02-05,Faro,16
+2020-02-06,Faro,24
+2020-02-07,Faro,16
+2020-02-08,Faro,16
+2020-02-09,Faro,8
+2020-02-10,Faro,12
+2020-02-11,Faro,11
+2020-02-12,Faro,19
+2020-02-13,Faro,14
+2020-02-14,Faro,11
+2020-02-15,Faro,14
+2020-02-16,Faro,14
+2020-02-17,Faro,16
+2020-02-18,Faro,5
+2020-02-19,Faro,17
+2020-02-20,Faro,8
+2020-02-21,Faro,14
+2020-02-22,Faro,17
+2020-02-23,Faro,16
+2020-02-24,Faro,7
+2020-02-25,Faro,21
+2020-02-26,Faro,12
+2020-02-27,Faro,18
+2020-02-28,Faro,11
+2020-02-29,Faro,9
+2020-03-01,Faro,13
+2020-03-02,Faro,19
+2020-03-03,Faro,12
+2020-03-04,Faro,11
+2020-03-05,Faro,12
+2020-03-06,Faro,11
+2020-03-07,Faro,20
+2020-03-08,Faro,7
+2020-03-09,Faro,10
+2020-03-10,Faro,15
+2020-03-11,Faro,17
+2020-03-12,Faro,14
+2020-03-13,Faro,16
+2020-03-14,Faro,20
+2020-03-15,Faro,17
+2020-03-16,Faro,9
+2020-03-17,Faro,14
+2020-03-18,Faro,16
+2020-03-19,Faro,15
+2020-03-20,Faro,23
+2020-03-21,Faro,16
+2020-03-22,Faro,11
+2020-03-23,Faro,10
+2020-03-24,Faro,14
+2020-03-25,Faro,18
+2020-03-26,Faro,25
+2020-03-27,Faro,21
+2020-03-28,Faro,15
+2020-03-29,Faro,15
+2020-03-30,Faro,21
+2020-03-31,Faro,15
+2020-04-01,Faro,15
+2020-04-02,Faro,13
+2020-04-03,Faro,13
+2020-04-04,Faro,20
+2020-04-05,Faro,15
+2020-04-06,Faro,17
+2020-04-07,Faro,13
+2020-04-08,Faro,25
+2020-04-09,Faro,12
+2020-04-10,Faro,15
+2020-04-11,Faro,18
+2020-04-12,Faro,16
+2020-04-13,Faro,17
+2020-04-14,Faro,12
+2020-04-15,Faro,16
+2020-04-16,Faro,17
+2020-04-17,Faro,19
+2020-04-18,Faro,12
+2020-04-19,Faro,14
+2020-04-20,Faro,16
+2020-04-21,Faro,16
+2020-04-22,Faro,13
+2020-04-23,Faro,19
+2020-04-24,Faro,14
+2020-04-25,Faro,20
+2020-04-26,Faro,11
+2020-04-27,Faro,13
+2020-04-28,Faro,19
+2020-04-29,Faro,7
+2020-04-30,Faro,9
+2020-05-01,Faro,13
+2020-05-02,Faro,13
+2020-05-03,Faro,10
+2020-05-04,Faro,18
+2020-05-05,Faro,18
+2020-05-06,Faro,14
+2020-05-07,Faro,15
+2020-05-08,Faro,12
+2020-01-01,Guarda,7
+2020-01-02,Guarda,8
+2020-01-03,Guarda,8
+2020-01-04,Guarda,8
+2020-01-05,Guarda,9
+2020-01-06,Guarda,4
+2020-01-07,Guarda,9
+2020-01-08,Guarda,7
+2020-01-09,Guarda,6
+2020-01-10,Guarda,12
+2020-01-11,Guarda,12
+2020-01-12,Guarda,8
+2020-01-13,Guarda,9
+2020-01-14,Guarda,11
+2020-01-15,Guarda,15
+2020-01-16,Guarda,8
+2020-01-17,Guarda,5
+2020-01-18,Guarda,12
+2020-01-19,Guarda,7
+2020-01-20,Guarda,12
+2020-01-21,Guarda,6
+2020-01-22,Guarda,7
+2020-01-23,Guarda,6
+2020-01-24,Guarda,5
+2020-01-25,Guarda,4
+2020-01-26,Guarda,9
+2020-01-27,Guarda,6
+2020-01-28,Guarda,8
+2020-01-29,Guarda,6
+2020-01-30,Guarda,8
+2020-01-31,Guarda,8
+2020-02-01,Guarda,10
+2020-02-02,Guarda,9
+2020-02-03,Guarda,9
+2020-02-04,Guarda,7
+2020-02-05,Guarda,9
+2020-02-06,Guarda,12
+2020-02-07,Guarda,7
+2020-02-08,Guarda,11
+2020-02-09,Guarda,7
+2020-02-10,Guarda,9
+2020-02-11,Guarda,9
+2020-02-12,Guarda,5
+2020-02-13,Guarda,4
+2020-02-14,Guarda,7
+2020-02-15,Guarda,8
+2020-02-16,Guarda,8
+2020-02-17,Guarda,6
+2020-02-18,Guarda,6
+2020-02-19,Guarda,9
+2020-02-20,Guarda,7
+2020-02-21,Guarda,8
+2020-02-22,Guarda,5
+2020-02-23,Guarda,8
+2020-02-24,Guarda,8
+2020-02-25,Guarda,8
+2020-02-26,Guarda,4
+2020-02-27,Guarda,7
+2020-02-28,Guarda,5
+2020-02-29,Guarda,10
+2020-03-01,Guarda,4
+2020-03-02,Guarda,6
+2020-03-03,Guarda,9
+2020-03-04,Guarda,4
+2020-03-05,Guarda,3
+2020-03-06,Guarda,10
+2020-03-07,Guarda,4
+2020-03-08,Guarda,4
+2020-03-09,Guarda,9
+2020-03-10,Guarda,11
+2020-03-11,Guarda,10
+2020-03-12,Guarda,6
+2020-03-13,Guarda,7
+2020-03-14,Guarda,7
+2020-03-15,Guarda,8
+2020-03-16,Guarda,7
+2020-03-17,Guarda,8
+2020-03-18,Guarda,7
+2020-03-19,Guarda,7
+2020-03-20,Guarda,10
+2020-03-21,Guarda,7
+2020-03-22,Guarda,10
+2020-03-23,Guarda,7
+2020-03-24,Guarda,9
+2020-03-25,Guarda,5
+2020-03-26,Guarda,11
+2020-03-27,Guarda,5
+2020-03-28,Guarda,7
+2020-03-29,Guarda,9
+2020-03-30,Guarda,6
+2020-03-31,Guarda,12
+2020-04-01,Guarda,9
+2020-04-02,Guarda,5
+2020-04-03,Guarda,9
+2020-04-04,Guarda,8
+2020-04-05,Guarda,9
+2020-04-06,Guarda,5
+2020-04-07,Guarda,9
+2020-04-08,Guarda,9
+2020-04-09,Guarda,8
+2020-04-10,Guarda,9
+2020-04-11,Guarda,18
+2020-04-12,Guarda,12
+2020-04-13,Guarda,14
+2020-04-14,Guarda,8
+2020-04-15,Guarda,9
+2020-04-16,Guarda,4
+2020-04-17,Guarda,8
+2020-04-18,Guarda,6
+2020-04-19,Guarda,5
+2020-04-20,Guarda,10
+2020-04-21,Guarda,9
+2020-04-22,Guarda,8
+2020-04-23,Guarda,12
+2020-04-24,Guarda,7
+2020-04-25,Guarda,7
+2020-04-26,Guarda,5
+2020-04-27,Guarda,7
+2020-04-28,Guarda,6
+2020-04-29,Guarda,3
+2020-04-30,Guarda,9
+2020-05-01,Guarda,9
+2020-05-02,Guarda,11
+2020-05-03,Guarda,6
+2020-05-04,Guarda,3
+2020-05-05,Guarda,5
+2020-05-06,Guarda,7
+2020-05-07,Guarda,2
+2020-05-08,Guarda,6
+2020-01-01,Ilha da Graciosa,0
+2020-01-02,Ilha da Graciosa,0
+2020-01-03,Ilha da Graciosa,0
+2020-01-04,Ilha da Graciosa,1
+2020-01-05,Ilha da Graciosa,0
+2020-01-06,Ilha da Graciosa,0
+2020-01-07,Ilha da Graciosa,1
+2020-01-08,Ilha da Graciosa,0
+2020-01-09,Ilha da Graciosa,0
+2020-01-10,Ilha da Graciosa,0
+2020-01-11,Ilha da Graciosa,0
+2020-01-12,Ilha da Graciosa,0
+2020-01-13,Ilha da Graciosa,0
+2020-01-14,Ilha da Graciosa,0
+2020-01-15,Ilha da Graciosa,0
+2020-01-16,Ilha da Graciosa,0
+2020-01-17,Ilha da Graciosa,0
+2020-01-18,Ilha da Graciosa,0
+2020-01-19,Ilha da Graciosa,0
+2020-01-20,Ilha da Graciosa,0
+2020-01-21,Ilha da Graciosa,0
+2020-01-22,Ilha da Graciosa,0
+2020-01-23,Ilha da Graciosa,0
+2020-01-24,Ilha da Graciosa,0
+2020-01-25,Ilha da Graciosa,0
+2020-01-26,Ilha da Graciosa,0
+2020-01-27,Ilha da Graciosa,0
+2020-01-28,Ilha da Graciosa,0
+2020-01-29,Ilha da Graciosa,0
+2020-01-30,Ilha da Graciosa,0
+2020-01-31,Ilha da Graciosa,0
+2020-02-01,Ilha da Graciosa,0
+2020-02-02,Ilha da Graciosa,0
+2020-02-03,Ilha da Graciosa,2
+2020-02-04,Ilha da Graciosa,0
+2020-02-05,Ilha da Graciosa,0
+2020-02-06,Ilha da Graciosa,0
+2020-02-07,Ilha da Graciosa,0
+2020-02-08,Ilha da Graciosa,0
+2020-02-09,Ilha da Graciosa,1
+2020-02-10,Ilha da Graciosa,0
+2020-02-11,Ilha da Graciosa,1
+2020-02-12,Ilha da Graciosa,0
+2020-02-13,Ilha da Graciosa,0
+2020-02-14,Ilha da Graciosa,0
+2020-02-15,Ilha da Graciosa,0
+2020-02-16,Ilha da Graciosa,0
+2020-02-17,Ilha da Graciosa,0
+2020-02-18,Ilha da Graciosa,0
+2020-02-19,Ilha da Graciosa,0
+2020-02-20,Ilha da Graciosa,1
+2020-02-21,Ilha da Graciosa,0
+2020-02-22,Ilha da Graciosa,2
+2020-02-23,Ilha da Graciosa,0
+2020-02-24,Ilha da Graciosa,0
+2020-02-25,Ilha da Graciosa,0
+2020-02-26,Ilha da Graciosa,0
+2020-02-27,Ilha da Graciosa,0
+2020-02-28,Ilha da Graciosa,0
+2020-02-29,Ilha da Graciosa,1
+2020-03-01,Ilha da Graciosa,0
+2020-03-02,Ilha da Graciosa,0
+2020-03-03,Ilha da Graciosa,0
+2020-03-04,Ilha da Graciosa,0
+2020-03-05,Ilha da Graciosa,0
+2020-03-06,Ilha da Graciosa,1
+2020-03-07,Ilha da Graciosa,0
+2020-03-08,Ilha da Graciosa,0
+2020-03-09,Ilha da Graciosa,0
+2020-03-10,Ilha da Graciosa,0
+2020-03-11,Ilha da Graciosa,0
+2020-03-12,Ilha da Graciosa,0
+2020-03-13,Ilha da Graciosa,2
+2020-03-14,Ilha da Graciosa,0
+2020-03-15,Ilha da Graciosa,0
+2020-03-16,Ilha da Graciosa,0
+2020-03-17,Ilha da Graciosa,0
+2020-03-18,Ilha da Graciosa,0
+2020-03-19,Ilha da Graciosa,0
+2020-03-20,Ilha da Graciosa,0
+2020-03-21,Ilha da Graciosa,0
+2020-03-22,Ilha da Graciosa,2
+2020-03-23,Ilha da Graciosa,0
+2020-03-24,Ilha da Graciosa,0
+2020-03-25,Ilha da Graciosa,0
+2020-03-26,Ilha da Graciosa,1
+2020-03-27,Ilha da Graciosa,0
+2020-03-28,Ilha da Graciosa,1
+2020-03-29,Ilha da Graciosa,0
+2020-03-30,Ilha da Graciosa,0
+2020-03-31,Ilha da Graciosa,1
+2020-04-01,Ilha da Graciosa,0
+2020-04-02,Ilha da Graciosa,1
+2020-04-03,Ilha da Graciosa,1
+2020-04-04,Ilha da Graciosa,0
+2020-04-05,Ilha da Graciosa,0
+2020-04-06,Ilha da Graciosa,0
+2020-04-07,Ilha da Graciosa,0
+2020-04-08,Ilha da Graciosa,1
+2020-04-09,Ilha da Graciosa,0
+2020-04-10,Ilha da Graciosa,0
+2020-04-11,Ilha da Graciosa,0
+2020-04-12,Ilha da Graciosa,0
+2020-04-13,Ilha da Graciosa,0
+2020-04-14,Ilha da Graciosa,0
+2020-04-15,Ilha da Graciosa,0
+2020-04-16,Ilha da Graciosa,0
+2020-04-17,Ilha da Graciosa,0
+2020-04-18,Ilha da Graciosa,0
+2020-04-19,Ilha da Graciosa,0
+2020-04-20,Ilha da Graciosa,0
+2020-04-21,Ilha da Graciosa,0
+2020-04-22,Ilha da Graciosa,0
+2020-04-23,Ilha da Graciosa,0
+2020-04-24,Ilha da Graciosa,0
+2020-04-25,Ilha da Graciosa,0
+2020-04-26,Ilha da Graciosa,0
+2020-04-27,Ilha da Graciosa,0
+2020-04-28,Ilha da Graciosa,1
+2020-04-29,Ilha da Graciosa,0
+2020-04-30,Ilha da Graciosa,1
+2020-05-01,Ilha da Graciosa,0
+2020-05-02,Ilha da Graciosa,0
+2020-05-03,Ilha da Graciosa,0
+2020-05-04,Ilha da Graciosa,0
+2020-05-05,Ilha da Graciosa,0
+2020-05-06,Ilha da Graciosa,0
+2020-05-07,Ilha da Graciosa,1
+2020-05-08,Ilha da Graciosa,0
+2020-01-01,Ilha da Madeira,8
+2020-01-02,Ilha da Madeira,10
+2020-01-03,Ilha da Madeira,9
+2020-01-04,Ilha da Madeira,10
+2020-01-05,Ilha da Madeira,8
+2020-01-06,Ilha da Madeira,11
+2020-01-07,Ilha da Madeira,6
+2020-01-08,Ilha da Madeira,6
+2020-01-09,Ilha da Madeira,8
+2020-01-10,Ilha da Madeira,12
+2020-01-11,Ilha da Madeira,3
+2020-01-12,Ilha da Madeira,9
+2020-01-13,Ilha da Madeira,4
+2020-01-14,Ilha da Madeira,11
+2020-01-15,Ilha da Madeira,4
+2020-01-16,Ilha da Madeira,9
+2020-01-17,Ilha da Madeira,9
+2020-01-18,Ilha da Madeira,6
+2020-01-19,Ilha da Madeira,11
+2020-01-20,Ilha da Madeira,12
+2020-01-21,Ilha da Madeira,6
+2020-01-22,Ilha da Madeira,11
+2020-01-23,Ilha da Madeira,7
+2020-01-24,Ilha da Madeira,6
+2020-01-25,Ilha da Madeira,7
+2020-01-26,Ilha da Madeira,5
+2020-01-27,Ilha da Madeira,8
+2020-01-28,Ilha da Madeira,3
+2020-01-29,Ilha da Madeira,5
+2020-01-30,Ilha da Madeira,11
+2020-01-31,Ilha da Madeira,3
+2020-02-01,Ilha da Madeira,8
+2020-02-02,Ilha da Madeira,13
+2020-02-03,Ilha da Madeira,10
+2020-02-04,Ilha da Madeira,4
+2020-02-05,Ilha da Madeira,14
+2020-02-06,Ilha da Madeira,6
+2020-02-07,Ilha da Madeira,10
+2020-02-08,Ilha da Madeira,12
+2020-02-09,Ilha da Madeira,5
+2020-02-10,Ilha da Madeira,8
+2020-02-11,Ilha da Madeira,8
+2020-02-12,Ilha da Madeira,7
+2020-02-13,Ilha da Madeira,10
+2020-02-14,Ilha da Madeira,7
+2020-02-15,Ilha da Madeira,5
+2020-02-16,Ilha da Madeira,7
+2020-02-17,Ilha da Madeira,11
+2020-02-18,Ilha da Madeira,8
+2020-02-19,Ilha da Madeira,8
+2020-02-20,Ilha da Madeira,5
+2020-02-21,Ilha da Madeira,9
+2020-02-22,Ilha da Madeira,1
+2020-02-23,Ilha da Madeira,4
+2020-02-24,Ilha da Madeira,6
+2020-02-25,Ilha da Madeira,4
+2020-02-26,Ilha da Madeira,6
+2020-02-27,Ilha da Madeira,4
+2020-02-28,Ilha da Madeira,10
+2020-02-29,Ilha da Madeira,11
+2020-03-01,Ilha da Madeira,9
+2020-03-02,Ilha da Madeira,5
+2020-03-03,Ilha da Madeira,5
+2020-03-04,Ilha da Madeira,9
+2020-03-05,Ilha da Madeira,3
+2020-03-06,Ilha da Madeira,8
+2020-03-07,Ilha da Madeira,9
+2020-03-08,Ilha da Madeira,9
+2020-03-09,Ilha da Madeira,6
+2020-03-10,Ilha da Madeira,12
+2020-03-11,Ilha da Madeira,7
+2020-03-12,Ilha da Madeira,9
+2020-03-13,Ilha da Madeira,13
+2020-03-14,Ilha da Madeira,7
+2020-03-15,Ilha da Madeira,2
+2020-03-16,Ilha da Madeira,2
+2020-03-17,Ilha da Madeira,14
+2020-03-18,Ilha da Madeira,13
+2020-03-19,Ilha da Madeira,11
+2020-03-20,Ilha da Madeira,6
+2020-03-21,Ilha da Madeira,6
+2020-03-22,Ilha da Madeira,10
+2020-03-23,Ilha da Madeira,6
+2020-03-24,Ilha da Madeira,6
+2020-03-25,Ilha da Madeira,8
+2020-03-26,Ilha da Madeira,8
+2020-03-27,Ilha da Madeira,7
+2020-03-28,Ilha da Madeira,5
+2020-03-29,Ilha da Madeira,8
+2020-03-30,Ilha da Madeira,12
+2020-03-31,Ilha da Madeira,4
+2020-04-01,Ilha da Madeira,11
+2020-04-02,Ilha da Madeira,10
+2020-04-03,Ilha da Madeira,10
+2020-04-04,Ilha da Madeira,9
+2020-04-05,Ilha da Madeira,13
+2020-04-06,Ilha da Madeira,6
+2020-04-07,Ilha da Madeira,11
+2020-04-08,Ilha da Madeira,12
+2020-04-09,Ilha da Madeira,10
+2020-04-10,Ilha da Madeira,10
+2020-04-11,Ilha da Madeira,8
+2020-04-12,Ilha da Madeira,9
+2020-04-13,Ilha da Madeira,10
+2020-04-14,Ilha da Madeira,4
+2020-04-15,Ilha da Madeira,9
+2020-04-16,Ilha da Madeira,7
+2020-04-17,Ilha da Madeira,2
+2020-04-18,Ilha da Madeira,4
+2020-04-19,Ilha da Madeira,9
+2020-04-20,Ilha da Madeira,7
+2020-04-21,Ilha da Madeira,7
+2020-04-22,Ilha da Madeira,6
+2020-04-23,Ilha da Madeira,6
+2020-04-24,Ilha da Madeira,10
+2020-04-25,Ilha da Madeira,8
+2020-04-26,Ilha da Madeira,9
+2020-04-27,Ilha da Madeira,2
+2020-04-28,Ilha da Madeira,11
+2020-04-29,Ilha da Madeira,5
+2020-04-30,Ilha da Madeira,5
+2020-05-01,Ilha da Madeira,11
+2020-05-02,Ilha da Madeira,10
+2020-05-03,Ilha da Madeira,6
+2020-05-04,Ilha da Madeira,5
+2020-05-05,Ilha da Madeira,9
+2020-05-06,Ilha da Madeira,4
+2020-05-07,Ilha da Madeira,10
+2020-05-08,Ilha da Madeira,3
+2020-01-01,Ilha das Flores,0
+2020-01-02,Ilha das Flores,0
+2020-01-03,Ilha das Flores,0
+2020-01-04,Ilha das Flores,0
+2020-01-05,Ilha das Flores,0
+2020-01-06,Ilha das Flores,0
+2020-01-07,Ilha das Flores,0
+2020-01-08,Ilha das Flores,1
+2020-01-09,Ilha das Flores,0
+2020-01-10,Ilha das Flores,0
+2020-01-11,Ilha das Flores,0
+2020-01-12,Ilha das Flores,1
+2020-01-13,Ilha das Flores,0
+2020-01-14,Ilha das Flores,0
+2020-01-15,Ilha das Flores,0
+2020-01-16,Ilha das Flores,1
+2020-01-17,Ilha das Flores,0
+2020-01-18,Ilha das Flores,0
+2020-01-19,Ilha das Flores,0
+2020-01-20,Ilha das Flores,0
+2020-01-21,Ilha das Flores,0
+2020-01-22,Ilha das Flores,0
+2020-01-23,Ilha das Flores,0
+2020-01-24,Ilha das Flores,0
+2020-01-25,Ilha das Flores,0
+2020-01-26,Ilha das Flores,0
+2020-01-27,Ilha das Flores,0
+2020-01-28,Ilha das Flores,0
+2020-01-29,Ilha das Flores,0
+2020-01-30,Ilha das Flores,0
+2020-01-31,Ilha das Flores,0
+2020-02-01,Ilha das Flores,0
+2020-02-02,Ilha das Flores,0
+2020-02-03,Ilha das Flores,0
+2020-02-04,Ilha das Flores,0
+2020-02-05,Ilha das Flores,0
+2020-02-06,Ilha das Flores,0
+2020-02-07,Ilha das Flores,0
+2020-02-08,Ilha das Flores,1
+2020-02-09,Ilha das Flores,0
+2020-02-10,Ilha das Flores,0
+2020-02-11,Ilha das Flores,0
+2020-02-12,Ilha das Flores,0
+2020-02-13,Ilha das Flores,0
+2020-02-14,Ilha das Flores,0
+2020-02-15,Ilha das Flores,0
+2020-02-16,Ilha das Flores,0
+2020-02-17,Ilha das Flores,0
+2020-02-18,Ilha das Flores,0
+2020-02-19,Ilha das Flores,0
+2020-02-20,Ilha das Flores,0
+2020-02-21,Ilha das Flores,1
+2020-02-22,Ilha das Flores,0
+2020-02-23,Ilha das Flores,1
+2020-02-24,Ilha das Flores,0
+2020-02-25,Ilha das Flores,0
+2020-02-26,Ilha das Flores,0
+2020-02-27,Ilha das Flores,0
+2020-02-28,Ilha das Flores,0
+2020-02-29,Ilha das Flores,0
+2020-03-01,Ilha das Flores,0
+2020-03-02,Ilha das Flores,0
+2020-03-03,Ilha das Flores,0
+2020-03-04,Ilha das Flores,0
+2020-03-05,Ilha das Flores,1
+2020-03-06,Ilha das Flores,0
+2020-03-07,Ilha das Flores,0
+2020-03-08,Ilha das Flores,0
+2020-03-09,Ilha das Flores,0
+2020-03-10,Ilha das Flores,0
+2020-03-11,Ilha das Flores,1
+2020-03-12,Ilha das Flores,0
+2020-03-13,Ilha das Flores,0
+2020-03-14,Ilha das Flores,0
+2020-03-15,Ilha das Flores,0
+2020-03-16,Ilha das Flores,0
+2020-03-17,Ilha das Flores,0
+2020-03-18,Ilha das Flores,0
+2020-03-19,Ilha das Flores,1
+2020-03-20,Ilha das Flores,0
+2020-03-21,Ilha das Flores,0
+2020-03-22,Ilha das Flores,0
+2020-03-23,Ilha das Flores,1
+2020-03-24,Ilha das Flores,0
+2020-03-25,Ilha das Flores,0
+2020-03-26,Ilha das Flores,0
+2020-03-27,Ilha das Flores,0
+2020-03-28,Ilha das Flores,0
+2020-03-29,Ilha das Flores,0
+2020-03-30,Ilha das Flores,0
+2020-03-31,Ilha das Flores,0
+2020-04-01,Ilha das Flores,0
+2020-04-02,Ilha das Flores,0
+2020-04-03,Ilha das Flores,0
+2020-04-04,Ilha das Flores,0
+2020-04-05,Ilha das Flores,0
+2020-04-06,Ilha das Flores,0
+2020-04-07,Ilha das Flores,0
+2020-04-08,Ilha das Flores,0
+2020-04-09,Ilha das Flores,0
+2020-04-10,Ilha das Flores,0
+2020-04-11,Ilha das Flores,1
+2020-04-12,Ilha das Flores,0
+2020-04-13,Ilha das Flores,0
+2020-04-14,Ilha das Flores,0
+2020-04-15,Ilha das Flores,1
+2020-04-16,Ilha das Flores,0
+2020-04-17,Ilha das Flores,0
+2020-04-18,Ilha das Flores,0
+2020-04-19,Ilha das Flores,0
+2020-04-20,Ilha das Flores,1
+2020-04-21,Ilha das Flores,1
+2020-04-22,Ilha das Flores,1
+2020-04-23,Ilha das Flores,0
+2020-04-24,Ilha das Flores,0
+2020-04-25,Ilha das Flores,0
+2020-04-26,Ilha das Flores,0
+2020-04-27,Ilha das Flores,0
+2020-04-28,Ilha das Flores,0
+2020-04-29,Ilha das Flores,0
+2020-04-30,Ilha das Flores,0
+2020-05-01,Ilha das Flores,1
+2020-05-02,Ilha das Flores,0
+2020-05-03,Ilha das Flores,0
+2020-05-04,Ilha das Flores,0
+2020-05-05,Ilha das Flores,0
+2020-05-06,Ilha das Flores,0
+2020-05-07,Ilha das Flores,0
+2020-05-08,Ilha das Flores,0
+2020-01-01,Ilha de Porto Santo,0
+2020-01-02,Ilha de Porto Santo,1
+2020-01-03,Ilha de Porto Santo,0
+2020-01-04,Ilha de Porto Santo,0
+2020-01-05,Ilha de Porto Santo,0
+2020-01-06,Ilha de Porto Santo,0
+2020-01-07,Ilha de Porto Santo,0
+2020-01-08,Ilha de Porto Santo,0
+2020-01-09,Ilha de Porto Santo,0
+2020-01-10,Ilha de Porto Santo,0
+2020-01-11,Ilha de Porto Santo,1
+2020-01-12,Ilha de Porto Santo,0
+2020-01-13,Ilha de Porto Santo,0
+2020-01-14,Ilha de Porto Santo,0
+2020-01-15,Ilha de Porto Santo,0
+2020-01-16,Ilha de Porto Santo,1
+2020-01-17,Ilha de Porto Santo,0
+2020-01-18,Ilha de Porto Santo,1
+2020-01-19,Ilha de Porto Santo,1
+2020-01-20,Ilha de Porto Santo,1
+2020-01-21,Ilha de Porto Santo,0
+2020-01-22,Ilha de Porto Santo,0
+2020-01-23,Ilha de Porto Santo,0
+2020-01-24,Ilha de Porto Santo,0
+2020-01-25,Ilha de Porto Santo,0
+2020-01-26,Ilha de Porto Santo,1
+2020-01-27,Ilha de Porto Santo,0
+2020-01-28,Ilha de Porto Santo,0
+2020-01-29,Ilha de Porto Santo,0
+2020-01-30,Ilha de Porto Santo,0
+2020-01-31,Ilha de Porto Santo,0
+2020-02-01,Ilha de Porto Santo,0
+2020-02-02,Ilha de Porto Santo,0
+2020-02-03,Ilha de Porto Santo,0
+2020-02-04,Ilha de Porto Santo,0
+2020-02-05,Ilha de Porto Santo,0
+2020-02-06,Ilha de Porto Santo,0
+2020-02-07,Ilha de Porto Santo,0
+2020-02-08,Ilha de Porto Santo,0
+2020-02-09,Ilha de Porto Santo,0
+2020-02-10,Ilha de Porto Santo,0
+2020-02-11,Ilha de Porto Santo,0
+2020-02-12,Ilha de Porto Santo,0
+2020-02-13,Ilha de Porto Santo,0
+2020-02-14,Ilha de Porto Santo,0
+2020-02-15,Ilha de Porto Santo,0
+2020-02-16,Ilha de Porto Santo,0
+2020-02-17,Ilha de Porto Santo,0
+2020-02-18,Ilha de Porto Santo,1
+2020-02-19,Ilha de Porto Santo,1
+2020-02-20,Ilha de Porto Santo,0
+2020-02-21,Ilha de Porto Santo,1
+2020-02-22,Ilha de Porto Santo,0
+2020-02-23,Ilha de Porto Santo,0
+2020-02-24,Ilha de Porto Santo,0
+2020-02-25,Ilha de Porto Santo,0
+2020-02-26,Ilha de Porto Santo,0
+2020-02-27,Ilha de Porto Santo,0
+2020-02-28,Ilha de Porto Santo,0
+2020-02-29,Ilha de Porto Santo,1
+2020-03-01,Ilha de Porto Santo,0
+2020-03-02,Ilha de Porto Santo,0
+2020-03-03,Ilha de Porto Santo,0
+2020-03-04,Ilha de Porto Santo,0
+2020-03-05,Ilha de Porto Santo,0
+2020-03-06,Ilha de Porto Santo,0
+2020-03-07,Ilha de Porto Santo,0
+2020-03-08,Ilha de Porto Santo,0
+2020-03-09,Ilha de Porto Santo,0
+2020-03-10,Ilha de Porto Santo,0
+2020-03-11,Ilha de Porto Santo,0
+2020-03-12,Ilha de Porto Santo,0
+2020-03-13,Ilha de Porto Santo,0
+2020-03-14,Ilha de Porto Santo,1
+2020-03-15,Ilha de Porto Santo,0
+2020-03-16,Ilha de Porto Santo,0
+2020-03-17,Ilha de Porto Santo,0
+2020-03-18,Ilha de Porto Santo,0
+2020-03-19,Ilha de Porto Santo,1
+2020-03-20,Ilha de Porto Santo,0
+2020-03-21,Ilha de Porto Santo,0
+2020-03-22,Ilha de Porto Santo,0
+2020-03-23,Ilha de Porto Santo,0
+2020-03-24,Ilha de Porto Santo,0
+2020-03-25,Ilha de Porto Santo,0
+2020-03-26,Ilha de Porto Santo,1
+2020-03-27,Ilha de Porto Santo,1
+2020-03-28,Ilha de Porto Santo,0
+2020-03-29,Ilha de Porto Santo,0
+2020-03-30,Ilha de Porto Santo,1
+2020-03-31,Ilha de Porto Santo,0
+2020-04-01,Ilha de Porto Santo,0
+2020-04-02,Ilha de Porto Santo,1
+2020-04-03,Ilha de Porto Santo,0
+2020-04-04,Ilha de Porto Santo,0
+2020-04-05,Ilha de Porto Santo,0
+2020-04-06,Ilha de Porto Santo,0
+2020-04-07,Ilha de Porto Santo,1
+2020-04-08,Ilha de Porto Santo,0
+2020-04-09,Ilha de Porto Santo,0
+2020-04-10,Ilha de Porto Santo,0
+2020-04-11,Ilha de Porto Santo,0
+2020-04-12,Ilha de Porto Santo,0
+2020-04-13,Ilha de Porto Santo,0
+2020-04-14,Ilha de Porto Santo,0
+2020-04-15,Ilha de Porto Santo,0
+2020-04-16,Ilha de Porto Santo,0
+2020-04-17,Ilha de Porto Santo,0
+2020-04-18,Ilha de Porto Santo,0
+2020-04-19,Ilha de Porto Santo,1
+2020-04-20,Ilha de Porto Santo,0
+2020-04-21,Ilha de Porto Santo,0
+2020-04-22,Ilha de Porto Santo,0
+2020-04-23,Ilha de Porto Santo,0
+2020-04-24,Ilha de Porto Santo,0
+2020-04-25,Ilha de Porto Santo,0
+2020-04-26,Ilha de Porto Santo,0
+2020-04-27,Ilha de Porto Santo,0
+2020-04-28,Ilha de Porto Santo,0
+2020-04-29,Ilha de Porto Santo,0
+2020-04-30,Ilha de Porto Santo,0
+2020-05-01,Ilha de Porto Santo,0
+2020-05-02,Ilha de Porto Santo,0
+2020-05-03,Ilha de Porto Santo,0
+2020-05-04,Ilha de Porto Santo,1
+2020-05-05,Ilha de Porto Santo,0
+2020-05-06,Ilha de Porto Santo,0
+2020-05-07,Ilha de Porto Santo,0
+2020-05-08,Ilha de Porto Santo,0
+2020-01-01,Ilha de Santa Maria,0
+2020-01-02,Ilha de Santa Maria,0
+2020-01-03,Ilha de Santa Maria,0
+2020-01-04,Ilha de Santa Maria,0
+2020-01-05,Ilha de Santa Maria,0
+2020-01-06,Ilha de Santa Maria,0
+2020-01-07,Ilha de Santa Maria,0
+2020-01-08,Ilha de Santa Maria,0
+2020-01-09,Ilha de Santa Maria,1
+2020-01-10,Ilha de Santa Maria,0
+2020-01-11,Ilha de Santa Maria,0
+2020-01-12,Ilha de Santa Maria,0
+2020-01-13,Ilha de Santa Maria,0
+2020-01-14,Ilha de Santa Maria,0
+2020-01-15,Ilha de Santa Maria,0
+2020-01-16,Ilha de Santa Maria,0
+2020-01-17,Ilha de Santa Maria,0
+2020-01-18,Ilha de Santa Maria,0
+2020-01-19,Ilha de Santa Maria,0
+2020-01-20,Ilha de Santa Maria,0
+2020-01-21,Ilha de Santa Maria,0
+2020-01-22,Ilha de Santa Maria,0
+2020-01-23,Ilha de Santa Maria,0
+2020-01-24,Ilha de Santa Maria,0
+2020-01-25,Ilha de Santa Maria,0
+2020-01-26,Ilha de Santa Maria,0
+2020-01-27,Ilha de Santa Maria,0
+2020-01-28,Ilha de Santa Maria,0
+2020-01-29,Ilha de Santa Maria,0
+2020-01-30,Ilha de Santa Maria,0
+2020-01-31,Ilha de Santa Maria,0
+2020-02-01,Ilha de Santa Maria,0
+2020-02-02,Ilha de Santa Maria,0
+2020-02-03,Ilha de Santa Maria,0
+2020-02-04,Ilha de Santa Maria,0
+2020-02-05,Ilha de Santa Maria,0
+2020-02-06,Ilha de Santa Maria,0
+2020-02-07,Ilha de Santa Maria,1
+2020-02-08,Ilha de Santa Maria,0
+2020-02-09,Ilha de Santa Maria,0
+2020-02-10,Ilha de Santa Maria,1
+2020-02-11,Ilha de Santa Maria,0
+2020-02-12,Ilha de Santa Maria,0
+2020-02-13,Ilha de Santa Maria,0
+2020-02-14,Ilha de Santa Maria,0
+2020-02-15,Ilha de Santa Maria,0
+2020-02-16,Ilha de Santa Maria,0
+2020-02-17,Ilha de Santa Maria,0
+2020-02-18,Ilha de Santa Maria,0
+2020-02-19,Ilha de Santa Maria,0
+2020-02-20,Ilha de Santa Maria,1
+2020-02-21,Ilha de Santa Maria,0
+2020-02-22,Ilha de Santa Maria,0
+2020-02-23,Ilha de Santa Maria,0
+2020-02-24,Ilha de Santa Maria,1
+2020-02-25,Ilha de Santa Maria,0
+2020-02-26,Ilha de Santa Maria,0
+2020-02-27,Ilha de Santa Maria,0
+2020-02-28,Ilha de Santa Maria,0
+2020-02-29,Ilha de Santa Maria,1
+2020-03-01,Ilha de Santa Maria,0
+2020-03-02,Ilha de Santa Maria,0
+2020-03-03,Ilha de Santa Maria,0
+2020-03-04,Ilha de Santa Maria,0
+2020-03-05,Ilha de Santa Maria,0
+2020-03-06,Ilha de Santa Maria,0
+2020-03-07,Ilha de Santa Maria,0
+2020-03-08,Ilha de Santa Maria,1
+2020-03-09,Ilha de Santa Maria,0
+2020-03-10,Ilha de Santa Maria,0
+2020-03-11,Ilha de Santa Maria,1
+2020-03-12,Ilha de Santa Maria,0
+2020-03-13,Ilha de Santa Maria,0
+2020-03-14,Ilha de Santa Maria,0
+2020-03-15,Ilha de Santa Maria,0
+2020-03-16,Ilha de Santa Maria,0
+2020-03-17,Ilha de Santa Maria,0
+2020-03-18,Ilha de Santa Maria,0
+2020-03-19,Ilha de Santa Maria,0
+2020-03-20,Ilha de Santa Maria,1
+2020-03-21,Ilha de Santa Maria,0
+2020-03-22,Ilha de Santa Maria,0
+2020-03-23,Ilha de Santa Maria,0
+2020-03-24,Ilha de Santa Maria,0
+2020-03-25,Ilha de Santa Maria,0
+2020-03-26,Ilha de Santa Maria,0
+2020-03-27,Ilha de Santa Maria,0
+2020-03-28,Ilha de Santa Maria,0
+2020-03-29,Ilha de Santa Maria,0
+2020-03-30,Ilha de Santa Maria,0
+2020-03-31,Ilha de Santa Maria,0
+2020-04-01,Ilha de Santa Maria,1
+2020-04-02,Ilha de Santa Maria,0
+2020-04-03,Ilha de Santa Maria,0
+2020-04-04,Ilha de Santa Maria,0
+2020-04-05,Ilha de Santa Maria,0
+2020-04-06,Ilha de Santa Maria,0
+2020-04-07,Ilha de Santa Maria,0
+2020-04-08,Ilha de Santa Maria,0
+2020-04-09,Ilha de Santa Maria,0
+2020-04-10,Ilha de Santa Maria,0
+2020-04-11,Ilha de Santa Maria,0
+2020-04-12,Ilha de Santa Maria,0
+2020-04-13,Ilha de Santa Maria,0
+2020-04-14,Ilha de Santa Maria,0
+2020-04-15,Ilha de Santa Maria,0
+2020-04-16,Ilha de Santa Maria,0
+2020-04-17,Ilha de Santa Maria,1
+2020-04-18,Ilha de Santa Maria,1
+2020-04-19,Ilha de Santa Maria,0
+2020-04-20,Ilha de Santa Maria,0
+2020-04-21,Ilha de Santa Maria,0
+2020-04-22,Ilha de Santa Maria,0
+2020-04-23,Ilha de Santa Maria,0
+2020-04-24,Ilha de Santa Maria,0
+2020-04-25,Ilha de Santa Maria,0
+2020-04-26,Ilha de Santa Maria,0
+2020-04-27,Ilha de Santa Maria,1
+2020-04-28,Ilha de Santa Maria,0
+2020-04-29,Ilha de Santa Maria,0
+2020-04-30,Ilha de Santa Maria,1
+2020-05-01,Ilha de Santa Maria,0
+2020-05-02,Ilha de Santa Maria,0
+2020-05-03,Ilha de Santa Maria,0
+2020-05-04,Ilha de Santa Maria,1
+2020-05-05,Ilha de Santa Maria,0
+2020-05-06,Ilha de Santa Maria,2
+2020-05-07,Ilha de Santa Maria,0
+2020-05-08,Ilha de Santa Maria,0
+2020-01-01,Ilha de São Jorge,0
+2020-01-02,Ilha de São Jorge,2
+2020-01-03,Ilha de São Jorge,0
+2020-01-04,Ilha de São Jorge,1
+2020-01-05,Ilha de São Jorge,0
+2020-01-06,Ilha de São Jorge,0
+2020-01-07,Ilha de São Jorge,0
+2020-01-08,Ilha de São Jorge,0
+2020-01-09,Ilha de São Jorge,0
+2020-01-10,Ilha de São Jorge,0
+2020-01-11,Ilha de São Jorge,0
+2020-01-12,Ilha de São Jorge,0
+2020-01-13,Ilha de São Jorge,0
+2020-01-14,Ilha de São Jorge,0
+2020-01-15,Ilha de São Jorge,0
+2020-01-16,Ilha de São Jorge,2
+2020-01-17,Ilha de São Jorge,0
+2020-01-18,Ilha de São Jorge,0
+2020-01-19,Ilha de São Jorge,0
+2020-01-20,Ilha de São Jorge,0
+2020-01-21,Ilha de São Jorge,0
+2020-01-22,Ilha de São Jorge,1
+2020-01-23,Ilha de São Jorge,0
+2020-01-24,Ilha de São Jorge,1
+2020-01-25,Ilha de São Jorge,0
+2020-01-26,Ilha de São Jorge,1
+2020-01-27,Ilha de São Jorge,0
+2020-01-28,Ilha de São Jorge,1
+2020-01-29,Ilha de São Jorge,0
+2020-01-30,Ilha de São Jorge,1
+2020-01-31,Ilha de São Jorge,1
+2020-02-01,Ilha de São Jorge,0
+2020-02-02,Ilha de São Jorge,1
+2020-02-03,Ilha de São Jorge,0
+2020-02-04,Ilha de São Jorge,2
+2020-02-05,Ilha de São Jorge,2
+2020-02-06,Ilha de São Jorge,0
+2020-02-07,Ilha de São Jorge,0
+2020-02-08,Ilha de São Jorge,0
+2020-02-09,Ilha de São Jorge,0
+2020-02-10,Ilha de São Jorge,0
+2020-02-11,Ilha de São Jorge,1
+2020-02-12,Ilha de São Jorge,1
+2020-02-13,Ilha de São Jorge,0
+2020-02-14,Ilha de São Jorge,1
+2020-02-15,Ilha de São Jorge,0
+2020-02-16,Ilha de São Jorge,0
+2020-02-17,Ilha de São Jorge,0
+2020-02-18,Ilha de São Jorge,2
+2020-02-19,Ilha de São Jorge,0
+2020-02-20,Ilha de São Jorge,1
+2020-02-21,Ilha de São Jorge,1
+2020-02-22,Ilha de São Jorge,0
+2020-02-23,Ilha de São Jorge,0
+2020-02-24,Ilha de São Jorge,0
+2020-02-25,Ilha de São Jorge,0
+2020-02-26,Ilha de São Jorge,1
+2020-02-27,Ilha de São Jorge,0
+2020-02-28,Ilha de São Jorge,0
+2020-02-29,Ilha de São Jorge,1
+2020-03-01,Ilha de São Jorge,1
+2020-03-02,Ilha de São Jorge,1
+2020-03-03,Ilha de São Jorge,0
+2020-03-04,Ilha de São Jorge,2
+2020-03-05,Ilha de São Jorge,0
+2020-03-06,Ilha de São Jorge,1
+2020-03-07,Ilha de São Jorge,0
+2020-03-08,Ilha de São Jorge,0
+2020-03-09,Ilha de São Jorge,0
+2020-03-10,Ilha de São Jorge,0
+2020-03-11,Ilha de São Jorge,1
+2020-03-12,Ilha de São Jorge,0
+2020-03-13,Ilha de São Jorge,0
+2020-03-14,Ilha de São Jorge,1
+2020-03-15,Ilha de São Jorge,0
+2020-03-16,Ilha de São Jorge,1
+2020-03-17,Ilha de São Jorge,1
+2020-03-18,Ilha de São Jorge,0
+2020-03-19,Ilha de São Jorge,0
+2020-03-20,Ilha de São Jorge,1
+2020-03-21,Ilha de São Jorge,0
+2020-03-22,Ilha de São Jorge,0
+2020-03-23,Ilha de São Jorge,0
+2020-03-24,Ilha de São Jorge,1
+2020-03-25,Ilha de São Jorge,0
+2020-03-26,Ilha de São Jorge,1
+2020-03-27,Ilha de São Jorge,0
+2020-03-28,Ilha de São Jorge,0
+2020-03-29,Ilha de São Jorge,0
+2020-03-30,Ilha de São Jorge,0
+2020-03-31,Ilha de São Jorge,0
+2020-04-01,Ilha de São Jorge,0
+2020-04-02,Ilha de São Jorge,0
+2020-04-03,Ilha de São Jorge,1
+2020-04-04,Ilha de São Jorge,0
+2020-04-05,Ilha de São Jorge,0
+2020-04-06,Ilha de São Jorge,0
+2020-04-07,Ilha de São Jorge,0
+2020-04-08,Ilha de São Jorge,0
+2020-04-09,Ilha de São Jorge,0
+2020-04-10,Ilha de São Jorge,0
+2020-04-11,Ilha de São Jorge,0
+2020-04-12,Ilha de São Jorge,1
+2020-04-13,Ilha de São Jorge,0
+2020-04-14,Ilha de São Jorge,0
+2020-04-15,Ilha de São Jorge,0
+2020-04-16,Ilha de São Jorge,0
+2020-04-17,Ilha de São Jorge,0
+2020-04-18,Ilha de São Jorge,0
+2020-04-19,Ilha de São Jorge,0
+2020-04-20,Ilha de São Jorge,0
+2020-04-21,Ilha de São Jorge,2
+2020-04-22,Ilha de São Jorge,0
+2020-04-23,Ilha de São Jorge,1
+2020-04-24,Ilha de São Jorge,0
+2020-04-25,Ilha de São Jorge,0
+2020-04-26,Ilha de São Jorge,0
+2020-04-27,Ilha de São Jorge,0
+2020-04-28,Ilha de São Jorge,0
+2020-04-29,Ilha de São Jorge,0
+2020-04-30,Ilha de São Jorge,0
+2020-05-01,Ilha de São Jorge,0
+2020-05-02,Ilha de São Jorge,0
+2020-05-03,Ilha de São Jorge,0
+2020-05-04,Ilha de São Jorge,0
+2020-05-05,Ilha de São Jorge,1
+2020-05-06,Ilha de São Jorge,0
+2020-05-07,Ilha de São Jorge,0
+2020-05-08,Ilha de São Jorge,1
+2020-01-01,Ilha de São Miguel,4
+2020-01-02,Ilha de São Miguel,1
+2020-01-03,Ilha de São Miguel,1
+2020-01-04,Ilha de São Miguel,3
+2020-01-05,Ilha de São Miguel,3
+2020-01-06,Ilha de São Miguel,3
+2020-01-07,Ilha de São Miguel,0
+2020-01-08,Ilha de São Miguel,4
+2020-01-09,Ilha de São Miguel,4
+2020-01-10,Ilha de São Miguel,2
+2020-01-11,Ilha de São Miguel,4
+2020-01-12,Ilha de São Miguel,4
+2020-01-13,Ilha de São Miguel,2
+2020-01-14,Ilha de São Miguel,5
+2020-01-15,Ilha de São Miguel,4
+2020-01-16,Ilha de São Miguel,1
+2020-01-17,Ilha de São Miguel,6
+2020-01-18,Ilha de São Miguel,2
+2020-01-19,Ilha de São Miguel,3
+2020-01-20,Ilha de São Miguel,4
+2020-01-21,Ilha de São Miguel,2
+2020-01-22,Ilha de São Miguel,5
+2020-01-23,Ilha de São Miguel,2
+2020-01-24,Ilha de São Miguel,1
+2020-01-25,Ilha de São Miguel,4
+2020-01-26,Ilha de São Miguel,2
+2020-01-27,Ilha de São Miguel,5
+2020-01-28,Ilha de São Miguel,5
+2020-01-29,Ilha de São Miguel,6
+2020-01-30,Ilha de São Miguel,1
+2020-01-31,Ilha de São Miguel,5
+2020-02-01,Ilha de São Miguel,5
+2020-02-02,Ilha de São Miguel,6
+2020-02-03,Ilha de São Miguel,4
+2020-02-04,Ilha de São Miguel,3
+2020-02-05,Ilha de São Miguel,2
+2020-02-06,Ilha de São Miguel,2
+2020-02-07,Ilha de São Miguel,4
+2020-02-08,Ilha de São Miguel,8
+2020-02-09,Ilha de São Miguel,3
+2020-02-10,Ilha de São Miguel,1
+2020-02-11,Ilha de São Miguel,1
+2020-02-12,Ilha de São Miguel,3
+2020-02-13,Ilha de São Miguel,6
+2020-02-14,Ilha de São Miguel,3
+2020-02-15,Ilha de São Miguel,5
+2020-02-16,Ilha de São Miguel,1
+2020-02-17,Ilha de São Miguel,3
+2020-02-18,Ilha de São Miguel,5
+2020-02-19,Ilha de São Miguel,2
+2020-02-20,Ilha de São Miguel,3
+2020-02-21,Ilha de São Miguel,6
+2020-02-22,Ilha de São Miguel,5
+2020-02-23,Ilha de São Miguel,1
+2020-02-24,Ilha de São Miguel,2
+2020-02-25,Ilha de São Miguel,1
+2020-02-26,Ilha de São Miguel,3
+2020-02-27,Ilha de São Miguel,2
+2020-02-28,Ilha de São Miguel,1
+2020-02-29,Ilha de São Miguel,2
+2020-03-01,Ilha de São Miguel,4
+2020-03-02,Ilha de São Miguel,2
+2020-03-03,Ilha de São Miguel,2
+2020-03-04,Ilha de São Miguel,2
+2020-03-05,Ilha de São Miguel,10
+2020-03-06,Ilha de São Miguel,2
+2020-03-07,Ilha de São Miguel,2
+2020-03-08,Ilha de São Miguel,7
+2020-03-09,Ilha de São Miguel,3
+2020-03-10,Ilha de São Miguel,6
+2020-03-11,Ilha de São Miguel,4
+2020-03-12,Ilha de São Miguel,0
+2020-03-13,Ilha de São Miguel,5
+2020-03-14,Ilha de São Miguel,6
+2020-03-15,Ilha de São Miguel,2
+2020-03-16,Ilha de São Miguel,5
+2020-03-17,Ilha de São Miguel,1
+2020-03-18,Ilha de São Miguel,2
+2020-03-19,Ilha de São Miguel,2
+2020-03-20,Ilha de São Miguel,6
+2020-03-21,Ilha de São Miguel,3
+2020-03-22,Ilha de São Miguel,8
+2020-03-23,Ilha de São Miguel,5
+2020-03-24,Ilha de São Miguel,1
+2020-03-25,Ilha de São Miguel,3
+2020-03-26,Ilha de São Miguel,3
+2020-03-27,Ilha de São Miguel,5
+2020-03-28,Ilha de São Miguel,5
+2020-03-29,Ilha de São Miguel,4
+2020-03-30,Ilha de São Miguel,5
+2020-03-31,Ilha de São Miguel,2
+2020-04-01,Ilha de São Miguel,5
+2020-04-02,Ilha de São Miguel,4
+2020-04-03,Ilha de São Miguel,2
+2020-04-04,Ilha de São Miguel,3
+2020-04-05,Ilha de São Miguel,5
+2020-04-06,Ilha de São Miguel,5
+2020-04-07,Ilha de São Miguel,5
+2020-04-08,Ilha de São Miguel,6
+2020-04-09,Ilha de São Miguel,5
+2020-04-10,Ilha de São Miguel,8
+2020-04-11,Ilha de São Miguel,5
+2020-04-12,Ilha de São Miguel,4
+2020-04-13,Ilha de São Miguel,0
+2020-04-14,Ilha de São Miguel,3
+2020-04-15,Ilha de São Miguel,4
+2020-04-16,Ilha de São Miguel,3
+2020-04-17,Ilha de São Miguel,5
+2020-04-18,Ilha de São Miguel,2
+2020-04-19,Ilha de São Miguel,5
+2020-04-20,Ilha de São Miguel,1
+2020-04-21,Ilha de São Miguel,5
+2020-04-22,Ilha de São Miguel,8
+2020-04-23,Ilha de São Miguel,5
+2020-04-24,Ilha de São Miguel,6
+2020-04-25,Ilha de São Miguel,4
+2020-04-26,Ilha de São Miguel,4
+2020-04-27,Ilha de São Miguel,2
+2020-04-28,Ilha de São Miguel,5
+2020-04-29,Ilha de São Miguel,2
+2020-04-30,Ilha de São Miguel,5
+2020-05-01,Ilha de São Miguel,4
+2020-05-02,Ilha de São Miguel,4
+2020-05-03,Ilha de São Miguel,1
+2020-05-04,Ilha de São Miguel,3
+2020-05-05,Ilha de São Miguel,6
+2020-05-06,Ilha de São Miguel,1
+2020-05-07,Ilha de São Miguel,3
+2020-05-08,Ilha de São Miguel,5
+2020-01-01,Ilha do Corvo,0
+2020-01-02,Ilha do Corvo,0
+2020-01-03,Ilha do Corvo,0
+2020-01-04,Ilha do Corvo,0
+2020-01-05,Ilha do Corvo,0
+2020-01-06,Ilha do Corvo,0
+2020-01-07,Ilha do Corvo,0
+2020-01-08,Ilha do Corvo,0
+2020-01-09,Ilha do Corvo,0
+2020-01-10,Ilha do Corvo,0
+2020-01-11,Ilha do Corvo,1
+2020-01-12,Ilha do Corvo,0
+2020-01-13,Ilha do Corvo,0
+2020-01-14,Ilha do Corvo,0
+2020-01-15,Ilha do Corvo,0
+2020-01-16,Ilha do Corvo,0
+2020-01-17,Ilha do Corvo,0
+2020-01-18,Ilha do Corvo,0
+2020-01-19,Ilha do Corvo,0
+2020-01-20,Ilha do Corvo,0
+2020-01-21,Ilha do Corvo,0
+2020-01-22,Ilha do Corvo,0
+2020-01-23,Ilha do Corvo,0
+2020-01-24,Ilha do Corvo,0
+2020-01-25,Ilha do Corvo,0
+2020-01-26,Ilha do Corvo,0
+2020-01-27,Ilha do Corvo,0
+2020-01-28,Ilha do Corvo,0
+2020-01-29,Ilha do Corvo,0
+2020-01-30,Ilha do Corvo,0
+2020-01-31,Ilha do Corvo,0
+2020-02-01,Ilha do Corvo,0
+2020-02-02,Ilha do Corvo,0
+2020-02-03,Ilha do Corvo,0
+2020-02-04,Ilha do Corvo,0
+2020-02-05,Ilha do Corvo,0
+2020-02-06,Ilha do Corvo,0
+2020-02-07,Ilha do Corvo,0
+2020-02-08,Ilha do Corvo,0
+2020-02-09,Ilha do Corvo,0
+2020-02-10,Ilha do Corvo,0
+2020-02-11,Ilha do Corvo,0
+2020-02-12,Ilha do Corvo,0
+2020-02-13,Ilha do Corvo,0
+2020-02-14,Ilha do Corvo,0
+2020-02-15,Ilha do Corvo,0
+2020-02-16,Ilha do Corvo,0
+2020-02-17,Ilha do Corvo,0
+2020-02-18,Ilha do Corvo,0
+2020-02-19,Ilha do Corvo,0
+2020-02-20,Ilha do Corvo,0
+2020-02-21,Ilha do Corvo,0
+2020-02-22,Ilha do Corvo,0
+2020-02-23,Ilha do Corvo,0
+2020-02-24,Ilha do Corvo,0
+2020-02-25,Ilha do Corvo,0
+2020-02-26,Ilha do Corvo,0
+2020-02-27,Ilha do Corvo,0
+2020-02-28,Ilha do Corvo,0
+2020-02-29,Ilha do Corvo,0
+2020-03-01,Ilha do Corvo,0
+2020-03-02,Ilha do Corvo,0
+2020-03-03,Ilha do Corvo,0
+2020-03-04,Ilha do Corvo,0
+2020-03-05,Ilha do Corvo,0
+2020-03-06,Ilha do Corvo,0
+2020-03-07,Ilha do Corvo,0
+2020-03-08,Ilha do Corvo,0
+2020-03-09,Ilha do Corvo,0
+2020-03-10,Ilha do Corvo,0
+2020-03-11,Ilha do Corvo,0
+2020-03-12,Ilha do Corvo,1
+2020-03-13,Ilha do Corvo,0
+2020-03-14,Ilha do Corvo,0
+2020-03-15,Ilha do Corvo,0
+2020-03-16,Ilha do Corvo,0
+2020-03-17,Ilha do Corvo,0
+2020-03-18,Ilha do Corvo,0
+2020-03-19,Ilha do Corvo,0
+2020-03-20,Ilha do Corvo,0
+2020-03-21,Ilha do Corvo,0
+2020-03-22,Ilha do Corvo,0
+2020-03-23,Ilha do Corvo,0
+2020-03-24,Ilha do Corvo,0
+2020-03-25,Ilha do Corvo,0
+2020-03-26,Ilha do Corvo,0
+2020-03-27,Ilha do Corvo,0
+2020-03-28,Ilha do Corvo,0
+2020-03-29,Ilha do Corvo,0
+2020-03-30,Ilha do Corvo,0
+2020-03-31,Ilha do Corvo,0
+2020-04-01,Ilha do Corvo,1
+2020-04-02,Ilha do Corvo,0
+2020-04-03,Ilha do Corvo,0
+2020-04-04,Ilha do Corvo,0
+2020-04-05,Ilha do Corvo,0
+2020-04-06,Ilha do Corvo,0
+2020-04-07,Ilha do Corvo,0
+2020-04-08,Ilha do Corvo,0
+2020-04-09,Ilha do Corvo,0
+2020-04-10,Ilha do Corvo,0
+2020-04-11,Ilha do Corvo,0
+2020-04-12,Ilha do Corvo,0
+2020-04-13,Ilha do Corvo,0
+2020-04-14,Ilha do Corvo,0
+2020-04-15,Ilha do Corvo,0
+2020-04-16,Ilha do Corvo,0
+2020-04-17,Ilha do Corvo,0
+2020-04-18,Ilha do Corvo,0
+2020-04-19,Ilha do Corvo,0
+2020-04-20,Ilha do Corvo,0
+2020-04-21,Ilha do Corvo,0
+2020-04-22,Ilha do Corvo,0
+2020-04-23,Ilha do Corvo,0
+2020-04-24,Ilha do Corvo,0
+2020-04-25,Ilha do Corvo,0
+2020-04-26,Ilha do Corvo,0
+2020-04-27,Ilha do Corvo,0
+2020-04-28,Ilha do Corvo,0
+2020-04-29,Ilha do Corvo,0
+2020-04-30,Ilha do Corvo,0
+2020-05-01,Ilha do Corvo,0
+2020-05-02,Ilha do Corvo,0
+2020-05-03,Ilha do Corvo,0
+2020-05-04,Ilha do Corvo,0
+2020-05-05,Ilha do Corvo,0
+2020-05-06,Ilha do Corvo,0
+2020-05-07,Ilha do Corvo,0
+2020-05-08,Ilha do Corvo,0
+2020-01-01,Ilha do Faial,0
+2020-01-02,Ilha do Faial,0
+2020-01-03,Ilha do Faial,0
+2020-01-04,Ilha do Faial,1
+2020-01-05,Ilha do Faial,0
+2020-01-06,Ilha do Faial,0
+2020-01-07,Ilha do Faial,2
+2020-01-08,Ilha do Faial,0
+2020-01-09,Ilha do Faial,0
+2020-01-10,Ilha do Faial,0
+2020-01-11,Ilha do Faial,0
+2020-01-12,Ilha do Faial,0
+2020-01-13,Ilha do Faial,2
+2020-01-14,Ilha do Faial,0
+2020-01-15,Ilha do Faial,2
+2020-01-16,Ilha do Faial,0
+2020-01-17,Ilha do Faial,1
+2020-01-18,Ilha do Faial,1
+2020-01-19,Ilha do Faial,0
+2020-01-20,Ilha do Faial,0
+2020-01-21,Ilha do Faial,0
+2020-01-22,Ilha do Faial,0
+2020-01-23,Ilha do Faial,0
+2020-01-24,Ilha do Faial,0
+2020-01-25,Ilha do Faial,0
+2020-01-26,Ilha do Faial,0
+2020-01-27,Ilha do Faial,1
+2020-01-28,Ilha do Faial,0
+2020-01-29,Ilha do Faial,0
+2020-01-30,Ilha do Faial,1
+2020-01-31,Ilha do Faial,2
+2020-02-01,Ilha do Faial,1
+2020-02-02,Ilha do Faial,0
+2020-02-03,Ilha do Faial,2
+2020-02-04,Ilha do Faial,0
+2020-02-05,Ilha do Faial,1
+2020-02-06,Ilha do Faial,0
+2020-02-07,Ilha do Faial,0
+2020-02-08,Ilha do Faial,0
+2020-02-09,Ilha do Faial,1
+2020-02-10,Ilha do Faial,1
+2020-02-11,Ilha do Faial,0
+2020-02-12,Ilha do Faial,0
+2020-02-13,Ilha do Faial,0
+2020-02-14,Ilha do Faial,2
+2020-02-15,Ilha do Faial,0
+2020-02-16,Ilha do Faial,0
+2020-02-17,Ilha do Faial,0
+2020-02-18,Ilha do Faial,0
+2020-02-19,Ilha do Faial,0
+2020-02-20,Ilha do Faial,1
+2020-02-21,Ilha do Faial,1
+2020-02-22,Ilha do Faial,0
+2020-02-23,Ilha do Faial,0
+2020-02-24,Ilha do Faial,0
+2020-02-25,Ilha do Faial,0
+2020-02-26,Ilha do Faial,2
+2020-02-27,Ilha do Faial,0
+2020-02-28,Ilha do Faial,1
+2020-02-29,Ilha do Faial,0
+2020-03-01,Ilha do Faial,0
+2020-03-02,Ilha do Faial,0
+2020-03-03,Ilha do Faial,0
+2020-03-04,Ilha do Faial,0
+2020-03-05,Ilha do Faial,1
+2020-03-06,Ilha do Faial,0
+2020-03-07,Ilha do Faial,0
+2020-03-08,Ilha do Faial,0
+2020-03-09,Ilha do Faial,0
+2020-03-10,Ilha do Faial,0
+2020-03-11,Ilha do Faial,0
+2020-03-12,Ilha do Faial,1
+2020-03-13,Ilha do Faial,1
+2020-03-14,Ilha do Faial,0
+2020-03-15,Ilha do Faial,0
+2020-03-16,Ilha do Faial,0
+2020-03-17,Ilha do Faial,1
+2020-03-18,Ilha do Faial,1
+2020-03-19,Ilha do Faial,0
+2020-03-20,Ilha do Faial,0
+2020-03-21,Ilha do Faial,0
+2020-03-22,Ilha do Faial,0
+2020-03-23,Ilha do Faial,0
+2020-03-24,Ilha do Faial,1
+2020-03-25,Ilha do Faial,0
+2020-03-26,Ilha do Faial,0
+2020-03-27,Ilha do Faial,1
+2020-03-28,Ilha do Faial,0
+2020-03-29,Ilha do Faial,0
+2020-03-30,Ilha do Faial,0
+2020-03-31,Ilha do Faial,0
+2020-04-01,Ilha do Faial,1
+2020-04-02,Ilha do Faial,0
+2020-04-03,Ilha do Faial,0
+2020-04-04,Ilha do Faial,0
+2020-04-05,Ilha do Faial,0
+2020-04-06,Ilha do Faial,0
+2020-04-07,Ilha do Faial,2
+2020-04-08,Ilha do Faial,1
+2020-04-09,Ilha do Faial,0
+2020-04-10,Ilha do Faial,1
+2020-04-11,Ilha do Faial,1
+2020-04-12,Ilha do Faial,0
+2020-04-13,Ilha do Faial,0
+2020-04-14,Ilha do Faial,0
+2020-04-15,Ilha do Faial,0
+2020-04-16,Ilha do Faial,0
+2020-04-17,Ilha do Faial,0
+2020-04-18,Ilha do Faial,0
+2020-04-19,Ilha do Faial,1
+2020-04-20,Ilha do Faial,1
+2020-04-21,Ilha do Faial,1
+2020-04-22,Ilha do Faial,0
+2020-04-23,Ilha do Faial,0
+2020-04-24,Ilha do Faial,0
+2020-04-25,Ilha do Faial,1
+2020-04-26,Ilha do Faial,0
+2020-04-27,Ilha do Faial,0
+2020-04-28,Ilha do Faial,0
+2020-04-29,Ilha do Faial,1
+2020-04-30,Ilha do Faial,0
+2020-05-01,Ilha do Faial,0
+2020-05-02,Ilha do Faial,0
+2020-05-03,Ilha do Faial,0
+2020-05-04,Ilha do Faial,1
+2020-05-05,Ilha do Faial,0
+2020-05-06,Ilha do Faial,1
+2020-05-07,Ilha do Faial,2
+2020-05-08,Ilha do Faial,0
+2020-01-01,Ilha do Pico,1
+2020-01-02,Ilha do Pico,0
+2020-01-03,Ilha do Pico,1
+2020-01-04,Ilha do Pico,2
+2020-01-05,Ilha do Pico,0
+2020-01-06,Ilha do Pico,0
+2020-01-07,Ilha do Pico,1
+2020-01-08,Ilha do Pico,0
+2020-01-09,Ilha do Pico,0
+2020-01-10,Ilha do Pico,0
+2020-01-11,Ilha do Pico,0
+2020-01-12,Ilha do Pico,0
+2020-01-13,Ilha do Pico,0
+2020-01-14,Ilha do Pico,0
+2020-01-15,Ilha do Pico,1
+2020-01-16,Ilha do Pico,1
+2020-01-17,Ilha do Pico,1
+2020-01-18,Ilha do Pico,1
+2020-01-19,Ilha do Pico,1
+2020-01-20,Ilha do Pico,1
+2020-01-21,Ilha do Pico,0
+2020-01-22,Ilha do Pico,0
+2020-01-23,Ilha do Pico,0
+2020-01-24,Ilha do Pico,1
+2020-01-25,Ilha do Pico,0
+2020-01-26,Ilha do Pico,0
+2020-01-27,Ilha do Pico,2
+2020-01-28,Ilha do Pico,2
+2020-01-29,Ilha do Pico,0
+2020-01-30,Ilha do Pico,0
+2020-01-31,Ilha do Pico,1
+2020-02-01,Ilha do Pico,2
+2020-02-02,Ilha do Pico,0
+2020-02-03,Ilha do Pico,0
+2020-02-04,Ilha do Pico,0
+2020-02-05,Ilha do Pico,0
+2020-02-06,Ilha do Pico,1
+2020-02-07,Ilha do Pico,0
+2020-02-08,Ilha do Pico,1
+2020-02-09,Ilha do Pico,0
+2020-02-10,Ilha do Pico,1
+2020-02-11,Ilha do Pico,0
+2020-02-12,Ilha do Pico,1
+2020-02-13,Ilha do Pico,0
+2020-02-14,Ilha do Pico,3
+2020-02-15,Ilha do Pico,1
+2020-02-16,Ilha do Pico,1
+2020-02-17,Ilha do Pico,0
+2020-02-18,Ilha do Pico,0
+2020-02-19,Ilha do Pico,1
+2020-02-20,Ilha do Pico,0
+2020-02-21,Ilha do Pico,0
+2020-02-22,Ilha do Pico,0
+2020-02-23,Ilha do Pico,1
+2020-02-24,Ilha do Pico,1
+2020-02-25,Ilha do Pico,2
+2020-02-26,Ilha do Pico,0
+2020-02-27,Ilha do Pico,0
+2020-02-28,Ilha do Pico,1
+2020-02-29,Ilha do Pico,2
+2020-03-01,Ilha do Pico,0
+2020-03-02,Ilha do Pico,0
+2020-03-03,Ilha do Pico,0
+2020-03-04,Ilha do Pico,0
+2020-03-05,Ilha do Pico,0
+2020-03-06,Ilha do Pico,1
+2020-03-07,Ilha do Pico,1
+2020-03-08,Ilha do Pico,0
+2020-03-09,Ilha do Pico,0
+2020-03-10,Ilha do Pico,1
+2020-03-11,Ilha do Pico,0
+2020-03-12,Ilha do Pico,1
+2020-03-13,Ilha do Pico,1
+2020-03-14,Ilha do Pico,0
+2020-03-15,Ilha do Pico,0
+2020-03-16,Ilha do Pico,2
+2020-03-17,Ilha do Pico,0
+2020-03-18,Ilha do Pico,0
+2020-03-19,Ilha do Pico,1
+2020-03-20,Ilha do Pico,1
+2020-03-21,Ilha do Pico,2
+2020-03-22,Ilha do Pico,0
+2020-03-23,Ilha do Pico,1
+2020-03-24,Ilha do Pico,0
+2020-03-25,Ilha do Pico,0
+2020-03-26,Ilha do Pico,0
+2020-03-27,Ilha do Pico,1
+2020-03-28,Ilha do Pico,1
+2020-03-29,Ilha do Pico,0
+2020-03-30,Ilha do Pico,1
+2020-03-31,Ilha do Pico,0
+2020-04-01,Ilha do Pico,1
+2020-04-02,Ilha do Pico,0
+2020-04-03,Ilha do Pico,0
+2020-04-04,Ilha do Pico,0
+2020-04-05,Ilha do Pico,1
+2020-04-06,Ilha do Pico,1
+2020-04-07,Ilha do Pico,0
+2020-04-08,Ilha do Pico,1
+2020-04-09,Ilha do Pico,0
+2020-04-10,Ilha do Pico,1
+2020-04-11,Ilha do Pico,1
+2020-04-12,Ilha do Pico,0
+2020-04-13,Ilha do Pico,1
+2020-04-14,Ilha do Pico,0
+2020-04-15,Ilha do Pico,2
+2020-04-16,Ilha do Pico,0
+2020-04-17,Ilha do Pico,0
+2020-04-18,Ilha do Pico,0
+2020-04-19,Ilha do Pico,0
+2020-04-20,Ilha do Pico,1
+2020-04-21,Ilha do Pico,1
+2020-04-22,Ilha do Pico,0
+2020-04-23,Ilha do Pico,0
+2020-04-24,Ilha do Pico,1
+2020-04-25,Ilha do Pico,1
+2020-04-26,Ilha do Pico,0
+2020-04-27,Ilha do Pico,1
+2020-04-28,Ilha do Pico,1
+2020-04-29,Ilha do Pico,1
+2020-04-30,Ilha do Pico,0
+2020-05-01,Ilha do Pico,0
+2020-05-02,Ilha do Pico,0
+2020-05-03,Ilha do Pico,0
+2020-05-04,Ilha do Pico,1
+2020-05-05,Ilha do Pico,1
+2020-05-06,Ilha do Pico,0
+2020-05-07,Ilha do Pico,0
+2020-05-08,Ilha do Pico,1
+2020-01-01,Ilha Terceira,2
+2020-01-02,Ilha Terceira,2
+2020-01-03,Ilha Terceira,2
+2020-01-04,Ilha Terceira,1
+2020-01-05,Ilha Terceira,2
+2020-01-06,Ilha Terceira,1
+2020-01-07,Ilha Terceira,2
+2020-01-08,Ilha Terceira,2
+2020-01-09,Ilha Terceira,3
+2020-01-10,Ilha Terceira,3
+2020-01-11,Ilha Terceira,1
+2020-01-12,Ilha Terceira,1
+2020-01-13,Ilha Terceira,1
+2020-01-14,Ilha Terceira,1
+2020-01-15,Ilha Terceira,1
+2020-01-16,Ilha Terceira,1
+2020-01-17,Ilha Terceira,0
+2020-01-18,Ilha Terceira,0
+2020-01-19,Ilha Terceira,1
+2020-01-20,Ilha Terceira,3
+2020-01-21,Ilha Terceira,1
+2020-01-22,Ilha Terceira,4
+2020-01-23,Ilha Terceira,3
+2020-01-24,Ilha Terceira,2
+2020-01-25,Ilha Terceira,0
+2020-01-26,Ilha Terceira,2
+2020-01-27,Ilha Terceira,4
+2020-01-28,Ilha Terceira,2
+2020-01-29,Ilha Terceira,2
+2020-01-30,Ilha Terceira,2
+2020-01-31,Ilha Terceira,2
+2020-02-01,Ilha Terceira,1
+2020-02-02,Ilha Terceira,2
+2020-02-03,Ilha Terceira,3
+2020-02-04,Ilha Terceira,2
+2020-02-05,Ilha Terceira,2
+2020-02-06,Ilha Terceira,1
+2020-02-07,Ilha Terceira,3
+2020-02-08,Ilha Terceira,2
+2020-02-09,Ilha Terceira,2
+2020-02-10,Ilha Terceira,1
+2020-02-11,Ilha Terceira,4
+2020-02-12,Ilha Terceira,1
+2020-02-13,Ilha Terceira,1
+2020-02-14,Ilha Terceira,3
+2020-02-15,Ilha Terceira,0
+2020-02-16,Ilha Terceira,3
+2020-02-17,Ilha Terceira,1
+2020-02-18,Ilha Terceira,0
+2020-02-19,Ilha Terceira,2
+2020-02-20,Ilha Terceira,3
+2020-02-21,Ilha Terceira,2
+2020-02-22,Ilha Terceira,4
+2020-02-23,Ilha Terceira,2
+2020-02-24,Ilha Terceira,2
+2020-02-25,Ilha Terceira,1
+2020-02-26,Ilha Terceira,2
+2020-02-27,Ilha Terceira,1
+2020-02-28,Ilha Terceira,1
+2020-02-29,Ilha Terceira,2
+2020-03-01,Ilha Terceira,2
+2020-03-02,Ilha Terceira,1
+2020-03-03,Ilha Terceira,2
+2020-03-04,Ilha Terceira,0
+2020-03-05,Ilha Terceira,2
+2020-03-06,Ilha Terceira,0
+2020-03-07,Ilha Terceira,1
+2020-03-08,Ilha Terceira,3
+2020-03-09,Ilha Terceira,1
+2020-03-10,Ilha Terceira,0
+2020-03-11,Ilha Terceira,2
+2020-03-12,Ilha Terceira,0
+2020-03-13,Ilha Terceira,2
+2020-03-14,Ilha Terceira,2
+2020-03-15,Ilha Terceira,1
+2020-03-16,Ilha Terceira,3
+2020-03-17,Ilha Terceira,2
+2020-03-18,Ilha Terceira,1
+2020-03-19,Ilha Terceira,1
+2020-03-20,Ilha Terceira,3
+2020-03-21,Ilha Terceira,0
+2020-03-22,Ilha Terceira,2
+2020-03-23,Ilha Terceira,2
+2020-03-24,Ilha Terceira,2
+2020-03-25,Ilha Terceira,6
+2020-03-26,Ilha Terceira,2
+2020-03-27,Ilha Terceira,1
+2020-03-28,Ilha Terceira,1
+2020-03-29,Ilha Terceira,4
+2020-03-30,Ilha Terceira,7
+2020-03-31,Ilha Terceira,3
+2020-04-01,Ilha Terceira,4
+2020-04-02,Ilha Terceira,0
+2020-04-03,Ilha Terceira,1
+2020-04-04,Ilha Terceira,1
+2020-04-05,Ilha Terceira,3
+2020-04-06,Ilha Terceira,3
+2020-04-07,Ilha Terceira,1
+2020-04-08,Ilha Terceira,3
+2020-04-09,Ilha Terceira,2
+2020-04-10,Ilha Terceira,2
+2020-04-11,Ilha Terceira,1
+2020-04-12,Ilha Terceira,3
+2020-04-13,Ilha Terceira,1
+2020-04-14,Ilha Terceira,2
+2020-04-15,Ilha Terceira,4
+2020-04-16,Ilha Terceira,1
+2020-04-17,Ilha Terceira,0
+2020-04-18,Ilha Terceira,3
+2020-04-19,Ilha Terceira,0
+2020-04-20,Ilha Terceira,1
+2020-04-21,Ilha Terceira,3
+2020-04-22,Ilha Terceira,2
+2020-04-23,Ilha Terceira,1
+2020-04-24,Ilha Terceira,2
+2020-04-25,Ilha Terceira,0
+2020-04-26,Ilha Terceira,0
+2020-04-27,Ilha Terceira,1
+2020-04-28,Ilha Terceira,1
+2020-04-29,Ilha Terceira,2
+2020-04-30,Ilha Terceira,4
+2020-05-01,Ilha Terceira,3
+2020-05-02,Ilha Terceira,1
+2020-05-03,Ilha Terceira,3
+2020-05-04,Ilha Terceira,1
+2020-05-05,Ilha Terceira,1
+2020-05-06,Ilha Terceira,2
+2020-05-07,Ilha Terceira,1
+2020-05-08,Ilha Terceira,2
+2020-01-01,Leiria,18
+2020-01-02,Leiria,14
+2020-01-03,Leiria,16
+2020-01-04,Leiria,15
+2020-01-05,Leiria,13
+2020-01-06,Leiria,26
+2020-01-07,Leiria,12
+2020-01-08,Leiria,13
+2020-01-09,Leiria,18
+2020-01-10,Leiria,17
+2020-01-11,Leiria,17
+2020-01-12,Leiria,20
+2020-01-13,Leiria,24
+2020-01-14,Leiria,21
+2020-01-15,Leiria,20
+2020-01-16,Leiria,18
+2020-01-17,Leiria,27
+2020-01-18,Leiria,21
+2020-01-19,Leiria,17
+2020-01-20,Leiria,15
+2020-01-21,Leiria,22
+2020-01-22,Leiria,13
+2020-01-23,Leiria,23
+2020-01-24,Leiria,24
+2020-01-25,Leiria,19
+2020-01-26,Leiria,17
+2020-01-27,Leiria,14
+2020-01-28,Leiria,20
+2020-01-29,Leiria,14
+2020-01-30,Leiria,13
+2020-01-31,Leiria,11
+2020-02-01,Leiria,17
+2020-02-02,Leiria,14
+2020-02-03,Leiria,21
+2020-02-04,Leiria,16
+2020-02-05,Leiria,13
+2020-02-06,Leiria,16
+2020-02-07,Leiria,19
+2020-02-08,Leiria,19
+2020-02-09,Leiria,21
+2020-02-10,Leiria,16
+2020-02-11,Leiria,18
+2020-02-12,Leiria,10
+2020-02-13,Leiria,19
+2020-02-14,Leiria,19
+2020-02-15,Leiria,16
+2020-02-16,Leiria,13
+2020-02-17,Leiria,17
+2020-02-18,Leiria,15
+2020-02-19,Leiria,19
+2020-02-20,Leiria,16
+2020-02-21,Leiria,15
+2020-02-22,Leiria,15
+2020-02-23,Leiria,18
+2020-02-24,Leiria,15
+2020-02-25,Leiria,10
+2020-02-26,Leiria,11
+2020-02-27,Leiria,24
+2020-02-28,Leiria,16
+2020-02-29,Leiria,10
+2020-03-01,Leiria,15
+2020-03-02,Leiria,14
+2020-03-03,Leiria,13
+2020-03-04,Leiria,14
+2020-03-05,Leiria,18
+2020-03-06,Leiria,15
+2020-03-07,Leiria,14
+2020-03-08,Leiria,21
+2020-03-09,Leiria,16
+2020-03-10,Leiria,17
+2020-03-11,Leiria,19
+2020-03-12,Leiria,17
+2020-03-13,Leiria,13
+2020-03-14,Leiria,16
+2020-03-15,Leiria,15
+2020-03-16,Leiria,20
+2020-03-17,Leiria,16
+2020-03-18,Leiria,16
+2020-03-19,Leiria,20
+2020-03-20,Leiria,15
+2020-03-21,Leiria,15
+2020-03-22,Leiria,22
+2020-03-23,Leiria,18
+2020-03-24,Leiria,22
+2020-03-25,Leiria,14
+2020-03-26,Leiria,17
+2020-03-27,Leiria,19
+2020-03-28,Leiria,16
+2020-03-29,Leiria,17
+2020-03-30,Leiria,18
+2020-03-31,Leiria,15
+2020-04-01,Leiria,17
+2020-04-02,Leiria,20
+2020-04-03,Leiria,14
+2020-04-04,Leiria,20
+2020-04-05,Leiria,13
+2020-04-06,Leiria,18
+2020-04-07,Leiria,14
+2020-04-08,Leiria,14
+2020-04-09,Leiria,11
+2020-04-10,Leiria,15
+2020-04-11,Leiria,19
+2020-04-12,Leiria,14
+2020-04-13,Leiria,10
+2020-04-14,Leiria,17
+2020-04-15,Leiria,9
+2020-04-16,Leiria,6
+2020-04-17,Leiria,14
+2020-04-18,Leiria,8
+2020-04-19,Leiria,15
+2020-04-20,Leiria,14
+2020-04-21,Leiria,12
+2020-04-22,Leiria,9
+2020-04-23,Leiria,15
+2020-04-24,Leiria,18
+2020-04-25,Leiria,14
+2020-04-26,Leiria,13
+2020-04-27,Leiria,10
+2020-04-28,Leiria,12
+2020-04-29,Leiria,10
+2020-04-30,Leiria,15
+2020-05-01,Leiria,13
+2020-05-02,Leiria,10
+2020-05-03,Leiria,12
+2020-05-04,Leiria,13
+2020-05-05,Leiria,13
+2020-05-06,Leiria,15
+2020-05-07,Leiria,19
+2020-05-08,Leiria,6
+2020-01-01,Lisboa,62
+2020-01-02,Lisboa,76
+2020-01-03,Lisboa,71
+2020-01-04,Lisboa,69
+2020-01-05,Lisboa,64
+2020-01-06,Lisboa,72
+2020-01-07,Lisboa,84
+2020-01-08,Lisboa,77
+2020-01-09,Lisboa,73
+2020-01-10,Lisboa,65
+2020-01-11,Lisboa,78
+2020-01-12,Lisboa,68
+2020-01-13,Lisboa,79
+2020-01-14,Lisboa,70
+2020-01-15,Lisboa,90
+2020-01-16,Lisboa,85
+2020-01-17,Lisboa,69
+2020-01-18,Lisboa,71
+2020-01-19,Lisboa,68
+2020-01-20,Lisboa,71
+2020-01-21,Lisboa,57
+2020-01-22,Lisboa,63
+2020-01-23,Lisboa,74
+2020-01-24,Lisboa,81
+2020-01-25,Lisboa,85
+2020-01-26,Lisboa,69
+2020-01-27,Lisboa,90
+2020-01-28,Lisboa,61
+2020-01-29,Lisboa,82
+2020-01-30,Lisboa,69
+2020-01-31,Lisboa,74
+2020-02-01,Lisboa,79
+2020-02-02,Lisboa,67
+2020-02-03,Lisboa,70
+2020-02-04,Lisboa,79
+2020-02-05,Lisboa,79
+2020-02-06,Lisboa,72
+2020-02-07,Lisboa,72
+2020-02-08,Lisboa,60
+2020-02-09,Lisboa,58
+2020-02-10,Lisboa,71
+2020-02-11,Lisboa,63
+2020-02-12,Lisboa,61
+2020-02-13,Lisboa,67
+2020-02-14,Lisboa,65
+2020-02-15,Lisboa,75
+2020-02-16,Lisboa,64
+2020-02-17,Lisboa,62
+2020-02-18,Lisboa,65
+2020-02-19,Lisboa,55
+2020-02-20,Lisboa,53
+2020-02-21,Lisboa,62
+2020-02-22,Lisboa,77
+2020-02-23,Lisboa,60
+2020-02-24,Lisboa,71
+2020-02-25,Lisboa,79
+2020-02-26,Lisboa,72
+2020-02-27,Lisboa,71
+2020-02-28,Lisboa,66
+2020-02-29,Lisboa,60
+2020-03-01,Lisboa,67
+2020-03-02,Lisboa,68
+2020-03-03,Lisboa,62
+2020-03-04,Lisboa,51
+2020-03-05,Lisboa,49
+2020-03-06,Lisboa,61
+2020-03-07,Lisboa,63
+2020-03-08,Lisboa,58
+2020-03-09,Lisboa,67
+2020-03-10,Lisboa,59
+2020-03-11,Lisboa,63
+2020-03-12,Lisboa,66
+2020-03-13,Lisboa,74
+2020-03-14,Lisboa,62
+2020-03-15,Lisboa,55
+2020-03-16,Lisboa,72
+2020-03-17,Lisboa,49
+2020-03-18,Lisboa,60
+2020-03-19,Lisboa,67
+2020-03-20,Lisboa,61
+2020-03-21,Lisboa,63
+2020-03-22,Lisboa,54
+2020-03-23,Lisboa,60
+2020-03-24,Lisboa,80
+2020-03-25,Lisboa,60
+2020-03-26,Lisboa,72
+2020-03-27,Lisboa,81
+2020-03-28,Lisboa,63
+2020-03-29,Lisboa,74
+2020-03-30,Lisboa,72
+2020-03-31,Lisboa,74
+2020-04-01,Lisboa,56
+2020-04-02,Lisboa,76
+2020-04-03,Lisboa,64
+2020-04-04,Lisboa,83
+2020-04-05,Lisboa,60
+2020-04-06,Lisboa,70
+2020-04-07,Lisboa,87
+2020-04-08,Lisboa,54
+2020-04-09,Lisboa,82
+2020-04-10,Lisboa,65
+2020-04-11,Lisboa,49
+2020-04-12,Lisboa,72
+2020-04-13,Lisboa,73
+2020-04-14,Lisboa,66
+2020-04-15,Lisboa,62
+2020-04-16,Lisboa,82
+2020-04-17,Lisboa,69
+2020-04-18,Lisboa,74
+2020-04-19,Lisboa,57
+2020-04-20,Lisboa,71
+2020-04-21,Lisboa,61
+2020-04-22,Lisboa,62
+2020-04-23,Lisboa,72
+2020-04-24,Lisboa,55
+2020-04-25,Lisboa,68
+2020-04-26,Lisboa,67
+2020-04-27,Lisboa,56
+2020-04-28,Lisboa,73
+2020-04-29,Lisboa,56
+2020-04-30,Lisboa,58
+2020-05-01,Lisboa,73
+2020-05-02,Lisboa,49
+2020-05-03,Lisboa,68
+2020-05-04,Lisboa,74
+2020-05-05,Lisboa,60
+2020-05-06,Lisboa,62
+2020-05-07,Lisboa,67
+2020-05-08,Lisboa,57
+2020-01-01,Portalegre,6
+2020-01-02,Portalegre,2
+2020-01-03,Portalegre,6
+2020-01-04,Portalegre,7
+2020-01-05,Portalegre,3
+2020-01-06,Portalegre,4
+2020-01-07,Portalegre,4
+2020-01-08,Portalegre,7
+2020-01-09,Portalegre,7
+2020-01-10,Portalegre,3
+2020-01-11,Portalegre,10
+2020-01-12,Portalegre,6
+2020-01-13,Portalegre,5
+2020-01-14,Portalegre,9
+2020-01-15,Portalegre,6
+2020-01-16,Portalegre,6
+2020-01-17,Portalegre,9
+2020-01-18,Portalegre,6
+2020-01-19,Portalegre,6
+2020-01-20,Portalegre,8
+2020-01-21,Portalegre,6
+2020-01-22,Portalegre,7
+2020-01-23,Portalegre,6
+2020-01-24,Portalegre,3
+2020-01-25,Portalegre,7
+2020-01-26,Portalegre,5
+2020-01-27,Portalegre,4
+2020-01-28,Portalegre,5
+2020-01-29,Portalegre,5
+2020-01-30,Portalegre,5
+2020-01-31,Portalegre,7
+2020-02-01,Portalegre,4
+2020-02-02,Portalegre,5
+2020-02-03,Portalegre,7
+2020-02-04,Portalegre,12
+2020-02-05,Portalegre,3
+2020-02-06,Portalegre,7
+2020-02-07,Portalegre,10
+2020-02-08,Portalegre,3
+2020-02-09,Portalegre,5
+2020-02-10,Portalegre,11
+2020-02-11,Portalegre,6
+2020-02-12,Portalegre,8
+2020-02-13,Portalegre,5
+2020-02-14,Portalegre,5
+2020-02-15,Portalegre,8
+2020-02-16,Portalegre,11
+2020-02-17,Portalegre,8
+2020-02-18,Portalegre,3
+2020-02-19,Portalegre,6
+2020-02-20,Portalegre,6
+2020-02-21,Portalegre,3
+2020-02-22,Portalegre,1
+2020-02-23,Portalegre,5
+2020-02-24,Portalegre,7
+2020-02-25,Portalegre,6
+2020-02-26,Portalegre,5
+2020-02-27,Portalegre,2
+2020-02-28,Portalegre,4
+2020-02-29,Portalegre,4
+2020-03-01,Portalegre,2
+2020-03-02,Portalegre,4
+2020-03-03,Portalegre,3
+2020-03-04,Portalegre,3
+2020-03-05,Portalegre,5
+2020-03-06,Portalegre,9
+2020-03-07,Portalegre,6
+2020-03-08,Portalegre,4
+2020-03-09,Portalegre,7
+2020-03-10,Portalegre,4
+2020-03-11,Portalegre,2
+2020-03-12,Portalegre,9
+2020-03-13,Portalegre,1
+2020-03-14,Portalegre,3
+2020-03-15,Portalegre,7
+2020-03-16,Portalegre,10
+2020-03-17,Portalegre,2
+2020-03-18,Portalegre,4
+2020-03-19,Portalegre,11
+2020-03-20,Portalegre,3
+2020-03-21,Portalegre,4
+2020-03-22,Portalegre,8
+2020-03-23,Portalegre,5
+2020-03-24,Portalegre,6
+2020-03-25,Portalegre,5
+2020-03-26,Portalegre,7
+2020-03-27,Portalegre,11
+2020-03-28,Portalegre,6
+2020-03-29,Portalegre,8
+2020-03-30,Portalegre,4
+2020-03-31,Portalegre,7
+2020-04-01,Portalegre,7
+2020-04-02,Portalegre,6
+2020-04-03,Portalegre,10
+2020-04-04,Portalegre,6
+2020-04-05,Portalegre,8
+2020-04-06,Portalegre,4
+2020-04-07,Portalegre,3
+2020-04-08,Portalegre,7
+2020-04-09,Portalegre,7
+2020-04-10,Portalegre,4
+2020-04-11,Portalegre,2
+2020-04-12,Portalegre,4
+2020-04-13,Portalegre,9
+2020-04-14,Portalegre,4
+2020-04-15,Portalegre,5
+2020-04-16,Portalegre,5
+2020-04-17,Portalegre,1
+2020-04-18,Portalegre,3
+2020-04-19,Portalegre,2
+2020-04-20,Portalegre,4
+2020-04-21,Portalegre,3
+2020-04-22,Portalegre,2
+2020-04-23,Portalegre,8
+2020-04-24,Portalegre,7
+2020-04-25,Portalegre,3
+2020-04-26,Portalegre,6
+2020-04-27,Portalegre,6
+2020-04-28,Portalegre,5
+2020-04-29,Portalegre,11
+2020-04-30,Portalegre,3
+2020-05-01,Portalegre,5
+2020-05-02,Portalegre,6
+2020-05-03,Portalegre,7
+2020-05-04,Portalegre,2
+2020-05-05,Portalegre,5
+2020-05-06,Portalegre,4
+2020-05-07,Portalegre,2
+2020-05-08,Portalegre,9
+2020-01-01,Porto,61
+2020-01-02,Porto,67
+2020-01-03,Porto,64
+2020-01-04,Porto,50
+2020-01-05,Porto,48
+2020-01-06,Porto,60
+2020-01-07,Porto,65
+2020-01-08,Porto,61
+2020-01-09,Porto,58
+2020-01-10,Porto,59
+2020-01-11,Porto,52
+2020-01-12,Porto,61
+2020-01-13,Porto,76
+2020-01-14,Porto,57
+2020-01-15,Porto,72
+2020-01-16,Porto,63
+2020-01-17,Porto,45
+2020-01-18,Porto,43
+2020-01-19,Porto,53
+2020-01-20,Porto,46
+2020-01-21,Porto,73
+2020-01-22,Porto,62
+2020-01-23,Porto,56
+2020-01-24,Porto,61
+2020-01-25,Porto,63
+2020-01-26,Porto,53
+2020-01-27,Porto,50
+2020-01-28,Porto,68
+2020-01-29,Porto,54
+2020-01-30,Porto,58
+2020-01-31,Porto,59
+2020-02-01,Porto,54
+2020-02-02,Porto,58
+2020-02-03,Porto,59
+2020-02-04,Porto,58
+2020-02-05,Porto,45
+2020-02-06,Porto,45
+2020-02-07,Porto,49
+2020-02-08,Porto,46
+2020-02-09,Porto,48
+2020-02-10,Porto,52
+2020-02-11,Porto,62
+2020-02-12,Porto,46
+2020-02-13,Porto,58
+2020-02-14,Porto,37
+2020-02-15,Porto,43
+2020-02-16,Porto,48
+2020-02-17,Porto,55
+2020-02-18,Porto,44
+2020-02-19,Porto,54
+2020-02-20,Porto,54
+2020-02-21,Porto,55
+2020-02-22,Porto,60
+2020-02-23,Porto,47
+2020-02-24,Porto,49
+2020-02-25,Porto,40
+2020-02-26,Porto,46
+2020-02-27,Porto,52
+2020-02-28,Porto,42
+2020-02-29,Porto,45
+2020-03-01,Porto,41
+2020-03-02,Porto,51
+2020-03-03,Porto,44
+2020-03-04,Porto,52
+2020-03-05,Porto,45
+2020-03-06,Porto,46
+2020-03-07,Porto,42
+2020-03-08,Porto,39
+2020-03-09,Porto,67
+2020-03-10,Porto,60
+2020-03-11,Porto,52
+2020-03-12,Porto,53
+2020-03-13,Porto,42
+2020-03-14,Porto,46
+2020-03-15,Porto,56
+2020-03-16,Porto,56
+2020-03-17,Porto,47
+2020-03-18,Porto,50
+2020-03-19,Porto,62
+2020-03-20,Porto,48
+2020-03-21,Porto,52
+2020-03-22,Porto,54
+2020-03-23,Porto,48
+2020-03-24,Porto,51
+2020-03-25,Porto,55
+2020-03-26,Porto,59
+2020-03-27,Porto,52
+2020-03-28,Porto,61
+2020-03-29,Porto,48
+2020-03-30,Porto,65
+2020-03-31,Porto,62
+2020-04-01,Porto,61
+2020-04-02,Porto,63
+2020-04-03,Porto,71
+2020-04-04,Porto,74
+2020-04-05,Porto,52
+2020-04-06,Porto,67
+2020-04-07,Porto,55
+2020-04-08,Porto,52
+2020-04-09,Porto,63
+2020-04-10,Porto,63
+2020-04-11,Porto,61
+2020-04-12,Porto,62
+2020-04-13,Porto,51
+2020-04-14,Porto,61
+2020-04-15,Porto,56
+2020-04-16,Porto,50
+2020-04-17,Porto,66
+2020-04-18,Porto,52
+2020-04-19,Porto,45
+2020-04-20,Porto,62
+2020-04-21,Porto,59
+2020-04-22,Porto,52
+2020-04-23,Porto,45
+2020-04-24,Porto,37
+2020-04-25,Porto,52
+2020-04-26,Porto,48
+2020-04-27,Porto,57
+2020-04-28,Porto,44
+2020-04-29,Porto,45
+2020-04-30,Porto,53
+2020-05-01,Porto,44
+2020-05-02,Porto,51
+2020-05-03,Porto,63
+2020-05-04,Porto,47
+2020-05-05,Porto,52
+2020-05-06,Porto,44
+2020-05-07,Porto,49
+2020-05-08,Porto,26
+2020-01-01,Santarém,20
+2020-01-02,Santarém,23
+2020-01-03,Santarém,16
+2020-01-04,Santarém,23
+2020-01-05,Santarém,18
+2020-01-06,Santarém,20
+2020-01-07,Santarém,13
+2020-01-08,Santarém,17
+2020-01-09,Santarém,28
+2020-01-10,Santarém,21
+2020-01-11,Santarém,20
+2020-01-12,Santarém,22
+2020-01-13,Santarém,22
+2020-01-14,Santarém,20
+2020-01-15,Santarém,18
+2020-01-16,Santarém,19
+2020-01-17,Santarém,19
+2020-01-18,Santarém,26
+2020-01-19,Santarém,21
+2020-01-20,Santarém,23
+2020-01-21,Santarém,15
+2020-01-22,Santarém,24
+2020-01-23,Santarém,19
+2020-01-24,Santarém,19
+2020-01-25,Santarém,14
+2020-01-26,Santarém,12
+2020-01-27,Santarém,22
+2020-01-28,Santarém,22
+2020-01-29,Santarém,17
+2020-01-30,Santarém,22
+2020-01-31,Santarém,19
+2020-02-01,Santarém,20
+2020-02-02,Santarém,15
+2020-02-03,Santarém,21
+2020-02-04,Santarém,19
+2020-02-05,Santarém,20
+2020-02-06,Santarém,10
+2020-02-07,Santarém,24
+2020-02-08,Santarém,21
+2020-02-09,Santarém,21
+2020-02-10,Santarém,15
+2020-02-11,Santarém,22
+2020-02-12,Santarém,14
+2020-02-13,Santarém,14
+2020-02-14,Santarém,15
+2020-02-15,Santarém,11
+2020-02-16,Santarém,15
+2020-02-17,Santarém,16
+2020-02-18,Santarém,18
+2020-02-19,Santarém,19
+2020-02-20,Santarém,16
+2020-02-21,Santarém,16
+2020-02-22,Santarém,20
+2020-02-23,Santarém,12
+2020-02-24,Santarém,14
+2020-02-25,Santarém,20
+2020-02-26,Santarém,17
+2020-02-27,Santarém,20
+2020-02-28,Santarém,23
+2020-02-29,Santarém,15
+2020-03-01,Santarém,21
+2020-03-02,Santarém,18
+2020-03-03,Santarém,15
+2020-03-04,Santarém,19
+2020-03-05,Santarém,21
+2020-03-06,Santarém,16
+2020-03-07,Santarém,20
+2020-03-08,Santarém,19
+2020-03-09,Santarém,11
+2020-03-10,Santarém,8
+2020-03-11,Santarém,21
+2020-03-12,Santarém,16
+2020-03-13,Santarém,17
+2020-03-14,Santarém,17
+2020-03-15,Santarém,20
+2020-03-16,Santarém,14
+2020-03-17,Santarém,22
+2020-03-18,Santarém,17
+2020-03-19,Santarém,21
+2020-03-20,Santarém,17
+2020-03-21,Santarém,20
+2020-03-22,Santarém,24
+2020-03-23,Santarém,19
+2020-03-24,Santarém,17
+2020-03-25,Santarém,25
+2020-03-26,Santarém,21
+2020-03-27,Santarém,12
+2020-03-28,Santarém,14
+2020-03-29,Santarém,19
+2020-03-30,Santarém,18
+2020-03-31,Santarém,22
+2020-04-01,Santarém,17
+2020-04-02,Santarém,14
+2020-04-03,Santarém,27
+2020-04-04,Santarém,21
+2020-04-05,Santarém,18
+2020-04-06,Santarém,19
+2020-04-07,Santarém,15
+2020-04-08,Santarém,24
+2020-04-09,Santarém,26
+2020-04-10,Santarém,17
+2020-04-11,Santarém,11
+2020-04-12,Santarém,17
+2020-04-13,Santarém,18
+2020-04-14,Santarém,19
+2020-04-15,Santarém,17
+2020-04-16,Santarém,21
+2020-04-17,Santarém,17
+2020-04-18,Santarém,14
+2020-04-19,Santarém,21
+2020-04-20,Santarém,13
+2020-04-21,Santarém,15
+2020-04-22,Santarém,16
+2020-04-23,Santarém,11
+2020-04-24,Santarém,24
+2020-04-25,Santarém,13
+2020-04-26,Santarém,21
+2020-04-27,Santarém,18
+2020-04-28,Santarém,16
+2020-04-29,Santarém,13
+2020-04-30,Santarém,11
+2020-05-01,Santarém,15
+2020-05-02,Santarém,12
+2020-05-03,Santarém,19
+2020-05-04,Santarém,17
+2020-05-05,Santarém,19
+2020-05-06,Santarém,16
+2020-05-07,Santarém,16
+2020-05-08,Santarém,19
+2020-01-01,Setúbal,27
+2020-01-02,Setúbal,34
+2020-01-03,Setúbal,35
+2020-01-04,Setúbal,35
+2020-01-05,Setúbal,25
+2020-01-06,Setúbal,25
+2020-01-07,Setúbal,32
+2020-01-08,Setúbal,25
+2020-01-09,Setúbal,37
+2020-01-10,Setúbal,22
+2020-01-11,Setúbal,30
+2020-01-12,Setúbal,38
+2020-01-13,Setúbal,34
+2020-01-14,Setúbal,35
+2020-01-15,Setúbal,34
+2020-01-16,Setúbal,28
+2020-01-17,Setúbal,37
+2020-01-18,Setúbal,36
+2020-01-19,Setúbal,30
+2020-01-20,Setúbal,31
+2020-01-21,Setúbal,32
+2020-01-22,Setúbal,40
+2020-01-23,Setúbal,37
+2020-01-24,Setúbal,33
+2020-01-25,Setúbal,38
+2020-01-26,Setúbal,33
+2020-01-27,Setúbal,36
+2020-01-28,Setúbal,27
+2020-01-29,Setúbal,29
+2020-01-30,Setúbal,28
+2020-01-31,Setúbal,37
+2020-02-01,Setúbal,29
+2020-02-02,Setúbal,31
+2020-02-03,Setúbal,30
+2020-02-04,Setúbal,32
+2020-02-05,Setúbal,39
+2020-02-06,Setúbal,25
+2020-02-07,Setúbal,25
+2020-02-08,Setúbal,31
+2020-02-09,Setúbal,26
+2020-02-10,Setúbal,26
+2020-02-11,Setúbal,18
+2020-02-12,Setúbal,29
+2020-02-13,Setúbal,20
+2020-02-14,Setúbal,27
+2020-02-15,Setúbal,26
+2020-02-16,Setúbal,32
+2020-02-17,Setúbal,21
+2020-02-18,Setúbal,23
+2020-02-19,Setúbal,28
+2020-02-20,Setúbal,34
+2020-02-21,Setúbal,27
+2020-02-22,Setúbal,24
+2020-02-23,Setúbal,30
+2020-02-24,Setúbal,32
+2020-02-25,Setúbal,25
+2020-02-26,Setúbal,25
+2020-02-27,Setúbal,27
+2020-02-28,Setúbal,27
+2020-02-29,Setúbal,29
+2020-03-01,Setúbal,27
+2020-03-02,Setúbal,26
+2020-03-03,Setúbal,41
+2020-03-04,Setúbal,21
+2020-03-05,Setúbal,31
+2020-03-06,Setúbal,22
+2020-03-07,Setúbal,30
+2020-03-08,Setúbal,24
+2020-03-09,Setúbal,27
+2020-03-10,Setúbal,33
+2020-03-11,Setúbal,31
+2020-03-12,Setúbal,33
+2020-03-13,Setúbal,32
+2020-03-14,Setúbal,19
+2020-03-15,Setúbal,25
+2020-03-16,Setúbal,16
+2020-03-17,Setúbal,35
+2020-03-18,Setúbal,32
+2020-03-19,Setúbal,24
+2020-03-20,Setúbal,30
+2020-03-21,Setúbal,30
+2020-03-22,Setúbal,21
+2020-03-23,Setúbal,33
+2020-03-24,Setúbal,31
+2020-03-25,Setúbal,32
+2020-03-26,Setúbal,33
+2020-03-27,Setúbal,34
+2020-03-28,Setúbal,28
+2020-03-29,Setúbal,26
+2020-03-30,Setúbal,23
+2020-03-31,Setúbal,25
+2020-04-01,Setúbal,36
+2020-04-02,Setúbal,19
+2020-04-03,Setúbal,36
+2020-04-04,Setúbal,23
+2020-04-05,Setúbal,18
+2020-04-06,Setúbal,26
+2020-04-07,Setúbal,33
+2020-04-08,Setúbal,40
+2020-04-09,Setúbal,26
+2020-04-10,Setúbal,28
+2020-04-11,Setúbal,30
+2020-04-12,Setúbal,30
+2020-04-13,Setúbal,31
+2020-04-14,Setúbal,22
+2020-04-15,Setúbal,22
+2020-04-16,Setúbal,20
+2020-04-17,Setúbal,27
+2020-04-18,Setúbal,27
+2020-04-19,Setúbal,23
+2020-04-20,Setúbal,26
+2020-04-21,Setúbal,20
+2020-04-22,Setúbal,25
+2020-04-23,Setúbal,32
+2020-04-24,Setúbal,21
+2020-04-25,Setúbal,24
+2020-04-26,Setúbal,18
+2020-04-27,Setúbal,17
+2020-04-28,Setúbal,24
+2020-04-29,Setúbal,29
+2020-04-30,Setúbal,25
+2020-05-01,Setúbal,26
+2020-05-02,Setúbal,19
+2020-05-03,Setúbal,22
+2020-05-04,Setúbal,36
+2020-05-05,Setúbal,22
+2020-05-06,Setúbal,27
+2020-05-07,Setúbal,19
+2020-05-08,Setúbal,15
+2020-01-01,Viana do Castelo,11
+2020-01-02,Viana do Castelo,11
+2020-01-03,Viana do Castelo,11
+2020-01-04,Viana do Castelo,5
+2020-01-05,Viana do Castelo,11
+2020-01-06,Viana do Castelo,13
+2020-01-07,Viana do Castelo,6
+2020-01-08,Viana do Castelo,12
+2020-01-09,Viana do Castelo,6
+2020-01-10,Viana do Castelo,9
+2020-01-11,Viana do Castelo,8
+2020-01-12,Viana do Castelo,13
+2020-01-13,Viana do Castelo,6
+2020-01-14,Viana do Castelo,18
+2020-01-15,Viana do Castelo,9
+2020-01-16,Viana do Castelo,19
+2020-01-17,Viana do Castelo,14
+2020-01-18,Viana do Castelo,10
+2020-01-19,Viana do Castelo,14
+2020-01-20,Viana do Castelo,8
+2020-01-21,Viana do Castelo,11
+2020-01-22,Viana do Castelo,10
+2020-01-23,Viana do Castelo,11
+2020-01-24,Viana do Castelo,7
+2020-01-25,Viana do Castelo,14
+2020-01-26,Viana do Castelo,11
+2020-01-27,Viana do Castelo,11
+2020-01-28,Viana do Castelo,7
+2020-01-29,Viana do Castelo,10
+2020-01-30,Viana do Castelo,12
+2020-01-31,Viana do Castelo,8
+2020-02-01,Viana do Castelo,5
+2020-02-02,Viana do Castelo,10
+2020-02-03,Viana do Castelo,18
+2020-02-04,Viana do Castelo,4
+2020-02-05,Viana do Castelo,7
+2020-02-06,Viana do Castelo,17
+2020-02-07,Viana do Castelo,9
+2020-02-08,Viana do Castelo,6
+2020-02-09,Viana do Castelo,12
+2020-02-10,Viana do Castelo,10
+2020-02-11,Viana do Castelo,4
+2020-02-12,Viana do Castelo,6
+2020-02-13,Viana do Castelo,17
+2020-02-14,Viana do Castelo,5
+2020-02-15,Viana do Castelo,9
+2020-02-16,Viana do Castelo,6
+2020-02-17,Viana do Castelo,13
+2020-02-18,Viana do Castelo,9
+2020-02-19,Viana do Castelo,5
+2020-02-20,Viana do Castelo,5
+2020-02-21,Viana do Castelo,8
+2020-02-22,Viana do Castelo,8
+2020-02-23,Viana do Castelo,12
+2020-02-24,Viana do Castelo,12
+2020-02-25,Viana do Castelo,7
+2020-02-26,Viana do Castelo,4
+2020-02-27,Viana do Castelo,7
+2020-02-28,Viana do Castelo,4
+2020-02-29,Viana do Castelo,8
+2020-03-01,Viana do Castelo,7
+2020-03-02,Viana do Castelo,11
+2020-03-03,Viana do Castelo,12
+2020-03-04,Viana do Castelo,4
+2020-03-05,Viana do Castelo,11
+2020-03-06,Viana do Castelo,8
+2020-03-07,Viana do Castelo,7
+2020-03-08,Viana do Castelo,11
+2020-03-09,Viana do Castelo,8
+2020-03-10,Viana do Castelo,10
+2020-03-11,Viana do Castelo,7
+2020-03-12,Viana do Castelo,5
+2020-03-13,Viana do Castelo,5
+2020-03-14,Viana do Castelo,9
+2020-03-15,Viana do Castelo,5
+2020-03-16,Viana do Castelo,12
+2020-03-17,Viana do Castelo,3
+2020-03-18,Viana do Castelo,12
+2020-03-19,Viana do Castelo,7
+2020-03-20,Viana do Castelo,9
+2020-03-21,Viana do Castelo,12
+2020-03-22,Viana do Castelo,13
+2020-03-23,Viana do Castelo,6
+2020-03-24,Viana do Castelo,9
+2020-03-25,Viana do Castelo,6
+2020-03-26,Viana do Castelo,11
+2020-03-27,Viana do Castelo,7
+2020-03-28,Viana do Castelo,10
+2020-03-29,Viana do Castelo,7
+2020-03-30,Viana do Castelo,9
+2020-03-31,Viana do Castelo,11
+2020-04-01,Viana do Castelo,9
+2020-04-02,Viana do Castelo,16
+2020-04-03,Viana do Castelo,20
+2020-04-04,Viana do Castelo,10
+2020-04-05,Viana do Castelo,3
+2020-04-06,Viana do Castelo,14
+2020-04-07,Viana do Castelo,9
+2020-04-08,Viana do Castelo,13
+2020-04-09,Viana do Castelo,13
+2020-04-10,Viana do Castelo,11
+2020-04-11,Viana do Castelo,12
+2020-04-12,Viana do Castelo,13
+2020-04-13,Viana do Castelo,8
+2020-04-14,Viana do Castelo,18
+2020-04-15,Viana do Castelo,10
+2020-04-16,Viana do Castelo,16
+2020-04-17,Viana do Castelo,12
+2020-04-18,Viana do Castelo,8
+2020-04-19,Viana do Castelo,6
+2020-04-20,Viana do Castelo,13
+2020-04-21,Viana do Castelo,9
+2020-04-22,Viana do Castelo,7
+2020-04-23,Viana do Castelo,8
+2020-04-24,Viana do Castelo,5
+2020-04-25,Viana do Castelo,9
+2020-04-26,Viana do Castelo,11
+2020-04-27,Viana do Castelo,9
+2020-04-28,Viana do Castelo,7
+2020-04-29,Viana do Castelo,6
+2020-04-30,Viana do Castelo,10
+2020-05-01,Viana do Castelo,4
+2020-05-02,Viana do Castelo,8
+2020-05-03,Viana do Castelo,13
+2020-05-04,Viana do Castelo,7
+2020-05-05,Viana do Castelo,5
+2020-05-06,Viana do Castelo,8
+2020-05-07,Viana do Castelo,9
+2020-05-08,Viana do Castelo,8
+2020-01-01,Vila Real,8
+2020-01-02,Vila Real,5
+2020-01-03,Vila Real,15
+2020-01-04,Vila Real,3
+2020-01-05,Vila Real,5
+2020-01-06,Vila Real,6
+2020-01-07,Vila Real,11
+2020-01-08,Vila Real,12
+2020-01-09,Vila Real,7
+2020-01-10,Vila Real,4
+2020-01-11,Vila Real,2
+2020-01-12,Vila Real,14
+2020-01-13,Vila Real,8
+2020-01-14,Vila Real,8
+2020-01-15,Vila Real,8
+2020-01-16,Vila Real,11
+2020-01-17,Vila Real,16
+2020-01-18,Vila Real,12
+2020-01-19,Vila Real,12
+2020-01-20,Vila Real,5
+2020-01-21,Vila Real,9
+2020-01-22,Vila Real,6
+2020-01-23,Vila Real,9
+2020-01-24,Vila Real,8
+2020-01-25,Vila Real,9
+2020-01-26,Vila Real,6
+2020-01-27,Vila Real,4
+2020-01-28,Vila Real,6
+2020-01-29,Vila Real,13
+2020-01-30,Vila Real,12
+2020-01-31,Vila Real,10
+2020-02-01,Vila Real,10
+2020-02-02,Vila Real,14
+2020-02-03,Vila Real,9
+2020-02-04,Vila Real,8
+2020-02-05,Vila Real,4
+2020-02-06,Vila Real,11
+2020-02-07,Vila Real,14
+2020-02-08,Vila Real,6
+2020-02-09,Vila Real,4
+2020-02-10,Vila Real,6
+2020-02-11,Vila Real,6
+2020-02-12,Vila Real,10
+2020-02-13,Vila Real,7
+2020-02-14,Vila Real,4
+2020-02-15,Vila Real,9
+2020-02-16,Vila Real,5
+2020-02-17,Vila Real,13
+2020-02-18,Vila Real,5
+2020-02-19,Vila Real,9
+2020-02-20,Vila Real,8
+2020-02-21,Vila Real,6
+2020-02-22,Vila Real,12
+2020-02-23,Vila Real,7
+2020-02-24,Vila Real,7
+2020-02-25,Vila Real,5
+2020-02-26,Vila Real,5
+2020-02-27,Vila Real,5
+2020-02-28,Vila Real,10
+2020-02-29,Vila Real,7
+2020-03-01,Vila Real,6
+2020-03-02,Vila Real,10
+2020-03-03,Vila Real,9
+2020-03-04,Vila Real,10
+2020-03-05,Vila Real,9
+2020-03-06,Vila Real,12
+2020-03-07,Vila Real,6
+2020-03-08,Vila Real,9
+2020-03-09,Vila Real,7
+2020-03-10,Vila Real,6
+2020-03-11,Vila Real,13
+2020-03-12,Vila Real,7
+2020-03-13,Vila Real,4
+2020-03-14,Vila Real,8
+2020-03-15,Vila Real,6
+2020-03-16,Vila Real,11
+2020-03-17,Vila Real,9
+2020-03-18,Vila Real,12
+2020-03-19,Vila Real,5
+2020-03-20,Vila Real,6
+2020-03-21,Vila Real,11
+2020-03-22,Vila Real,5
+2020-03-23,Vila Real,11
+2020-03-24,Vila Real,14
+2020-03-25,Vila Real,10
+2020-03-26,Vila Real,9
+2020-03-27,Vila Real,12
+2020-03-28,Vila Real,10
+2020-03-29,Vila Real,7
+2020-03-30,Vila Real,7
+2020-03-31,Vila Real,5
+2020-04-01,Vila Real,7
+2020-04-02,Vila Real,7
+2020-04-03,Vila Real,14
+2020-04-04,Vila Real,3
+2020-04-05,Vila Real,9
+2020-04-06,Vila Real,6
+2020-04-07,Vila Real,5
+2020-04-08,Vila Real,10
+2020-04-09,Vila Real,4
+2020-04-10,Vila Real,7
+2020-04-11,Vila Real,9
+2020-04-12,Vila Real,4
+2020-04-13,Vila Real,6
+2020-04-14,Vila Real,6
+2020-04-15,Vila Real,8
+2020-04-16,Vila Real,12
+2020-04-17,Vila Real,11
+2020-04-18,Vila Real,6
+2020-04-19,Vila Real,6
+2020-04-20,Vila Real,3
+2020-04-21,Vila Real,7
+2020-04-22,Vila Real,12
+2020-04-23,Vila Real,5
+2020-04-24,Vila Real,11
+2020-04-25,Vila Real,5
+2020-04-26,Vila Real,4
+2020-04-27,Vila Real,11
+2020-04-28,Vila Real,6
+2020-04-29,Vila Real,10
+2020-04-30,Vila Real,1
+2020-05-01,Vila Real,7
+2020-05-02,Vila Real,4
+2020-05-03,Vila Real,9
+2020-05-04,Vila Real,4
+2020-05-05,Vila Real,2
+2020-05-06,Vila Real,9
+2020-05-07,Vila Real,8
+2020-05-08,Vila Real,7
+2020-01-01,Viseu,17
+2020-01-02,Viseu,9
+2020-01-03,Viseu,16
+2020-01-04,Viseu,12
+2020-01-05,Viseu,11
+2020-01-06,Viseu,8
+2020-01-07,Viseu,22
+2020-01-08,Viseu,17
+2020-01-09,Viseu,18
+2020-01-10,Viseu,15
+2020-01-11,Viseu,15
+2020-01-12,Viseu,11
+2020-01-13,Viseu,22
+2020-01-14,Viseu,18
+2020-01-15,Viseu,14
+2020-01-16,Viseu,14
+2020-01-17,Viseu,14
+2020-01-18,Viseu,19
+2020-01-19,Viseu,17
+2020-01-20,Viseu,20
+2020-01-21,Viseu,14
+2020-01-22,Viseu,23
+2020-01-23,Viseu,18
+2020-01-24,Viseu,18
+2020-01-25,Viseu,23
+2020-01-26,Viseu,21
+2020-01-27,Viseu,14
+2020-01-28,Viseu,13
+2020-01-29,Viseu,12
+2020-01-30,Viseu,13
+2020-01-31,Viseu,21
+2020-02-01,Viseu,18
+2020-02-02,Viseu,17
+2020-02-03,Viseu,22
+2020-02-04,Viseu,14
+2020-02-05,Viseu,14
+2020-02-06,Viseu,16
+2020-02-07,Viseu,13
+2020-02-08,Viseu,11
+2020-02-09,Viseu,13
+2020-02-10,Viseu,10
+2020-02-11,Viseu,5
+2020-02-12,Viseu,12
+2020-02-13,Viseu,11
+2020-02-14,Viseu,14
+2020-02-15,Viseu,13
+2020-02-16,Viseu,15
+2020-02-17,Viseu,12
+2020-02-18,Viseu,14
+2020-02-19,Viseu,15
+2020-02-20,Viseu,11
+2020-02-21,Viseu,20
+2020-02-22,Viseu,18
+2020-02-23,Viseu,9
+2020-02-24,Viseu,13
+2020-02-25,Viseu,13
+2020-02-26,Viseu,12
+2020-02-27,Viseu,13
+2020-02-28,Viseu,12
+2020-02-29,Viseu,11
+2020-03-01,Viseu,9
+2020-03-02,Viseu,8
+2020-03-03,Viseu,9
+2020-03-04,Viseu,14
+2020-03-05,Viseu,8
+2020-03-06,Viseu,9
+2020-03-07,Viseu,10
+2020-03-08,Viseu,15
+2020-03-09,Viseu,16
+2020-03-10,Viseu,16
+2020-03-11,Viseu,10
+2020-03-12,Viseu,8
+2020-03-13,Viseu,19
+2020-03-14,Viseu,13
+2020-03-15,Viseu,9
+2020-03-16,Viseu,12
+2020-03-17,Viseu,16
+2020-03-18,Viseu,13
+2020-03-19,Viseu,11
+2020-03-20,Viseu,12
+2020-03-21,Viseu,14
+2020-03-22,Viseu,7
+2020-03-23,Viseu,12
+2020-03-24,Viseu,19
+2020-03-25,Viseu,15
+2020-03-26,Viseu,12
+2020-03-27,Viseu,13
+2020-03-28,Viseu,9
+2020-03-29,Viseu,15
+2020-03-30,Viseu,11
+2020-03-31,Viseu,16
+2020-04-01,Viseu,21
+2020-04-02,Viseu,18
+2020-04-03,Viseu,12
+2020-04-04,Viseu,15
+2020-04-05,Viseu,9
+2020-04-06,Viseu,16
+2020-04-07,Viseu,17
+2020-04-08,Viseu,16
+2020-04-09,Viseu,15
+2020-04-10,Viseu,13
+2020-04-11,Viseu,11
+2020-04-12,Viseu,23
+2020-04-13,Viseu,17
+2020-04-14,Viseu,17
+2020-04-15,Viseu,9
+2020-04-16,Viseu,17
+2020-04-17,Viseu,14
+2020-04-18,Viseu,16
+2020-04-19,Viseu,13
+2020-04-20,Viseu,16
+2020-04-21,Viseu,9
+2020-04-22,Viseu,16
+2020-04-23,Viseu,11
+2020-04-24,Viseu,11
+2020-04-25,Viseu,18
+2020-04-26,Viseu,16
+2020-04-27,Viseu,19
+2020-04-28,Viseu,8
+2020-04-29,Viseu,10
+2020-04-30,Viseu,11
+2020-05-01,Viseu,15
+2020-05-02,Viseu,21
+2020-05-03,Viseu,8
+2020-05-04,Viseu,10
+2020-05-05,Viseu,9
+2020-05-06,Viseu,19
+2020-05-07,Viseu,10
+2020-05-08,Viseu,15
