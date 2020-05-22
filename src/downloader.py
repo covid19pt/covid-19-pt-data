@@ -34,14 +34,28 @@ def get_data_col(df):
 
 
 def preprocess_districts(df):
+    filename = "mortalidade_distritos_2020.csv"
+    previous = pd.read_csv(Path(BASEPATH).expanduser() / filename, parse_dates=["data"])
     datacol = get_data_col(df)
     df[datacol] = df[datacol].apply(modify_dates)
     df[datacol] = "2020" + '-' + df[datacol]
     df["data"] = pd.to_datetime(df[datacol])
-    return df[["data", "Distrito", "Óbitos"]], "mortalidade_distritos_2020.csv"
+    df = df[["data", "Distrito", "Óbitos"]]
+    # if some date was removed from previous, keep that date (this happens sometimes 
+    # with the source data)
+    removed_entries = set(map(tuple, previous[["data", "Distrito"]].values.tolist())) - \
+                      set(map(tuple, df[["data", "Distrito"]].values.tolist()))
+    for data, distrito in removed_entries:
+        df = df.append({"data": data, "Distrito": distrito, 
+                        "Óbitos": previous[previous.data.eq(data) & previous.Distrito.eq(distrito)]["Óbitos"].values[0]},
+                        ignore_index=True)
+        print("Reincluded: ", data, distrito)
+    df = df.sort_values(["Distrito", "data"])
+    return df, filename
 
 
 def preprocess_global(data):
+    filename = "mortalidade.csv"
     df1 = data
     datacol = get_data_col(df1)
     df1 = df1.set_index(datacol).unstack().to_frame('total').reset_index()
@@ -51,7 +65,7 @@ def preprocess_global(data):
     df1 = df1[df1.total.notnull()]
     df1['data'] = pd.to_datetime(df1[datacol])
     df1['total'] = df1['total'].astype(int)
-    return df1[['data', 'total']], "mortalidade.csv"
+    return df1[['data', 'total']], filename
 
 
 def search_download(include_today=False):
