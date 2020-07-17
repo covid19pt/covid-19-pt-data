@@ -193,9 +193,10 @@ data,Distrito,Óbitos
 2020-07-10,Aveiro,25
 2020-07-11,Aveiro,17
 2020-07-12,Aveiro,26
-2020-07-13,Aveiro,14
+2020-07-13,Aveiro,15
 2020-07-14,Aveiro,23
-2020-07-15,Aveiro,16
+2020-07-15,Aveiro,18
+2020-07-16,Aveiro,21
 2020-01-01,Beja,3
 2020-01-02,Beja,11
 2020-01-03,Beja,11
@@ -392,7 +393,8 @@ data,Distrito,Óbitos
 2020-07-12,Beja,6
 2020-07-13,Beja,7
 2020-07-14,Beja,9
-2020-07-15,Beja,3
+2020-07-15,Beja,5
+2020-07-16,Beja,9
 2020-01-01,Braga,30
 2020-01-02,Braga,28
 2020-01-03,Braga,23
@@ -588,8 +590,9 @@ data,Distrito,Óbitos
 2020-07-11,Braga,21
 2020-07-12,Braga,18
 2020-07-13,Braga,23
-2020-07-14,Braga,30
-2020-07-15,Braga,25
+2020-07-14,Braga,31
+2020-07-15,Braga,27
+2020-07-16,Braga,19
 2020-01-01,Bragança,1
 2020-01-02,Bragança,9
 2020-01-03,Bragança,3
@@ -786,7 +789,8 @@ data,Distrito,Óbitos
 2020-07-12,Bragança,4
 2020-07-13,Bragança,4
 2020-07-14,Bragança,5
-2020-07-15,Bragança,4
+2020-07-15,Bragança,5
+2020-07-16,Bragança,6
 2020-01-01,Castelo Branco,10
 2020-01-02,Castelo Branco,10
 2020-01-03,Castelo Branco,9
@@ -984,6 +988,7 @@ data,Distrito,Óbitos
 2020-07-13,Castelo Branco,6
 2020-07-14,Castelo Branco,8
 2020-07-15,Castelo Branco,7
+2020-07-16,Castelo Branco,11
 2020-01-01,Coimbra,24
 2020-01-02,Coimbra,15
 2020-01-03,Coimbra,15
@@ -1179,8 +1184,9 @@ data,Distrito,Óbitos
 2020-07-11,Coimbra,16
 2020-07-12,Coimbra,15
 2020-07-13,Coimbra,10
-2020-07-14,Coimbra,22
-2020-07-15,Coimbra,17
+2020-07-14,Coimbra,23
+2020-07-15,Coimbra,18
+2020-07-16,Coimbra,27
 2020-01-01,Desconhecido,3
 2020-01-02,Desconhecido,1
 2020-01-03,Desconhecido,0
@@ -1267,7 +1273,7 @@ data,Distrito,Óbitos
 2020-03-24,Desconhecido,0
 2020-03-25,Desconhecido,1
 2020-03-26,Desconhecido,0
-2020-03-27,Desconhecido,1
+2020-03-27,Desconhecido,0
 2020-03-28,Desconhecido,0
 2020-03-29,Desconhecido,0
 2020-03-30,Desconhecido,1
@@ -1376,8 +1382,9 @@ data,Distrito,Óbitos
 2020-07-11,Desconhecido,0
 2020-07-12,Desconhecido,0
 2020-07-13,Desconhecido,0
-2020-07-14,Desconhecido,4
+2020-07-14,Desconhecido,3
 2020-07-15,Desconhecido,0
+2020-07-16,Desconhecido,4
 2020-01-01,Estrangeiro,1
 2020-01-02,Estrangeiro,2
 2020-01-03,Estrangeiro,0
@@ -1570,11 +1577,12 @@ data,Distrito,Óbitos
 2020-07-08,Estrangeiro,0
 2020-07-09,Estrangeiro,0
 2020-07-10,Estrangeiro,0
-2020-07-11,Estrangeiro,0
+2020-07-11,Estrangeiro,1
 2020-07-12,Estrangeiro,1
 2020-07-13,Estrangeiro,0
 2020-07-14,Estrangeiro,0
 2020-07-15,Estrangeiro,1
+2020-07-16,Estrangeiro,2
 2020-01-01,Faro,24
 2020-01-02,Faro,20
 2020-01-03,Faro,18
@@ -1770,8 +1778,9 @@ data,Distrito,Óbitos
 2020-07-11,Faro,13
 2020-07-12,Faro,15
 2020-07-13,Faro,15
-2020-07-14,Faro,21
-2020-07-15,Faro,12
+2020-07-14,Faro,22
+2020-07-15,Faro,13
+2020-07-16,Faro,14
 2020-01-01,Guarda,7
 2020-01-02,Guarda,8
 2020-01-03,Guarda,8
@@ -1967,8 +1976,9 @@ data,Distrito,Óbitos
 2020-07-11,Guarda,11
 2020-07-12,Guarda,5
 2020-07-13,Guarda,11
-2020-07-14,Guarda,11
+2020-07-14,Guarda,12
 2020-07-15,Guarda,9
+2020-07-16,Guarda,9
 2020-01-01,Ilha Terceira,2
 2020-01-02,Ilha Terceira,2
 2020-01-03,Ilha Terceira,2
@@ -2166,6 +2176,7 @@ data,Distrito,Óbitos
 2020-07-13,Ilha Terceira,2
 2020-07-14,Ilha Terceira,2
 2020-07-15,Ilha Terceira,1
+2020-07-16,Ilha Terceira,0
 2020-01-01,Ilha da Graciosa,0
 2020-01-02,Ilha da Graciosa,0
 2020-01-03,Ilha da Graciosa,0
@@ -2363,6 +2374,7 @@ data,Distrito,Óbitos
 2020-07-13,Ilha da Graciosa,0
 2020-07-14,Ilha da Graciosa,0
 2020-07-15,Ilha da Graciosa,0
+2020-07-16,Ilha da Graciosa,0
 2020-01-01,Ilha da Madeira,8
 2020-01-02,Ilha da Madeira,10
 2020-01-03,Ilha da Madeira,9
@@ -2559,7 +2571,8 @@ data,Distrito,Óbitos
 2020-07-12,Ilha da Madeira,8
 2020-07-13,Ilha da Madeira,8
 2020-07-14,Ilha da Madeira,6
-2020-07-15,Ilha da Madeira,6
+2020-07-15,Ilha da Madeira,7
+2020-07-16,Ilha da Madeira,11
 2020-01-01,Ilha das Flores,0
 2020-01-02,Ilha das Flores,0
 2020-01-03,Ilha das Flores,0
@@ -2757,6 +2770,7 @@ data,Distrito,Óbitos
 2020-07-13,Ilha das Flores,0
 2020-07-14,Ilha das Flores,0
 2020-07-15,Ilha das Flores,0
+2020-07-16,Ilha das Flores,0
 2020-01-01,Ilha de Porto Santo,0
 2020-01-02,Ilha de Porto Santo,1
 2020-01-03,Ilha de Porto Santo,0
@@ -2954,6 +2968,7 @@ data,Distrito,Óbitos
 2020-07-13,Ilha de Porto Santo,0
 2020-07-14,Ilha de Porto Santo,0
 2020-07-15,Ilha de Porto Santo,0
+2020-07-16,Ilha de Porto Santo,0
 2020-01-01,Ilha de Santa Maria,0
 2020-01-02,Ilha de Santa Maria,0
 2020-01-03,Ilha de Santa Maria,0
@@ -3151,6 +3166,7 @@ data,Distrito,Óbitos
 2020-07-13,Ilha de Santa Maria,0
 2020-07-14,Ilha de Santa Maria,0
 2020-07-15,Ilha de Santa Maria,0
+2020-07-16,Ilha de Santa Maria,1
 2020-01-01,Ilha de São Jorge,0
 2020-01-02,Ilha de São Jorge,2
 2020-01-03,Ilha de São Jorge,0
@@ -3348,6 +3364,7 @@ data,Distrito,Óbitos
 2020-07-13,Ilha de São Jorge,0
 2020-07-14,Ilha de São Jorge,0
 2020-07-15,Ilha de São Jorge,0
+2020-07-16,Ilha de São Jorge,0
 2020-01-01,Ilha de São Miguel,4
 2020-01-02,Ilha de São Miguel,1
 2020-01-03,Ilha de São Miguel,1
@@ -3545,6 +3562,7 @@ data,Distrito,Óbitos
 2020-07-13,Ilha de São Miguel,3
 2020-07-14,Ilha de São Miguel,2
 2020-07-15,Ilha de São Miguel,4
+2020-07-16,Ilha de São Miguel,5
 2020-01-01,Ilha do Corvo,0
 2020-01-02,Ilha do Corvo,0
 2020-01-03,Ilha do Corvo,0
@@ -3742,6 +3760,7 @@ data,Distrito,Óbitos
 2020-07-13,Ilha do Corvo,0
 2020-07-14,Ilha do Corvo,0
 2020-07-15,Ilha do Corvo,0
+2020-07-16,Ilha do Corvo,0
 2020-01-01,Ilha do Faial,0
 2020-01-02,Ilha do Faial,0
 2020-01-03,Ilha do Faial,0
@@ -3939,6 +3958,7 @@ data,Distrito,Óbitos
 2020-07-13,Ilha do Faial,1
 2020-07-14,Ilha do Faial,1
 2020-07-15,Ilha do Faial,0
+2020-07-16,Ilha do Faial,0
 2020-01-01,Ilha do Pico,1
 2020-01-02,Ilha do Pico,0
 2020-01-03,Ilha do Pico,1
@@ -4136,6 +4156,7 @@ data,Distrito,Óbitos
 2020-07-13,Ilha do Pico,0
 2020-07-14,Ilha do Pico,0
 2020-07-15,Ilha do Pico,0
+2020-07-16,Ilha do Pico,1
 2020-01-01,Leiria,18
 2020-01-02,Leiria,14
 2020-01-03,Leiria,16
@@ -4333,6 +4354,7 @@ data,Distrito,Óbitos
 2020-07-13,Leiria,20
 2020-07-14,Leiria,16
 2020-07-15,Leiria,16
+2020-07-16,Leiria,15
 2020-01-01,Lisboa,62
 2020-01-02,Lisboa,76
 2020-01-03,Lisboa,71
@@ -4378,7 +4400,7 @@ data,Distrito,Óbitos
 2020-02-12,Lisboa,61
 2020-02-13,Lisboa,67
 2020-02-14,Lisboa,65
-2020-02-15,Lisboa,76
+2020-02-15,Lisboa,75
 2020-02-16,Lisboa,64
 2020-02-17,Lisboa,62
 2020-02-18,Lisboa,65
@@ -4524,12 +4546,13 @@ data,Distrito,Óbitos
 2020-07-07,Lisboa,56
 2020-07-08,Lisboa,76
 2020-07-09,Lisboa,71
-2020-07-10,Lisboa,64
-2020-07-11,Lisboa,52
+2020-07-10,Lisboa,66
+2020-07-11,Lisboa,54
 2020-07-12,Lisboa,66
-2020-07-13,Lisboa,48
-2020-07-14,Lisboa,74
-2020-07-15,Lisboa,40
+2020-07-13,Lisboa,50
+2020-07-14,Lisboa,75
+2020-07-15,Lisboa,47
+2020-07-16,Lisboa,63
 2020-01-01,Portalegre,6
 2020-01-02,Portalegre,2
 2020-01-03,Portalegre,6
@@ -4727,6 +4750,7 @@ data,Distrito,Óbitos
 2020-07-13,Portalegre,6
 2020-07-14,Portalegre,10
 2020-07-15,Portalegre,7
+2020-07-16,Portalegre,3
 2020-01-01,Porto,61
 2020-01-02,Porto,67
 2020-01-03,Porto,64
@@ -4921,9 +4945,10 @@ data,Distrito,Óbitos
 2020-07-10,Porto,42
 2020-07-11,Porto,44
 2020-07-12,Porto,47
-2020-07-13,Porto,52
+2020-07-13,Porto,54
 2020-07-14,Porto,46
-2020-07-15,Porto,44
+2020-07-15,Porto,46
+2020-07-16,Porto,47
 2020-01-01,Santarém,20
 2020-01-02,Santarém,23
 2020-01-03,Santarém,16
@@ -5121,6 +5146,7 @@ data,Distrito,Óbitos
 2020-07-13,Santarém,16
 2020-07-14,Santarém,23
 2020-07-15,Santarém,14
+2020-07-16,Santarém,17
 2020-01-01,Setúbal,27
 2020-01-02,Setúbal,34
 2020-01-03,Setúbal,35
@@ -5207,7 +5233,7 @@ data,Distrito,Óbitos
 2020-03-24,Setúbal,31
 2020-03-25,Setúbal,32
 2020-03-26,Setúbal,34
-2020-03-27,Setúbal,34
+2020-03-27,Setúbal,35
 2020-03-28,Setúbal,28
 2020-03-29,Setúbal,26
 2020-03-30,Setúbal,23
@@ -5316,8 +5342,9 @@ data,Distrito,Óbitos
 2020-07-11,Setúbal,30
 2020-07-12,Setúbal,28
 2020-07-13,Setúbal,35
-2020-07-14,Setúbal,29
-2020-07-15,Setúbal,21
+2020-07-14,Setúbal,32
+2020-07-15,Setúbal,23
+2020-07-16,Setúbal,27
 2020-01-01,Viana do Castelo,11
 2020-01-02,Viana do Castelo,11
 2020-01-03,Viana do Castelo,11
@@ -5514,7 +5541,8 @@ data,Distrito,Óbitos
 2020-07-12,Viana do Castelo,6
 2020-07-13,Viana do Castelo,10
 2020-07-14,Viana do Castelo,9
-2020-07-15,Viana do Castelo,12
+2020-07-15,Viana do Castelo,13
+2020-07-16,Viana do Castelo,6
 2020-01-01,Vila Real,8
 2020-01-02,Vila Real,5
 2020-01-03,Vila Real,15
@@ -5708,10 +5736,11 @@ data,Distrito,Óbitos
 2020-07-09,Vila Real,6
 2020-07-10,Vila Real,11
 2020-07-11,Vila Real,7
-2020-07-12,Vila Real,8
+2020-07-12,Vila Real,9
 2020-07-13,Vila Real,14
 2020-07-14,Vila Real,3
 2020-07-15,Vila Real,4
+2020-07-16,Vila Real,5
 2020-01-01,Viseu,17
 2020-01-02,Viseu,9
 2020-01-03,Viseu,16
@@ -5907,8 +5936,9 @@ data,Distrito,Óbitos
 2020-07-11,Viseu,9
 2020-07-12,Viseu,12
 2020-07-13,Viseu,21
-2020-07-14,Viseu,21
-2020-07-15,Viseu,8
+2020-07-14,Viseu,22
+2020-07-15,Viseu,9
+2020-07-16,Viseu,15
 2020-01-01,Évora,8
 2020-01-02,Évora,5
 2020-01-03,Évora,4
@@ -6106,3 +6136,4 @@ data,Distrito,Óbitos
 2020-07-13,Évora,6
 2020-07-14,Évora,13
 2020-07-15,Évora,13
+2020-07-16,Évora,11
