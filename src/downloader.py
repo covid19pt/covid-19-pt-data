@@ -23,6 +23,10 @@ def preprocess(datapath):
     data = pd.read_csv(datapath)
     if "Distrito" in data.columns:
         return preprocess_districts(data)
+    elif "1-4 anos" in data.columns:
+        return preprocess_age_group(data)
+    elif "No domicilio" in data.columns:
+        return preprocess_location(data)
     else:
         return preprocess_global(data)
 
@@ -52,6 +56,34 @@ def preprocess_districts(df):
         print("Reincluded: ", data, distrito)
     df = df.sort_values(["Distrito", "data"])
     return df, filename
+
+
+def preprocess_age_group(data):
+    filename = "mortalidade_grupo_etario_2020.csv"
+    df1 = data
+    datacol = get_data_col(df1)
+    df1 = df1.set_index(datacol).unstack().to_frame('total').reset_index()
+    df1 = df1.rename(columns={'level_0': 'grupo_etario'})
+    df1[datacol] = df1[datacol].apply(modify_dates)
+    df1[datacol] = "2020" + '-' + df1[datacol]
+    df1 = df1[df1.total.notnull()]
+    df1['data'] = pd.to_datetime(df1[datacol])
+    df1['total'] = df1['total'].astype(int)
+    return df1[['data', 'grupo_etario', 'total']], filename
+
+
+def preprocess_location(data):
+    filename = "mortalidade_local_2020.csv"
+    df1 = data
+    datacol = get_data_col(df1)
+    df1 = df1.set_index(datacol).unstack().to_frame('total').reset_index()
+    df1 = df1.rename(columns={'level_0': 'local'})
+    df1[datacol] = df1[datacol].apply(modify_dates)
+    df1[datacol] = "2020" + '-' + df1[datacol]
+    df1 = df1[df1.total.notnull()]
+    df1['data'] = pd.to_datetime(df1[datacol])
+    df1['total'] = df1['total'].astype(int)
+    return df1[['data', 'local', 'total']], filename
 
 
 def preprocess_global(data):
