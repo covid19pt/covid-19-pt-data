@@ -241,6 +241,7 @@ data,local,total
 2020-08-27,Desconhecido,0
 2020-08-28,Desconhecido,2
 2020-08-29,Desconhecido,0
+2020-08-30,Desconhecido,0
 2020-01-01,Na Instituic?o de Saude,218
 2020-01-02,Na Instituic?o de Saude,233
 2020-01-03,Na Instituic?o de Saude,227
@@ -452,7 +453,7 @@ data,local,total
 2020-07-27,Na Instituic?o de Saude,201
 2020-07-28,Na Instituic?o de Saude,199
 2020-07-29,Na Instituic?o de Saude,187
-2020-07-30,Na Instituic?o de Saude,218
+2020-07-30,Na Instituic?o de Saude,219
 2020-07-31,Na Instituic?o de Saude,202
 2020-08-01,Na Instituic?o de Saude,188
 2020-08-02,Na Instituic?o de Saude,171
@@ -482,7 +483,8 @@ data,local,total
 2020-08-26,Na Instituic?o de Saude,199
 2020-08-27,Na Instituic?o de Saude,180
 2020-08-28,Na Instituic?o de Saude,177
-2020-08-29,Na Instituic?o de Saude,167
+2020-08-29,Na Instituic?o de Saude,168
+2020-08-30,Na Instituic?o de Saude,148
 2020-01-01,No domicilio,114
 2020-01-02,No domicilio,103
 2020-01-03,No domicilio,105
@@ -724,7 +726,8 @@ data,local,total
 2020-08-26,No domicilio,63
 2020-08-27,No domicilio,68
 2020-08-28,No domicilio,68
-2020-08-29,No domicilio,44
+2020-08-29,No domicilio,49
+2020-08-30,No domicilio,43
 2020-01-01,Outro local,39
 2020-01-02,Outro local,45
 2020-01-03,Outro local,41
@@ -963,7 +966,8 @@ data,local,total
 2020-08-23,Outro local,45
 2020-08-24,Outro local,44
 2020-08-25,Outro local,38
-2020-08-26,Outro local,39
-2020-08-27,Outro local,46
+2020-08-26,Outro local,40
+2020-08-27,Outro local,47
 2020-08-28,Outro local,37
-2020-08-29,Outro local,28
+2020-08-29,Outro local,30
+2020-08-30,Outro local,51
