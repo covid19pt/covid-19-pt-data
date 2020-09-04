@@ -245,6 +245,7 @@ data,local,total
 2020-08-31,Desconhecido,1
 2020-09-01,Desconhecido,0
 2020-09-02,Desconhecido,0
+2020-09-03,Desconhecido,0
 2020-01-01,Na Instituic?o de Saude,218
 2020-01-02,Na Instituic?o de Saude,233
 2020-01-03,Na Instituic?o de Saude,227
@@ -458,7 +459,7 @@ data,local,total
 2020-07-29,Na Instituic?o de Saude,187
 2020-07-30,Na Instituic?o de Saude,218
 2020-07-31,Na Instituic?o de Saude,202
-2020-08-01,Na Instituic?o de Saude,188
+2020-08-01,Na Instituic?o de Saude,189
 2020-08-02,Na Instituic?o de Saude,171
 2020-08-03,Na Instituic?o de Saude,187
 2020-08-04,Na Instituic?o de Saude,165
@@ -488,9 +489,10 @@ data,local,total
 2020-08-28,Na Instituic?o de Saude,186
 2020-08-29,Na Instituic?o de Saude,179
 2020-08-30,Na Instituic?o de Saude,167
-2020-08-31,Na Instituic?o de Saude,162
-2020-09-01,Na Instituic?o de Saude,171
-2020-09-02,Na Instituic?o de Saude,166
+2020-08-31,Na Instituic?o de Saude,163
+2020-09-01,Na Instituic?o de Saude,176
+2020-09-02,Na Instituic?o de Saude,164
+2020-09-03,Na Instituic?o de Saude,164
 2020-01-01,No domicilio,114
 2020-01-02,No domicilio,103
 2020-01-03,No domicilio,105
@@ -523,7 +525,7 @@ data,local,total
 2020-01-30,No domicilio,99
 2020-01-31,No domicilio,97
 2020-02-01,No domicilio,99
-2020-02-02,No domicilio,104
+2020-02-02,No domicilio,103
 2020-02-03,No domicilio,103
 2020-02-04,No domicilio,78
 2020-02-05,No domicilio,96
@@ -731,12 +733,13 @@ data,local,total
 2020-08-25,No domicilio,81
 2020-08-26,No domicilio,64
 2020-08-27,No domicilio,70
-2020-08-28,No domicilio,80
-2020-08-29,No domicilio,60
-2020-08-30,No domicilio,54
-2020-08-31,No domicilio,53
-2020-09-01,No domicilio,54
-2020-09-02,No domicilio,57
+2020-08-28,No domicilio,81
+2020-08-29,No domicilio,61
+2020-08-30,No domicilio,55
+2020-08-31,No domicilio,56
+2020-09-01,No domicilio,59
+2020-09-02,No domicilio,61
+2020-09-03,No domicilio,62
 2020-01-01,Outro local,39
 2020-01-02,Outro local,45
 2020-01-03,Outro local,41
@@ -978,8 +981,9 @@ data,local,total
 2020-08-26,Outro local,41
 2020-08-27,Outro local,50
 2020-08-28,Outro local,41
-2020-08-29,Outro local,35
-2020-08-30,Outro local,57
-2020-08-31,Outro local,34
-2020-09-01,Outro local,60
-2020-09-02,Outro local,38
+2020-08-29,Outro local,36
+2020-08-30,Outro local,58
+2020-08-31,Outro local,37
+2020-09-01,Outro local,62
+2020-09-02,Outro local,40
+2020-09-03,Outro local,34
