@@ -255,6 +255,7 @@ data,local,total
 2020-09-10,Desconhecido,0
 2020-09-11,Desconhecido,0
 2020-09-12,Desconhecido,0
+2020-09-13,Desconhecido,1
 2020-01-01,Na Instituic?o de Saude,218
 2020-01-02,Na Instituic?o de Saude,233
 2020-01-03,Na Instituic?o de Saude,227
@@ -511,6 +512,7 @@ data,local,total
 2020-09-10,Na Instituic?o de Saude,202
 2020-09-11,Na Instituic?o de Saude,187
 2020-09-12,Na Instituic?o de Saude,199
+2020-09-13,Na Instituic?o de Saude,173
 2020-01-01,No domicilio,114
 2020-01-02,No domicilio,103
 2020-01-03,No domicilio,105
@@ -765,8 +767,9 @@ data,local,total
 2020-09-08,No domicilio,67
 2020-09-09,No domicilio,63
 2020-09-10,No domicilio,60
-2020-09-11,No domicilio,64
+2020-09-11,No domicilio,65
 2020-09-12,No domicilio,56
+2020-09-13,No domicilio,60
 2020-01-01,Outro local,39
 2020-01-02,Outro local,45
 2020-01-03,Outro local,41
@@ -1023,3 +1026,4 @@ data,local,total
 2020-09-10,Outro local,43
 2020-09-11,Outro local,40
 2020-09-12,Outro local,43
+2020-09-13,Outro local,29
