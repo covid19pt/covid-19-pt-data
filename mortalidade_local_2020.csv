@@ -279,6 +279,7 @@ data,local,total
 2020-10-04,Desconhecido,2
 2020-10-05,Desconhecido,1
 2020-10-06,Desconhecido,1
+2020-10-07,Desconhecido,0
 2020-01-01,Na Instituic?o de Saude,218
 2020-01-02,Na Instituic?o de Saude,233
 2020-01-03,Na Instituic?o de Saude,227
@@ -550,15 +551,16 @@ data,local,total
 2020-09-25,Na Instituic?o de Saude,177
 2020-09-26,Na Instituic?o de Saude,167
 2020-09-27,Na Instituic?o de Saude,166
-2020-09-28,Na Instituic?o de Saude,190
+2020-09-28,Na Instituic?o de Saude,191
 2020-09-29,Na Instituic?o de Saude,188
-2020-09-30,Na Instituic?o de Saude,203
+2020-09-30,Na Instituic?o de Saude,204
 2020-10-01,Na Instituic?o de Saude,183
-2020-10-02,Na Instituic?o de Saude,192
+2020-10-02,Na Instituic?o de Saude,196
 2020-10-03,Na Instituic?o de Saude,181
 2020-10-04,Na Instituic?o de Saude,184
-2020-10-05,Na Instituic?o de Saude,193
-2020-10-06,Na Instituic?o de Saude,181
+2020-10-05,Na Instituic?o de Saude,197
+2020-10-06,Na Instituic?o de Saude,191
+2020-10-07,Na Instituic?o de Saude,180
 2020-01-01,No domicilio,114
 2020-01-02,No domicilio,103
 2020-01-03,No domicilio,105
@@ -833,12 +835,13 @@ data,local,total
 2020-09-28,No domicilio,87
 2020-09-29,No domicilio,73
 2020-09-30,No domicilio,71
-2020-10-01,No domicilio,61
-2020-10-02,No domicilio,62
-2020-10-03,No domicilio,78
-2020-10-04,No domicilio,50
-2020-10-05,No domicilio,66
-2020-10-06,No domicilio,65
+2020-10-01,No domicilio,62
+2020-10-02,No domicilio,66
+2020-10-03,No domicilio,82
+2020-10-04,No domicilio,52
+2020-10-05,No domicilio,74
+2020-10-06,No domicilio,75
+2020-10-07,No domicilio,56
 2020-01-01,Outro local,39
 2020-01-02,Outro local,45
 2020-01-03,Outro local,41
@@ -1113,9 +1116,10 @@ data,local,total
 2020-09-28,Outro local,41
 2020-09-29,Outro local,32
 2020-09-30,Outro local,49
-2020-10-01,Outro local,41
+2020-10-01,Outro local,42
 2020-10-02,Outro local,45
-2020-10-03,Outro local,34
-2020-10-04,Outro local,48
+2020-10-03,Outro local,36
+2020-10-04,Outro local,50
 2020-10-05,Outro local,42
-2020-10-06,Outro local,40
+2020-10-06,Outro local,42
+2020-10-07,Outro local,46
