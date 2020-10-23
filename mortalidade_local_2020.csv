@@ -286,14 +286,15 @@ data,local,total
 2020-10-11,Desconhecido,1
 2020-10-12,Desconhecido,1
 2020-10-13,Desconhecido,2
-2020-10-14,Desconhecido,3
+2020-10-14,Desconhecido,2
 2020-10-15,Desconhecido,1
 2020-10-16,Desconhecido,0
 2020-10-17,Desconhecido,0
 2020-10-18,Desconhecido,3
 2020-10-19,Desconhecido,0
-2020-10-20,Desconhecido,1
+2020-10-20,Desconhecido,0
 2020-10-21,Desconhecido,0
+2020-10-22,Desconhecido,2
 2020-01-01,Na Instituic?o de Saude,218
 2020-01-02,Na Instituic?o de Saude,233
 2020-01-03,Na Instituic?o de Saude,227
@@ -583,12 +584,13 @@ data,local,total
 2020-10-13,Na Instituic?o de Saude,176
 2020-10-14,Na Instituic?o de Saude,184
 2020-10-15,Na Instituic?o de Saude,214
-2020-10-16,Na Instituic?o de Saude,188
+2020-10-16,Na Instituic?o de Saude,189
 2020-10-17,Na Instituic?o de Saude,213
-2020-10-18,Na Instituic?o de Saude,185
-2020-10-19,Na Instituic?o de Saude,175
-2020-10-20,Na Instituic?o de Saude,196
-2020-10-21,Na Instituic?o de Saude,151
+2020-10-18,Na Instituic?o de Saude,186
+2020-10-19,Na Instituic?o de Saude,177
+2020-10-20,Na Instituic?o de Saude,198
+2020-10-21,Na Instituic?o de Saude,153
+2020-10-22,Na Instituic?o de Saude,187
 2020-01-01,No domicilio,114
 2020-01-02,No domicilio,103
 2020-01-03,No domicilio,105
@@ -870,20 +872,21 @@ data,local,total
 2020-10-05,No domicilio,77
 2020-10-06,No domicilio,82
 2020-10-07,No domicilio,69
-2020-10-08,No domicilio,83
+2020-10-08,No domicilio,84
 2020-10-09,No domicilio,57
 2020-10-10,No domicilio,63
 2020-10-11,No domicilio,48
 2020-10-12,No domicilio,76
 2020-10-13,No domicilio,75
 2020-10-14,No domicilio,73
-2020-10-15,No domicilio,81
-2020-10-16,No domicilio,83
-2020-10-17,No domicilio,67
-2020-10-18,No domicilio,84
+2020-10-15,No domicilio,82
+2020-10-16,No domicilio,84
+2020-10-17,No domicilio,68
+2020-10-18,No domicilio,85
 2020-10-19,No domicilio,83
-2020-10-20,No domicilio,66
-2020-10-21,No domicilio,82
+2020-10-20,No domicilio,70
+2020-10-21,No domicilio,88
+2020-10-22,No domicilio,65
 2020-01-01,Outro local,39
 2020-01-02,Outro local,45
 2020-01-03,Outro local,41
@@ -1171,11 +1174,12 @@ data,local,total
 2020-10-11,Outro local,44
 2020-10-12,Outro local,47
 2020-10-13,Outro local,53
-2020-10-14,Outro local,52
-2020-10-15,Outro local,29
+2020-10-14,Outro local,53
+2020-10-15,Outro local,30
 2020-10-16,Outro local,37
 2020-10-17,Outro local,49
 2020-10-18,Outro local,32
-2020-10-19,Outro local,54
-2020-10-20,Outro local,50
-2020-10-21,Outro local,40
+2020-10-19,Outro local,55
+2020-10-20,Outro local,51
+2020-10-21,Outro local,44
+2020-10-22,Outro local,46
