@@ -300,6 +300,7 @@ data,local,total
 2020-10-25,Desconhecido,3
 2020-10-26,Desconhecido,1
 2020-10-27,Desconhecido,0
+2020-10-28,Desconhecido,1
 2020-01-01,Na Instituic?o de Saude,218
 2020-01-02,Na Instituic?o de Saude,233
 2020-01-03,Na Instituic?o de Saude,227
@@ -591,16 +592,17 @@ data,local,total
 2020-10-15,Na Instituic?o de Saude,215
 2020-10-16,Na Instituic?o de Saude,188
 2020-10-17,Na Instituic?o de Saude,213
-2020-10-18,Na Instituic?o de Saude,187
+2020-10-18,Na Instituic?o de Saude,189
 2020-10-19,Na Instituic?o de Saude,177
 2020-10-20,Na Instituic?o de Saude,201
 2020-10-21,Na Instituic?o de Saude,153
-2020-10-22,Na Instituic?o de Saude,200
-2020-10-23,Na Instituic?o de Saude,179
-2020-10-24,Na Instituic?o de Saude,197
-2020-10-25,Na Instituic?o de Saude,215
-2020-10-26,Na Instituic?o de Saude,171
-2020-10-27,Na Instituic?o de Saude,193
+2020-10-22,Na Instituic?o de Saude,199
+2020-10-23,Na Instituic?o de Saude,182
+2020-10-24,Na Instituic?o de Saude,198
+2020-10-25,Na Instituic?o de Saude,216
+2020-10-26,Na Instituic?o de Saude,174
+2020-10-27,Na Instituic?o de Saude,197
+2020-10-28,Na Instituic?o de Saude,209
 2020-01-01,No domicilio,114
 2020-01-02,No domicilio,103
 2020-01-03,No domicilio,105
@@ -895,13 +897,14 @@ data,local,total
 2020-10-18,No domicilio,86
 2020-10-19,No domicilio,83
 2020-10-20,No domicilio,75
-2020-10-21,No domicilio,93
+2020-10-21,No domicilio,94
 2020-10-22,No domicilio,79
 2020-10-23,No domicilio,66
-2020-10-24,No domicilio,56
-2020-10-25,No domicilio,86
-2020-10-26,No domicilio,79
-2020-10-27,No domicilio,76
+2020-10-24,No domicilio,60
+2020-10-25,No domicilio,89
+2020-10-26,No domicilio,82
+2020-10-27,No domicilio,80
+2020-10-28,No domicilio,63
 2020-01-01,Outro local,39
 2020-01-02,Outro local,45
 2020-01-03,Outro local,41
@@ -1197,9 +1200,10 @@ data,local,total
 2020-10-19,Outro local,55
 2020-10-20,Outro local,54
 2020-10-21,Outro local,45
-2020-10-22,Outro local,51
-2020-10-23,Outro local,41
-2020-10-24,Outro local,36
-2020-10-25,Outro local,52
-2020-10-26,Outro local,48
+2020-10-22,Outro local,52
+2020-10-23,Outro local,44
+2020-10-24,Outro local,39
+2020-10-25,Outro local,53
+2020-10-26,Outro local,49
 2020-10-27,Outro local,39
+2020-10-28,Outro local,38
