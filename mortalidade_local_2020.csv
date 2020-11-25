@@ -327,6 +327,7 @@ data,local,total
 2020-11-21,Desconhecido,0
 2020-11-22,Desconhecido,0
 2020-11-23,Desconhecido,1
+2020-11-24,Desconhecido,3
 2020-01-01,Na Instituic?o de Saude,218
 2020-01-02,Na Instituic?o de Saude,233
 2020-01-03,Na Instituic?o de Saude,227
@@ -642,7 +643,7 @@ data,local,total
 2020-11-08,Na Instituic?o de Saude,241
 2020-11-09,Na Instituic?o de Saude,254
 2020-11-10,Na Instituic?o de Saude,238
-2020-11-11,Na Instituic?o de Saude,248
+2020-11-11,Na Instituic?o de Saude,247
 2020-11-12,Na Instituic?o de Saude,209
 2020-11-13,Na Instituic?o de Saude,251
 2020-11-14,Na Instituic?o de Saude,222
@@ -650,11 +651,12 @@ data,local,total
 2020-11-16,Na Instituic?o de Saude,252
 2020-11-17,Na Instituic?o de Saude,251
 2020-11-18,Na Instituic?o de Saude,297
-2020-11-19,Na Instituic?o de Saude,216
-2020-11-20,Na Instituic?o de Saude,239
-2020-11-21,Na Instituic?o de Saude,233
-2020-11-22,Na Instituic?o de Saude,240
-2020-11-23,Na Instituic?o de Saude,247
+2020-11-19,Na Instituic?o de Saude,217
+2020-11-20,Na Instituic?o de Saude,242
+2020-11-21,Na Instituic?o de Saude,236
+2020-11-22,Na Instituic?o de Saude,242
+2020-11-23,Na Instituic?o de Saude,249
+2020-11-24,Na Instituic?o de Saude,223
 2020-01-01,No domicilio,114
 2020-01-02,No domicilio,103
 2020-01-03,No domicilio,105
@@ -977,12 +979,13 @@ data,local,total
 2020-11-15,No domicilio,94
 2020-11-16,No domicilio,99
 2020-11-17,No domicilio,88
-2020-11-18,No domicilio,76
+2020-11-18,No domicilio,77
 2020-11-19,No domicilio,77
-2020-11-20,No domicilio,83
-2020-11-21,No domicilio,78
-2020-11-22,No domicilio,70
-2020-11-23,No domicilio,88
+2020-11-20,No domicilio,84
+2020-11-21,No domicilio,86
+2020-11-22,No domicilio,73
+2020-11-23,No domicilio,102
+2020-11-24,No domicilio,74
 2020-01-01,Outro local,39
 2020-01-02,Outro local,45
 2020-01-03,Outro local,41
@@ -1306,8 +1309,9 @@ data,local,total
 2020-11-16,Outro local,46
 2020-11-17,Outro local,50
 2020-11-18,Outro local,46
-2020-11-19,Outro local,56
-2020-11-20,Outro local,54
-2020-11-21,Outro local,51
-2020-11-22,Outro local,48
-2020-11-23,Outro local,56
+2020-11-19,Outro local,57
+2020-11-20,Outro local,59
+2020-11-21,Outro local,54
+2020-11-22,Outro local,50
+2020-11-23,Outro local,62
+2020-11-24,Outro local,47
