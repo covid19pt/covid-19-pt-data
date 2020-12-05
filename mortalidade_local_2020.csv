@@ -327,15 +327,17 @@ data,local,total
 2020-11-21,Desconhecido,0
 2020-11-22,Desconhecido,0
 2020-11-23,Desconhecido,2
-2020-11-24,Desconhecido,3
+2020-11-24,Desconhecido,2
 2020-11-25,Desconhecido,1
 2020-11-26,Desconhecido,0
 2020-11-27,Desconhecido,1
 2020-11-28,Desconhecido,1
 2020-11-29,Desconhecido,0
-2020-11-30,Desconhecido,1
+2020-11-30,Desconhecido,3
 2020-12-01,Desconhecido,1
-2020-12-02,Desconhecido,1
+2020-12-02,Desconhecido,2
+2020-12-03,Desconhecido,1
+2020-12-04,Desconhecido,2
 2020-01-01,Na Instituic?o de Saude,218
 2020-01-02,Na Instituic?o de Saude,233
 2020-01-03,Na Instituic?o de Saude,227
@@ -628,7 +630,7 @@ data,local,total
 2020-10-16,Na Instituic?o de Saude,188
 2020-10-17,Na Instituic?o de Saude,213
 2020-10-18,Na Instituic?o de Saude,188
-2020-10-19,Na Instituic?o de Saude,178
+2020-10-19,Na Instituic?o de Saude,177
 2020-10-20,Na Instituic?o de Saude,200
 2020-10-21,Na Instituic?o de Saude,153
 2020-10-22,Na Instituic?o de Saude,199
@@ -643,36 +645,38 @@ data,local,total
 2020-10-31,Na Instituic?o de Saude,246
 2020-11-01,Na Instituic?o de Saude,215
 2020-11-02,Na Instituic?o de Saude,226
-2020-11-03,Na Instituic?o de Saude,230
-2020-11-04,Na Instituic?o de Saude,256
+2020-11-03,Na Instituic?o de Saude,231
+2020-11-04,Na Instituic?o de Saude,257
 2020-11-05,Na Instituic?o de Saude,211
 2020-11-06,Na Instituic?o de Saude,224
 2020-11-07,Na Instituic?o de Saude,224
 2020-11-08,Na Instituic?o de Saude,241
 2020-11-09,Na Instituic?o de Saude,254
 2020-11-10,Na Instituic?o de Saude,238
-2020-11-11,Na Instituic?o de Saude,249
+2020-11-11,Na Instituic?o de Saude,247
 2020-11-12,Na Instituic?o de Saude,209
 2020-11-13,Na Instituic?o de Saude,251
-2020-11-14,Na Instituic?o de Saude,222
+2020-11-14,Na Instituic?o de Saude,223
 2020-11-15,Na Instituic?o de Saude,290
 2020-11-16,Na Instituic?o de Saude,252
 2020-11-17,Na Instituic?o de Saude,251
 2020-11-18,Na Instituic?o de Saude,298
-2020-11-19,Na Instituic?o de Saude,217
+2020-11-19,Na Instituic?o de Saude,218
 2020-11-20,Na Instituic?o de Saude,243
 2020-11-21,Na Instituic?o de Saude,238
 2020-11-22,Na Instituic?o de Saude,245
 2020-11-23,Na Instituic?o de Saude,251
-2020-11-24,Na Instituic?o de Saude,224
+2020-11-24,Na Instituic?o de Saude,225
 2020-11-25,Na Instituic?o de Saude,233
-2020-11-26,Na Instituic?o de Saude,227
-2020-11-27,Na Instituic?o de Saude,255
-2020-11-28,Na Instituic?o de Saude,223
-2020-11-29,Na Instituic?o de Saude,226
-2020-11-30,Na Instituic?o de Saude,236
-2020-12-01,Na Instituic?o de Saude,267
-2020-12-02,Na Instituic?o de Saude,235
+2020-11-26,Na Instituic?o de Saude,228
+2020-11-27,Na Instituic?o de Saude,257
+2020-11-28,Na Instituic?o de Saude,226
+2020-11-29,Na Instituic?o de Saude,233
+2020-11-30,Na Instituic?o de Saude,240
+2020-12-01,Na Instituic?o de Saude,272
+2020-12-02,Na Instituic?o de Saude,245
+2020-12-03,Na Instituic?o de Saude,255
+2020-12-04,Na Instituic?o de Saude,248
 2020-01-01,No domicilio,114
 2020-01-02,No domicilio,103
 2020-01-03,No domicilio,105
@@ -1000,16 +1004,18 @@ data,local,total
 2020-11-20,No domicilio,87
 2020-11-21,No domicilio,88
 2020-11-22,No domicilio,76
-2020-11-23,No domicilio,102
+2020-11-23,No domicilio,103
 2020-11-24,No domicilio,88
 2020-11-25,No domicilio,96
 2020-11-26,No domicilio,99
-2020-11-27,No domicilio,97
+2020-11-27,No domicilio,99
 2020-11-28,No domicilio,77
-2020-11-29,No domicilio,96
-2020-11-30,No domicilio,86
-2020-12-01,No domicilio,80
-2020-12-02,No domicilio,74
+2020-11-29,No domicilio,100
+2020-11-30,No domicilio,93
+2020-12-01,No domicilio,86
+2020-12-02,No domicilio,85
+2020-12-03,No domicilio,85
+2020-12-04,No domicilio,83
 2020-01-01,Outro local,39
 2020-01-02,Outro local,45
 2020-01-03,Outro local,41
@@ -1293,7 +1299,7 @@ data,local,total
 2020-10-07,Outro local,49
 2020-10-08,Outro local,49
 2020-10-09,Outro local,55
-2020-10-10,Outro local,49
+2020-10-10,Outro local,50
 2020-10-11,Outro local,44
 2020-10-12,Outro local,47
 2020-10-13,Outro local,53
@@ -1341,9 +1347,11 @@ data,local,total
 2020-11-24,Outro local,50
 2020-11-25,Outro local,51
 2020-11-26,Outro local,53
-2020-11-27,Outro local,46
-2020-11-28,Outro local,51
-2020-11-29,Outro local,55
-2020-11-30,Outro local,55
-2020-12-01,Outro local,49
-2020-12-02,Outro local,45
+2020-11-27,Outro local,47
+2020-11-28,Outro local,53
+2020-11-29,Outro local,56
+2020-11-30,Outro local,59
+2020-12-01,Outro local,52
+2020-12-02,Outro local,49
+2020-12-03,Outro local,50
+2020-12-04,Outro local,46
