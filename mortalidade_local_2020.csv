@@ -348,6 +348,7 @@ data,local,total
 2020-12-12,Desconhecido,1
 2020-12-13,Desconhecido,1
 2020-12-14,Desconhecido,1
+2020-12-15,Desconhecido,1
 2020-01-01,Na Instituic?o de Saude,218
 2020-01-02,Na Instituic?o de Saude,233
 2020-01-03,Na Instituic?o de Saude,227
@@ -656,7 +657,7 @@ data,local,total
 2020-11-01,Na Instituic?o de Saude,215
 2020-11-02,Na Instituic?o de Saude,226
 2020-11-03,Na Instituic?o de Saude,230
-2020-11-04,Na Instituic?o de Saude,257
+2020-11-04,Na Instituic?o de Saude,256
 2020-11-05,Na Instituic?o de Saude,211
 2020-11-06,Na Instituic?o de Saude,224
 2020-11-07,Na Instituic?o de Saude,224
@@ -666,7 +667,7 @@ data,local,total
 2020-11-11,Na Instituic?o de Saude,246
 2020-11-12,Na Instituic?o de Saude,209
 2020-11-13,Na Instituic?o de Saude,251
-2020-11-14,Na Instituic?o de Saude,224
+2020-11-14,Na Instituic?o de Saude,223
 2020-11-15,Na Instituic?o de Saude,290
 2020-11-16,Na Instituic?o de Saude,252
 2020-11-17,Na Instituic?o de Saude,251
@@ -686,17 +687,18 @@ data,local,total
 2020-12-01,Na Instituic?o de Saude,273
 2020-12-02,Na Instituic?o de Saude,246
 2020-12-03,Na Instituic?o de Saude,263
-2020-12-04,Na Instituic?o de Saude,256
+2020-12-04,Na Instituic?o de Saude,257
 2020-12-05,Na Instituic?o de Saude,259
 2020-12-06,Na Instituic?o de Saude,264
 2020-12-07,Na Instituic?o de Saude,243
-2020-12-08,Na Instituic?o de Saude,253
+2020-12-08,Na Instituic?o de Saude,254
 2020-12-09,Na Instituic?o de Saude,266
-2020-12-10,Na Instituic?o de Saude,289
-2020-12-11,Na Instituic?o de Saude,282
-2020-12-12,Na Instituic?o de Saude,280
-2020-12-13,Na Instituic?o de Saude,296
-2020-12-14,Na Instituic?o de Saude,283
+2020-12-10,Na Instituic?o de Saude,291
+2020-12-11,Na Instituic?o de Saude,292
+2020-12-12,Na Instituic?o de Saude,285
+2020-12-13,Na Instituic?o de Saude,297
+2020-12-14,Na Instituic?o de Saude,290
+2020-12-15,Na Instituic?o de Saude,265
 2020-01-01,No domicilio,114
 2020-01-02,No domicilio,103
 2020-01-03,No domicilio,105
@@ -1012,7 +1014,7 @@ data,local,total
 2020-11-08,No domicilio,90
 2020-11-09,No domicilio,108
 2020-11-10,No domicilio,94
-2020-11-11,No domicilio,77
+2020-11-11,No domicilio,76
 2020-11-12,No domicilio,90
 2020-11-13,No domicilio,82
 2020-11-14,No domicilio,90
@@ -1024,7 +1026,7 @@ data,local,total
 2020-11-20,No domicilio,87
 2020-11-21,No domicilio,88
 2020-11-22,No domicilio,76
-2020-11-23,No domicilio,103
+2020-11-23,No domicilio,104
 2020-11-24,No domicilio,88
 2020-11-25,No domicilio,95
 2020-11-26,No domicilio,100
@@ -1036,16 +1038,17 @@ data,local,total
 2020-12-02,No domicilio,89
 2020-12-03,No domicilio,95
 2020-12-04,No domicilio,100
-2020-12-05,No domicilio,104
+2020-12-05,No domicilio,105
 2020-12-06,No domicilio,95
 2020-12-07,No domicilio,96
 2020-12-08,No domicilio,79
 2020-12-09,No domicilio,100
-2020-12-10,No domicilio,96
-2020-12-11,No domicilio,91
-2020-12-12,No domicilio,79
-2020-12-13,No domicilio,81
-2020-12-14,No domicilio,80
+2020-12-10,No domicilio,97
+2020-12-11,No domicilio,99
+2020-12-12,No domicilio,82
+2020-12-13,No domicilio,87
+2020-12-14,No domicilio,94
+2020-12-15,No domicilio,71
 2020-01-01,Outro local,39
 2020-01-02,Outro local,45
 2020-01-03,Outro local,41
@@ -1324,7 +1327,7 @@ data,local,total
 2020-10-02,Outro local,46
 2020-10-03,Outro local,36
 2020-10-04,Outro local,53
-2020-10-05,Outro local,44
+2020-10-05,Outro local,46
 2020-10-06,Outro local,45
 2020-10-07,Outro local,49
 2020-10-08,Outro local,49
@@ -1389,9 +1392,10 @@ data,local,total
 2020-12-06,Outro local,46
 2020-12-07,Outro local,68
 2020-12-08,Outro local,54
-2020-12-09,Outro local,59
+2020-12-09,Outro local,60
 2020-12-10,Outro local,59
-2020-12-11,Outro local,54
-2020-12-12,Outro local,58
-2020-12-13,Outro local,56
-2020-12-14,Outro local,65
+2020-12-11,Outro local,56
+2020-12-12,Outro local,61
+2020-12-13,Outro local,57
+2020-12-14,Outro local,68
+2020-12-15,Outro local,59
