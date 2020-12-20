@@ -345,13 +345,14 @@ data,local,total
 2020-12-09,Desconhecido,4
 2020-12-10,Desconhecido,2
 2020-12-11,Desconhecido,1
-2020-12-12,Desconhecido,1
+2020-12-12,Desconhecido,2
 2020-12-13,Desconhecido,1
 2020-12-14,Desconhecido,1
-2020-12-15,Desconhecido,2
+2020-12-15,Desconhecido,1
 2020-12-16,Desconhecido,0
 2020-12-17,Desconhecido,0
 2020-12-18,Desconhecido,0
+2020-12-19,Desconhecido,0
 2020-01-01,Na Instituic?o de Saude,218
 2020-01-02,Na Instituic?o de Saude,233
 2020-01-03,Na Instituic?o de Saude,227
@@ -696,7 +697,7 @@ data,local,total
 2020-12-07,Na Instituic?o de Saude,243
 2020-12-08,Na Instituic?o de Saude,254
 2020-12-09,Na Instituic?o de Saude,267
-2020-12-10,Na Instituic?o de Saude,292
+2020-12-10,Na Instituic?o de Saude,293
 2020-12-11,Na Instituic?o de Saude,294
 2020-12-12,Na Instituic?o de Saude,288
 2020-12-13,Na Instituic?o de Saude,298
@@ -704,7 +705,8 @@ data,local,total
 2020-12-15,Na Instituic?o de Saude,270
 2020-12-16,Na Instituic?o de Saude,275
 2020-12-17,Na Instituic?o de Saude,251
-2020-12-18,Na Instituic?o de Saude,255
+2020-12-18,Na Instituic?o de Saude,256
+2020-12-19,Na Instituic?o de Saude,240
 2020-01-01,No domicilio,114
 2020-01-02,No domicilio,103
 2020-01-03,No domicilio,105
@@ -1054,10 +1056,11 @@ data,local,total
 2020-12-12,No domicilio,85
 2020-12-13,No domicilio,96
 2020-12-14,No domicilio,104
-2020-12-15,No domicilio,75
-2020-12-16,No domicilio,76
+2020-12-15,No domicilio,76
+2020-12-16,No domicilio,78
 2020-12-17,No domicilio,92
-2020-12-18,No domicilio,78
+2020-12-18,No domicilio,82
+2020-12-19,No domicilio,91
 2020-01-01,Outro local,39
 2020-01-02,Outro local,45
 2020-01-03,Outro local,41
@@ -1402,7 +1405,7 @@ data,local,total
 2020-12-07,Outro local,68
 2020-12-08,Outro local,54
 2020-12-09,Outro local,60
-2020-12-10,Outro local,60
+2020-12-10,Outro local,61
 2020-12-11,Outro local,58
 2020-12-12,Outro local,62
 2020-12-13,Outro local,58
@@ -1411,3 +1414,4 @@ data,local,total
 2020-12-16,Outro local,42
 2020-12-17,Outro local,47
 2020-12-18,Outro local,58
+2020-12-19,Outro local,45
