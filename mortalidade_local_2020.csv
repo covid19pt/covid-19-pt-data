@@ -358,6 +358,9 @@ data,local,total
 2020-12-22,Desconhecido,0
 2020-12-23,Desconhecido,0
 2020-12-24,Desconhecido,1
+2020-12-25,Desconhecido,2
+2020-12-26,Desconhecido,1
+2020-12-27,Desconhecido,1
 2020-01-01,Na Instituic?o de Saude,218
 2020-01-02,Na Instituic?o de Saude,233
 2020-01-03,Na Instituic?o de Saude,227
@@ -567,7 +570,7 @@ data,local,total
 2020-07-25,Na Instituic?o de Saude,201
 2020-07-26,Na Instituic?o de Saude,171
 2020-07-27,Na Instituic?o de Saude,201
-2020-07-28,Na Instituic?o de Saude,199
+2020-07-28,Na Instituic?o de Saude,200
 2020-07-29,Na Instituic?o de Saude,187
 2020-07-30,Na Instituic?o de Saude,218
 2020-07-31,Na Instituic?o de Saude,202
@@ -687,7 +690,7 @@ data,local,total
 2020-11-22,Na Instituic?o de Saude,246
 2020-11-23,Na Instituic?o de Saude,251
 2020-11-24,Na Instituic?o de Saude,226
-2020-11-25,Na Instituic?o de Saude,233
+2020-11-25,Na Instituic?o de Saude,234
 2020-11-26,Na Instituic?o de Saude,227
 2020-11-27,Na Instituic?o de Saude,258
 2020-11-28,Na Instituic?o de Saude,226
@@ -711,12 +714,15 @@ data,local,total
 2020-12-16,Na Instituic?o de Saude,275
 2020-12-17,Na Instituic?o de Saude,253
 2020-12-18,Na Instituic?o de Saude,259
-2020-12-19,Na Instituic?o de Saude,252
+2020-12-19,Na Instituic?o de Saude,254
 2020-12-20,Na Instituic?o de Saude,255
-2020-12-21,Na Instituic?o de Saude,249
+2020-12-21,Na Instituic?o de Saude,250
 2020-12-22,Na Instituic?o de Saude,264
 2020-12-23,Na Instituic?o de Saude,247
-2020-12-24,Na Instituic?o de Saude,179
+2020-12-24,Na Instituic?o de Saude,213
+2020-12-25,Na Instituic?o de Saude,247
+2020-12-26,Na Instituic?o de Saude,223
+2020-12-27,Na Instituic?o de Saude,225
 2020-01-01,No domicilio,114
 2020-01-02,No domicilio,103
 2020-01-03,No domicilio,105
@@ -1069,13 +1075,16 @@ data,local,total
 2020-12-15,No domicilio,76
 2020-12-16,No domicilio,79
 2020-12-17,No domicilio,101
-2020-12-18,No domicilio,92
-2020-12-19,No domicilio,112
-2020-12-20,No domicilio,92
+2020-12-18,No domicilio,93
+2020-12-19,No domicilio,113
+2020-12-20,No domicilio,95
 2020-12-21,No domicilio,91
-2020-12-22,No domicilio,83
-2020-12-23,No domicilio,100
-2020-12-24,No domicilio,67
+2020-12-22,No domicilio,84
+2020-12-23,No domicilio,103
+2020-12-24,No domicilio,80
+2020-12-25,No domicilio,80
+2020-12-26,No domicilio,94
+2020-12-27,No domicilio,79
 2020-01-01,Outro local,39
 2020-01-02,Outro local,45
 2020-01-03,Outro local,41
@@ -1434,4 +1443,7 @@ data,local,total
 2020-12-21,Outro local,57
 2020-12-22,Outro local,60
 2020-12-23,Outro local,52
-2020-12-24,Outro local,31
+2020-12-24,Outro local,35
+2020-12-25,Outro local,52
+2020-12-26,Outro local,48
+2020-12-27,Outro local,58
