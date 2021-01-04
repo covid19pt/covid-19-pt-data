@@ -730,7 +730,7 @@ data,Distrito,Óbitos
 2020-12-28,Beja,6
 2020-12-29,Beja,11
 2020-12-30,Beja,12
-2020-12-31,Beja,8
+2020-12-31,Beja,9
 2020-01-01,Braga,30
 2020-01-02,Braga,28
 2020-01-03,Braga,23
@@ -2194,7 +2194,7 @@ data,Distrito,Óbitos
 2020-12-28,Coimbra,18
 2020-12-29,Coimbra,18
 2020-12-30,Coimbra,20
-2020-12-31,Coimbra,20
+2020-12-31,Coimbra,21
 2020-01-01,Desconhecido,3
 2020-01-02,Desconhecido,1
 2020-01-03,Desconhecido,0
@@ -8050,7 +8050,7 @@ data,Distrito,Óbitos
 2020-12-28,Leiria,24
 2020-12-29,Leiria,18
 2020-12-30,Leiria,27
-2020-12-31,Leiria,11
+2020-12-31,Leiria,12
 2020-01-01,Lisboa,62
 2020-01-02,Lisboa,76
 2020-01-03,Lisboa,71
@@ -8416,7 +8416,7 @@ data,Distrito,Óbitos
 2020-12-28,Lisboa,108
 2020-12-29,Lisboa,87
 2020-12-30,Lisboa,69
-2020-12-31,Lisboa,74
+2020-12-31,Lisboa,75
 2020-01-01,Portalegre,6
 2020-01-02,Portalegre,2
 2020-01-03,Portalegre,6
@@ -9148,7 +9148,7 @@ data,Distrito,Óbitos
 2020-12-28,Porto,62
 2020-12-29,Porto,73
 2020-12-30,Porto,78
-2020-12-31,Porto,65
+2020-12-31,Porto,66
 2020-01-01,Santarém,20
 2020-01-02,Santarém,23
 2020-01-03,Santarém,16
@@ -9880,7 +9880,7 @@ data,Distrito,Óbitos
 2020-12-28,Setúbal,36
 2020-12-29,Setúbal,33
 2020-12-30,Setúbal,28
-2020-12-31,Setúbal,32
+2020-12-31,Setúbal,33
 2020-01-01,Viana do Castelo,11
 2020-01-02,Viana do Castelo,11
 2020-01-03,Viana do Castelo,11
@@ -10978,7 +10978,7 @@ data,Distrito,Óbitos
 2020-12-28,Viseu,21
 2020-12-29,Viseu,17
 2020-12-30,Viseu,20
-2020-12-31,Viseu,20
+2020-12-31,Viseu,21
 2020-01-01,Évora,8
 2020-01-02,Évora,5
 2020-01-03,Évora,4

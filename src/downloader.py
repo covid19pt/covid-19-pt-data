@@ -2,6 +2,7 @@
 Script to convert the downloaded data from DGS
 """
 
+import re
 import sys
 import datetime
 import argparse
@@ -20,13 +21,14 @@ def modify_dates(txt):
 
 
 def preprocess(datapath):
+    year = extract_year(datapath.name)
     data = pd.read_csv(datapath)
     if "Distrito" in data.columns:
-        return preprocess_districts(data)
+        return preprocess_districts(data, year)
     elif "1-4 anos" in data.columns:
-        return preprocess_age_group(data)
+        return preprocess_age_group(data, year)
     elif "No domicilio" in data.columns:
-        return preprocess_location(data)
+        return preprocess_location(data, year)
     else:
         return preprocess_global(data)
 
@@ -37,12 +39,13 @@ def get_data_col(df):
             return name
 
 
-def preprocess_districts(df):
-    filename = "mortalidade_distritos_2020.csv"
+def preprocess_districts(df, year):
+    assert year >= 2020 and year <= 2030
+    filename = f"mortalidade_distritos_{year}.csv"
     previous = pd.read_csv(Path(BASEPATH).expanduser() / filename, parse_dates=["data"])
     datacol = get_data_col(df)
     df[datacol] = df[datacol].apply(modify_dates)
-    df[datacol] = "2020" + '-' + df[datacol]
+    df[datacol] = str(year) + '-' + df[datacol]
     df["data"] = pd.to_datetime(df[datacol])
     df = df[["data", "Distrito", "Óbitos"]]
     # if some date was removed from previous, keep that date (this happens sometimes 
@@ -58,28 +61,30 @@ def preprocess_districts(df):
     return df, filename
 
 
-def preprocess_age_group(data):
-    filename = "mortalidade_grupo_etario_2020.csv"
+def preprocess_age_group(data, year):
+    assert year >= 2020 and year <= 2030
+    filename = f"mortalidade_grupo_etario_{year}.csv"
     df1 = data
     datacol = get_data_col(df1)
     df1 = df1.set_index(datacol).unstack().to_frame('total').reset_index()
     df1 = df1.rename(columns={'level_0': 'grupo_etario'})
     df1[datacol] = df1[datacol].apply(modify_dates)
-    df1[datacol] = "2020" + '-' + df1[datacol]
+    df1[datacol] = str(year) + '-' + df1[datacol]
     df1 = df1[df1.total.notnull()]
     df1['data'] = pd.to_datetime(df1[datacol])
     df1['total'] = df1['total'].astype(int)
     return df1[['data', 'grupo_etario', 'total']], filename
 
 
-def preprocess_location(data):
-    filename = "mortalidade_local_2020.csv"
+def preprocess_location(data, year):
+    assert year >= 2020 and year <= 2030
+    filename = f"mortalidade_local_{year}.csv"
     df1 = data
     datacol = get_data_col(df1)
     df1 = df1.set_index(datacol).unstack().to_frame('total').reset_index()
     df1 = df1.rename(columns={'level_0': 'local'})
     df1[datacol] = df1[datacol].apply(modify_dates)
-    df1[datacol] = "2020" + '-' + df1[datacol]
+    df1[datacol] = str(year) + '-' + df1[datacol]
     df1 = df1[df1.total.notnull()]
     df1['data'] = pd.to_datetime(df1[datacol])
     df1['total'] = df1['total'].astype(int)
@@ -99,6 +104,11 @@ def preprocess_global(data):
     df1['total'] = df1['total'].astype(int)
     return df1[['data', 'total']], filename
 
+def extract_year(filename):
+    mobj = re.search(r"Dados_SICO_(202\d)", filename)
+    if mobj:
+        return int(mobj.groups()[0])
+    return 0
 
 def search_download(include_today=False):
     dpaths = list(Path('~/Downloads').expanduser().glob('Dados_SICO_*.csv'))
