@@ -14,11 +14,12 @@ data,local,total
 2021-01-13,Desconhecido,1
 2021-01-14,Desconhecido,3
 2021-01-15,Desconhecido,2
-2021-01-16,Desconhecido,4
-2021-01-17,Desconhecido,2
-2021-01-18,Desconhecido,0
-2021-01-01,Na Instituic?o de Saude,288
-2021-01-02,Na Instituic?o de Saude,260
+2021-01-16,Desconhecido,5
+2021-01-17,Desconhecido,3
+2021-01-18,Desconhecido,1
+2021-01-19,Desconhecido,2
+2021-01-01,Na Instituic?o de Saude,289
+2021-01-02,Na Instituic?o de Saude,259
 2021-01-03,Na Instituic?o de Saude,301
 2021-01-04,Na Instituic?o de Saude,291
 2021-01-05,Na Instituic?o de Saude,328
@@ -27,34 +28,36 @@ data,local,total
 2021-01-08,Na Instituic?o de Saude,369
 2021-01-09,Na Instituic?o de Saude,357
 2021-01-10,Na Instituic?o de Saude,365
-2021-01-11,Na Instituic?o de Saude,407
+2021-01-11,Na Instituic?o de Saude,408
 2021-01-12,Na Instituic?o de Saude,442
 2021-01-13,Na Instituic?o de Saude,387
 2021-01-14,Na Instituic?o de Saude,424
-2021-01-15,Na Instituic?o de Saude,433
-2021-01-16,Na Instituic?o de Saude,399
-2021-01-17,Na Instituic?o de Saude,381
-2021-01-18,Na Instituic?o de Saude,426
+2021-01-15,Na Instituic?o de Saude,440
+2021-01-16,Na Instituic?o de Saude,402
+2021-01-17,Na Instituic?o de Saude,387
+2021-01-18,Na Instituic?o de Saude,428
+2021-01-19,Na Instituic?o de Saude,448
 2021-01-01,No domicilio,119
 2021-01-02,No domicilio,100
 2021-01-03,No domicilio,93
 2021-01-04,No domicilio,130
 2021-01-05,No domicilio,121
-2021-01-06,No domicilio,128
+2021-01-06,No domicilio,129
 2021-01-07,No domicilio,131
 2021-01-08,No domicilio,112
 2021-01-09,No domicilio,123
 2021-01-10,No domicilio,162
-2021-01-11,No domicilio,173
+2021-01-11,No domicilio,174
 2021-01-12,No domicilio,139
-2021-01-13,No domicilio,144
-2021-01-14,No domicilio,144
-2021-01-15,No domicilio,147
-2021-01-16,No domicilio,147
-2021-01-17,No domicilio,134
-2021-01-18,No domicilio,116
+2021-01-13,No domicilio,146
+2021-01-14,No domicilio,149
+2021-01-15,No domicilio,157
+2021-01-16,No domicilio,154
+2021-01-17,No domicilio,147
+2021-01-18,No domicilio,136
+2021-01-19,No domicilio,128
 2021-01-01,Outro local,55
-2021-01-02,Outro local,64
+2021-01-02,Outro local,65
 2021-01-03,Outro local,67
 2021-01-04,Outro local,57
 2021-01-05,Outro local,69
@@ -66,8 +69,9 @@ data,local,total
 2021-01-11,Outro local,81
 2021-01-12,Outro local,80
 2021-01-13,Outro local,79
-2021-01-14,Outro local,89
-2021-01-15,Outro local,79
-2021-01-16,Outro local,87
-2021-01-17,Outro local,94
-2021-01-18,Outro local,75
+2021-01-14,Outro local,90
+2021-01-15,Outro local,82
+2021-01-16,Outro local,90
+2021-01-17,Outro local,98
+2021-01-18,Outro local,81
+2021-01-19,Outro local,72
