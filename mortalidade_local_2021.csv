@@ -29,6 +29,7 @@ data,local,total
 2021-01-28,Desconhecido,2
 2021-01-29,Desconhecido,1
 2021-01-30,Desconhecido,0
+2021-01-31,Desconhecido,1
 2021-01-01,Na Instituic?o de Saude,288
 2021-01-02,Na Instituic?o de Saude,259
 2021-01-03,Na Instituic?o de Saude,301
@@ -58,7 +59,8 @@ data,local,total
 2021-01-27,Na Instituic?o de Saude,456
 2021-01-28,Na Instituic?o de Saude,445
 2021-01-29,Na Instituic?o de Saude,391
-2021-01-30,Na Instituic?o de Saude,450
+2021-01-30,Na Instituic?o de Saude,451
+2021-01-31,Na Instituic?o de Saude,419
 2021-01-01,No domicilio,119
 2021-01-02,No domicilio,100
 2021-01-03,No domicilio,93
@@ -88,7 +90,8 @@ data,local,total
 2021-01-27,No domicilio,149
 2021-01-28,No domicilio,126
 2021-01-29,No domicilio,125
-2021-01-30,No domicilio,108
+2021-01-30,No domicilio,114
+2021-01-31,No domicilio,114
 2021-01-01,Outro local,55
 2021-01-02,Outro local,65
 2021-01-03,Outro local,67
@@ -118,4 +121,5 @@ data,local,total
 2021-01-27,Outro local,107
 2021-01-28,Outro local,99
 2021-01-29,Outro local,91
-2021-01-30,Outro local,77
+2021-01-30,Outro local,80
+2021-01-31,Outro local,70
