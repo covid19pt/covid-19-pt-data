@@ -35,8 +35,9 @@ data,local,total
 2021-02-03,Desconhecido,1
 2021-02-04,Desconhecido,1
 2021-02-05,Desconhecido,0
-2021-02-06,Desconhecido,1
+2021-02-06,Desconhecido,0
 2021-02-07,Desconhecido,1
+2021-02-08,Desconhecido,2
 2021-01-01,Na Instituic?o de Saude,289
 2021-01-02,Na Instituic?o de Saude,259
 2021-01-03,Na Instituic?o de Saude,301
@@ -73,8 +74,9 @@ data,local,total
 2021-02-03,Na Instituic?o de Saude,379
 2021-02-04,Na Instituic?o de Saude,368
 2021-02-05,Na Instituic?o de Saude,348
-2021-02-06,Na Instituic?o de Saude,332
-2021-02-07,Na Instituic?o de Saude,353
+2021-02-06,Na Instituic?o de Saude,0
+2021-02-07,Na Instituic?o de Saude,355
+2021-02-08,Na Instituic?o de Saude,335
 2021-01-01,No domicilio,119
 2021-01-02,No domicilio,101
 2021-01-03,No domicilio,93
@@ -111,8 +113,9 @@ data,local,total
 2021-02-03,No domicilio,134
 2021-02-04,No domicilio,106
 2021-02-05,No domicilio,99
-2021-02-06,No domicilio,84
-2021-02-07,No domicilio,77
+2021-02-06,No domicilio,0
+2021-02-07,No domicilio,82
+2021-02-08,No domicilio,71
 2021-01-01,Outro local,55
 2021-01-02,Outro local,65
 2021-01-03,Outro local,68
@@ -149,5 +152,6 @@ data,local,total
 2021-02-03,Outro local,86
 2021-02-04,Outro local,95
 2021-02-05,Outro local,72
-2021-02-06,Outro local,67
-2021-02-07,Outro local,66
+2021-02-06,Outro local,0
+2021-02-07,Outro local,67
+2021-02-08,Outro local,53
