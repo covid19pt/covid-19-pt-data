@@ -35,11 +35,12 @@ data,local,total
 2021-02-03,Desconhecido,1
 2021-02-04,Desconhecido,2
 2021-02-05,Desconhecido,0
-2021-02-06,Desconhecido,3
+2021-02-06,Desconhecido,4
 2021-02-07,Desconhecido,1
-2021-02-08,Desconhecido,3
+2021-02-08,Desconhecido,4
 2021-02-09,Desconhecido,2
 2021-02-10,Desconhecido,2
+2021-02-11,Desconhecido,1
 2021-01-01,Na Instituic?o de Saude,289
 2021-01-02,Na Instituic?o de Saude,259
 2021-01-03,Na Instituic?o de Saude,301
@@ -75,12 +76,13 @@ data,local,total
 2021-02-02,Na Instituic?o de Saude,403
 2021-02-03,Na Instituic?o de Saude,380
 2021-02-04,Na Instituic?o de Saude,371
-2021-02-05,Na Instituic?o de Saude,355
-2021-02-06,Na Instituic?o de Saude,337
+2021-02-05,Na Instituic?o de Saude,357
+2021-02-06,Na Instituic?o de Saude,338
 2021-02-07,Na Instituic?o de Saude,357
-2021-02-08,Na Instituic?o de Saude,350
+2021-02-08,Na Instituic?o de Saude,351
 2021-02-09,Na Instituic?o de Saude,336
 2021-02-10,Na Instituic?o de Saude,346
+2021-02-11,Na Instituic?o de Saude,313
 2021-01-01,No domicilio,119
 2021-01-02,No domicilio,101
 2021-01-03,No domicilio,93
@@ -110,18 +112,19 @@ data,local,total
 2021-01-27,No domicilio,152
 2021-01-28,No domicilio,131
 2021-01-29,No domicilio,139
-2021-01-30,No domicilio,139
+2021-01-30,No domicilio,140
 2021-01-31,No domicilio,138
 2021-02-01,No domicilio,144
-2021-02-02,No domicilio,124
+2021-02-02,No domicilio,125
 2021-02-03,No domicilio,136
 2021-02-04,No domicilio,112
 2021-02-05,No domicilio,115
-2021-02-06,No domicilio,91
-2021-02-07,No domicilio,87
-2021-02-08,No domicilio,99
+2021-02-06,No domicilio,92
+2021-02-07,No domicilio,89
+2021-02-08,No domicilio,100
 2021-02-09,No domicilio,100
-2021-02-10,No domicilio,91
+2021-02-10,No domicilio,93
+2021-02-11,No domicilio,95
 2021-01-01,Outro local,55
 2021-01-02,Outro local,65
 2021-01-03,Outro local,68
@@ -132,7 +135,7 @@ data,local,total
 2021-01-08,Outro local,81
 2021-01-09,Outro local,66
 2021-01-10,Outro local,77
-2021-01-11,Outro local,82
+2021-01-11,Outro local,83
 2021-01-12,Outro local,81
 2021-01-13,Outro local,79
 2021-01-14,Outro local,91
@@ -159,7 +162,8 @@ data,local,total
 2021-02-04,Outro local,95
 2021-02-05,Outro local,78
 2021-02-06,Outro local,69
-2021-02-07,Outro local,68
-2021-02-08,Outro local,61
+2021-02-07,Outro local,69
+2021-02-08,Outro local,62
 2021-02-09,Outro local,75
-2021-02-10,Outro local,54
+2021-02-10,Outro local,55
+2021-02-11,Outro local,61
