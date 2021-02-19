@@ -40,13 +40,14 @@ data,local,total
 2021-02-08,Desconhecido,4
 2021-02-09,Desconhecido,2
 2021-02-10,Desconhecido,1
-2021-02-11,Desconhecido,2
+2021-02-11,Desconhecido,3
 2021-02-12,Desconhecido,1
 2021-02-13,Desconhecido,2
 2021-02-14,Desconhecido,2
 2021-02-15,Desconhecido,1
 2021-02-16,Desconhecido,2
 2021-02-17,Desconhecido,1
+2021-02-18,Desconhecido,3
 2021-01-01,Na Instituic?o de Saude,289
 2021-01-02,Na Instituic?o de Saude,259
 2021-01-03,Na Instituic?o de Saude,301
@@ -55,7 +56,7 @@ data,local,total
 2021-01-06,Na Instituic?o de Saude,371
 2021-01-07,Na Instituic?o de Saude,341
 2021-01-08,Na Instituic?o de Saude,370
-2021-01-09,Na Instituic?o de Saude,358
+2021-01-09,Na Instituic?o de Saude,357
 2021-01-10,Na Instituic?o de Saude,366
 2021-01-11,Na Instituic?o de Saude,408
 2021-01-12,Na Instituic?o de Saude,442
@@ -82,26 +83,27 @@ data,local,total
 2021-02-02,Na Instituic?o de Saude,401
 2021-02-03,Na Instituic?o de Saude,381
 2021-02-04,Na Instituic?o de Saude,371
-2021-02-05,Na Instituic?o de Saude,358
+2021-02-05,Na Instituic?o de Saude,359
 2021-02-06,Na Instituic?o de Saude,339
 2021-02-07,Na Instituic?o de Saude,357
 2021-02-08,Na Instituic?o de Saude,354
-2021-02-09,Na Instituic?o de Saude,338
+2021-02-09,Na Instituic?o de Saude,339
 2021-02-10,Na Instituic?o de Saude,348
 2021-02-11,Na Instituic?o de Saude,326
 2021-02-12,Na Instituic?o de Saude,308
 2021-02-13,Na Instituic?o de Saude,300
-2021-02-14,Na Instituic?o de Saude,259
+2021-02-14,Na Instituic?o de Saude,260
 2021-02-15,Na Instituic?o de Saude,266
 2021-02-16,Na Instituic?o de Saude,317
-2021-02-17,Na Instituic?o de Saude,284
+2021-02-17,Na Instituic?o de Saude,285
+2021-02-18,Na Instituic?o de Saude,233
 2021-01-01,No domicilio,119
 2021-01-02,No domicilio,101
 2021-01-03,No domicilio,93
 2021-01-04,No domicilio,130
 2021-01-05,No domicilio,121
 2021-01-06,No domicilio,129
-2021-01-07,No domicilio,132
+2021-01-07,No domicilio,131
 2021-01-08,No domicilio,112
 2021-01-09,No domicilio,123
 2021-01-10,No domicilio,163
@@ -139,17 +141,18 @@ data,local,total
 2021-02-11,No domicilio,109
 2021-02-12,No domicilio,102
 2021-02-13,No domicilio,86
-2021-02-14,No domicilio,84
-2021-02-15,No domicilio,90
+2021-02-14,No domicilio,85
+2021-02-15,No domicilio,91
 2021-02-16,No domicilio,87
-2021-02-17,No domicilio,83
+2021-02-17,No domicilio,85
+2021-02-18,No domicilio,70
 2021-01-01,Outro local,55
 2021-01-02,Outro local,65
 2021-01-03,Outro local,68
 2021-01-04,Outro local,58
 2021-01-05,Outro local,69
 2021-01-06,Outro local,59
-2021-01-07,Outro local,72
+2021-01-07,Outro local,73
 2021-01-08,Outro local,81
 2021-01-09,Outro local,66
 2021-01-10,Outro local,77
@@ -190,4 +193,5 @@ data,local,total
 2021-02-14,Outro local,51
 2021-02-15,Outro local,67
 2021-02-16,Outro local,57
-2021-02-17,Outro local,59
+2021-02-17,Outro local,60
+2021-02-18,Outro local,46
