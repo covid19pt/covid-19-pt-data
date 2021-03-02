@@ -24,7 +24,7 @@ data,Distrito,Óbitos
 2021-01-23,Aveiro,33
 2021-01-24,Aveiro,48
 2021-01-25,Aveiro,34
-2021-01-26,Aveiro,56
+2021-01-26,Aveiro,55
 2021-01-27,Aveiro,43
 2021-01-28,Aveiro,36
 2021-01-29,Aveiro,37
@@ -54,10 +54,11 @@ data,Distrito,Óbitos
 2021-02-22,Aveiro,22
 2021-02-23,Aveiro,25
 2021-02-24,Aveiro,17
-2021-02-25,Aveiro,26
+2021-02-25,Aveiro,27
 2021-02-26,Aveiro,19
 2021-02-27,Aveiro,20
-2021-02-28,Aveiro,24
+2021-02-28,Aveiro,26
+2021-03-01,Aveiro,16
 2021-01-01,Beja,11
 2021-01-02,Beja,16
 2021-01-03,Beja,15
@@ -116,11 +117,12 @@ data,Distrito,Óbitos
 2021-02-25,Beja,8
 2021-02-26,Beja,9
 2021-02-27,Beja,6
-2021-02-28,Beja,6
+2021-02-28,Beja,8
+2021-03-01,Beja,7
 2021-01-01,Braga,34
 2021-01-02,Braga,22
 2021-01-03,Braga,30
-2021-01-04,Braga,31
+2021-01-04,Braga,32
 2021-01-05,Braga,37
 2021-01-06,Braga,27
 2021-01-07,Braga,39
@@ -173,9 +175,10 @@ data,Distrito,Óbitos
 2021-02-23,Braga,17
 2021-02-24,Braga,22
 2021-02-25,Braga,20
-2021-02-26,Braga,12
+2021-02-26,Braga,13
 2021-02-27,Braga,20
 2021-02-28,Braga,15
+2021-03-01,Braga,22
 2021-01-01,Bragança,11
 2021-01-02,Bragança,5
 2021-01-03,Bragança,5
@@ -235,6 +238,7 @@ data,Distrito,Óbitos
 2021-02-26,Bragança,6
 2021-02-27,Bragança,5
 2021-02-28,Bragança,3
+2021-03-01,Bragança,6
 2021-01-01,Castelo Branco,14
 2021-01-02,Castelo Branco,9
 2021-01-03,Castelo Branco,14
@@ -293,7 +297,8 @@ data,Distrito,Óbitos
 2021-02-25,Castelo Branco,9
 2021-02-26,Castelo Branco,10
 2021-02-27,Castelo Branco,10
-2021-02-28,Castelo Branco,8
+2021-02-28,Castelo Branco,9
+2021-03-01,Castelo Branco,8
 2021-01-01,Coimbra,21
 2021-01-02,Coimbra,17
 2021-01-03,Coimbra,29
@@ -348,11 +353,12 @@ data,Distrito,Óbitos
 2021-02-21,Coimbra,22
 2021-02-22,Coimbra,16
 2021-02-23,Coimbra,25
-2021-02-24,Coimbra,8
+2021-02-24,Coimbra,9
 2021-02-25,Coimbra,19
 2021-02-26,Coimbra,19
-2021-02-27,Coimbra,17
-2021-02-28,Coimbra,18
+2021-02-27,Coimbra,18
+2021-02-28,Coimbra,19
+2021-03-01,Coimbra,20
 2021-01-01,Desconhecido,1
 2021-01-02,Desconhecido,0
 2021-01-03,Desconhecido,0
@@ -406,12 +412,13 @@ data,Distrito,Óbitos
 2021-02-20,Desconhecido,0
 2021-02-21,Desconhecido,0
 2021-02-22,Desconhecido,0
-2021-02-23,Desconhecido,2
+2021-02-23,Desconhecido,1
 2021-02-24,Desconhecido,1
-2021-02-25,Desconhecido,3
-2021-02-26,Desconhecido,4
-2021-02-27,Desconhecido,2
-2021-02-28,Desconhecido,3
+2021-02-25,Desconhecido,2
+2021-02-26,Desconhecido,1
+2021-02-27,Desconhecido,1
+2021-02-28,Desconhecido,2
+2021-03-01,Desconhecido,1
 2021-01-01,Estrangeiro,2
 2021-01-02,Estrangeiro,2
 2021-01-03,Estrangeiro,1
@@ -471,6 +478,7 @@ data,Distrito,Óbitos
 2021-02-26,Estrangeiro,0
 2021-02-27,Estrangeiro,1
 2021-02-28,Estrangeiro,0
+2021-03-01,Estrangeiro,2
 2021-01-01,Faro,19
 2021-01-02,Faro,20
 2021-01-03,Faro,18
@@ -524,12 +532,13 @@ data,Distrito,Óbitos
 2021-02-20,Faro,10
 2021-02-21,Faro,14
 2021-02-22,Faro,12
-2021-02-23,Faro,19
-2021-02-24,Faro,19
-2021-02-25,Faro,8
+2021-02-23,Faro,20
+2021-02-24,Faro,20
+2021-02-25,Faro,10
 2021-02-26,Faro,17
 2021-02-27,Faro,11
 2021-02-28,Faro,18
+2021-03-01,Faro,10
 2021-01-01,Guarda,6
 2021-01-02,Guarda,9
 2021-01-03,Guarda,9
@@ -588,7 +597,8 @@ data,Distrito,Óbitos
 2021-02-25,Guarda,7
 2021-02-26,Guarda,12
 2021-02-27,Guarda,7
-2021-02-28,Guarda,11
+2021-02-28,Guarda,12
+2021-03-01,Guarda,5
 2021-01-01,Ilha Terceira,1
 2021-01-02,Ilha Terceira,2
 2021-01-03,Ilha Terceira,0
@@ -647,7 +657,8 @@ data,Distrito,Óbitos
 2021-02-25,Ilha Terceira,2
 2021-02-26,Ilha Terceira,6
 2021-02-27,Ilha Terceira,3
-2021-02-28,Ilha Terceira,0
+2021-02-28,Ilha Terceira,1
+2021-03-01,Ilha Terceira,0
 2021-01-01,Ilha da Graciosa,0
 2021-01-02,Ilha da Graciosa,0
 2021-01-03,Ilha da Graciosa,0
@@ -707,7 +718,8 @@ data,Distrito,Óbitos
 2021-02-26,Ilha da Graciosa,0
 2021-02-27,Ilha da Graciosa,0
 2021-02-28,Ilha da Graciosa,0
-2021-01-01,Ilha da Madeira,6
+2021-03-01,Ilha da Graciosa,0
+2021-01-01,Ilha da Madeira,7
 2021-01-02,Ilha da Madeira,7
 2021-01-03,Ilha da Madeira,6
 2021-01-04,Ilha da Madeira,7
@@ -766,6 +778,7 @@ data,Distrito,Óbitos
 2021-02-26,Ilha da Madeira,12
 2021-02-27,Ilha da Madeira,8
 2021-02-28,Ilha da Madeira,5
+2021-03-01,Ilha da Madeira,10
 2021-01-01,Ilha das Flores,0
 2021-01-02,Ilha das Flores,0
 2021-01-03,Ilha das Flores,0
@@ -825,6 +838,7 @@ data,Distrito,Óbitos
 2021-02-26,Ilha das Flores,0
 2021-02-27,Ilha das Flores,0
 2021-02-28,Ilha das Flores,1
+2021-03-01,Ilha das Flores,0
 2021-01-01,Ilha de Porto Santo,0
 2021-01-02,Ilha de Porto Santo,1
 2021-01-03,Ilha de Porto Santo,0
@@ -884,6 +898,7 @@ data,Distrito,Óbitos
 2021-02-26,Ilha de Porto Santo,0
 2021-02-27,Ilha de Porto Santo,1
 2021-02-28,Ilha de Porto Santo,0
+2021-03-01,Ilha de Porto Santo,1
 2021-01-01,Ilha de Santa Maria,0
 2021-01-02,Ilha de Santa Maria,0
 2021-01-03,Ilha de Santa Maria,0
@@ -943,6 +958,7 @@ data,Distrito,Óbitos
 2021-02-26,Ilha de Santa Maria,0
 2021-02-27,Ilha de Santa Maria,1
 2021-02-28,Ilha de Santa Maria,0
+2021-03-01,Ilha de Santa Maria,1
 2021-01-01,Ilha de São Jorge,0
 2021-01-02,Ilha de São Jorge,0
 2021-01-03,Ilha de São Jorge,0
@@ -1002,6 +1018,7 @@ data,Distrito,Óbitos
 2021-02-26,Ilha de São Jorge,1
 2021-02-27,Ilha de São Jorge,1
 2021-02-28,Ilha de São Jorge,1
+2021-03-01,Ilha de São Jorge,0
 2021-01-01,Ilha de São Miguel,3
 2021-01-02,Ilha de São Miguel,6
 2021-01-03,Ilha de São Miguel,3
@@ -1061,6 +1078,7 @@ data,Distrito,Óbitos
 2021-02-26,Ilha de São Miguel,6
 2021-02-27,Ilha de São Miguel,2
 2021-02-28,Ilha de São Miguel,1
+2021-03-01,Ilha de São Miguel,4
 2021-01-01,Ilha do Corvo,1
 2021-01-02,Ilha do Corvo,0
 2021-01-03,Ilha do Corvo,0
@@ -1120,6 +1138,7 @@ data,Distrito,Óbitos
 2021-02-26,Ilha do Corvo,1
 2021-02-27,Ilha do Corvo,0
 2021-02-28,Ilha do Corvo,0
+2021-03-01,Ilha do Corvo,0
 2021-01-01,Ilha do Faial,2
 2021-01-02,Ilha do Faial,0
 2021-01-03,Ilha do Faial,1
@@ -1179,6 +1198,7 @@ data,Distrito,Óbitos
 2021-02-26,Ilha do Faial,1
 2021-02-27,Ilha do Faial,2
 2021-02-28,Ilha do Faial,3
+2021-03-01,Ilha do Faial,1
 2021-01-01,Ilha do Pico,0
 2021-01-02,Ilha do Pico,0
 2021-01-03,Ilha do Pico,0
@@ -1238,6 +1258,7 @@ data,Distrito,Óbitos
 2021-02-26,Ilha do Pico,1
 2021-02-27,Ilha do Pico,0
 2021-02-28,Ilha do Pico,0
+2021-03-01,Ilha do Pico,2
 2021-01-01,Leiria,30
 2021-01-02,Leiria,9
 2021-01-03,Leiria,26
@@ -1296,7 +1317,8 @@ data,Distrito,Óbitos
 2021-02-25,Leiria,13
 2021-02-26,Leiria,16
 2021-02-27,Leiria,14
-2021-02-28,Leiria,15
+2021-02-28,Leiria,16
+2021-03-01,Leiria,18
 2021-01-01,Lisboa,109
 2021-01-02,Lisboa,108
 2021-01-03,Lisboa,89
@@ -1350,12 +1372,13 @@ data,Distrito,Óbitos
 2021-02-20,Lisboa,84
 2021-02-21,Lisboa,83
 2021-02-22,Lisboa,79
-2021-02-23,Lisboa,81
-2021-02-24,Lisboa,85
-2021-02-25,Lisboa,81
-2021-02-26,Lisboa,62
+2021-02-23,Lisboa,82
+2021-02-24,Lisboa,86
+2021-02-25,Lisboa,82
+2021-02-26,Lisboa,67
 2021-02-27,Lisboa,69
-2021-02-28,Lisboa,64
+2021-02-28,Lisboa,71
+2021-03-01,Lisboa,61
 2021-01-01,Portalegre,6
 2021-01-02,Portalegre,8
 2021-01-03,Portalegre,6
@@ -1411,14 +1434,15 @@ data,Distrito,Óbitos
 2021-02-22,Portalegre,5
 2021-02-23,Portalegre,4
 2021-02-24,Portalegre,6
-2021-02-25,Portalegre,6
-2021-02-26,Portalegre,5
+2021-02-25,Portalegre,5
+2021-02-26,Portalegre,6
 2021-02-27,Portalegre,2
 2021-02-28,Portalegre,4
+2021-03-01,Portalegre,6
 2021-01-01,Porto,54
 2021-01-02,Porto,47
 2021-01-03,Porto,58
-2021-01-04,Porto,75
+2021-01-04,Porto,74
 2021-01-05,Porto,63
 2021-01-06,Porto,86
 2021-01-07,Porto,66
@@ -1470,10 +1494,11 @@ data,Distrito,Óbitos
 2021-02-22,Porto,42
 2021-02-23,Porto,48
 2021-02-24,Porto,46
-2021-02-25,Porto,48
-2021-02-26,Porto,41
-2021-02-27,Porto,41
-2021-02-28,Porto,42
+2021-02-25,Porto,49
+2021-02-26,Porto,43
+2021-02-27,Porto,43
+2021-02-28,Porto,43
+2021-03-01,Porto,49
 2021-01-01,Santarém,19
 2021-01-02,Santarém,17
 2021-01-03,Santarém,29
@@ -1532,7 +1557,8 @@ data,Distrito,Óbitos
 2021-02-25,Santarém,22
 2021-02-26,Santarém,22
 2021-02-27,Santarém,18
-2021-02-28,Santarém,23
+2021-02-28,Santarém,26
+2021-03-01,Santarém,13
 2021-01-01,Setúbal,38
 2021-01-02,Setúbal,35
 2021-01-03,Setúbal,43
@@ -1584,14 +1610,15 @@ data,Distrito,Óbitos
 2021-02-18,Setúbal,34
 2021-02-19,Setúbal,34
 2021-02-20,Setúbal,31
-2021-02-21,Setúbal,23
+2021-02-21,Setúbal,24
 2021-02-22,Setúbal,39
 2021-02-23,Setúbal,42
-2021-02-24,Setúbal,33
+2021-02-24,Setúbal,34
 2021-02-25,Setúbal,42
-2021-02-26,Setúbal,32
+2021-02-26,Setúbal,34
 2021-02-27,Setúbal,30
 2021-02-28,Setúbal,17
+2021-03-01,Setúbal,27
 2021-01-01,Viana do Castelo,11
 2021-01-02,Viana do Castelo,11
 2021-01-03,Viana do Castelo,9
@@ -1651,6 +1678,7 @@ data,Distrito,Óbitos
 2021-02-26,Viana do Castelo,9
 2021-02-27,Viana do Castelo,7
 2021-02-28,Viana do Castelo,6
+2021-03-01,Viana do Castelo,8
 2021-01-01,Vila Real,14
 2021-01-02,Vila Real,13
 2021-01-03,Vila Real,6
@@ -1710,6 +1738,7 @@ data,Distrito,Óbitos
 2021-02-26,Vila Real,5
 2021-02-27,Vila Real,6
 2021-02-28,Vila Real,7
+2021-03-01,Vila Real,7
 2021-01-01,Viseu,17
 2021-01-02,Viseu,17
 2021-01-03,Viseu,21
@@ -1766,9 +1795,10 @@ data,Distrito,Óbitos
 2021-02-23,Viseu,18
 2021-02-24,Viseu,19
 2021-02-25,Viseu,8
-2021-02-26,Viseu,23
+2021-02-26,Viseu,25
 2021-02-27,Viseu,15
 2021-02-28,Viseu,10
+2021-03-01,Viseu,6
 2021-01-01,Évora,12
 2021-01-02,Évora,7
 2021-01-03,Évora,15
@@ -1828,3 +1858,4 @@ data,Distrito,Óbitos
 2021-02-26,Évora,7
 2021-02-27,Évora,5
 2021-02-28,Évora,10
+2021-03-01,Évora,3
